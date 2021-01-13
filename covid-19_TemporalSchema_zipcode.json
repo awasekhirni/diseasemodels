@@ -1,0 +1,520 @@
+{
+	"temporal_frame": [
+		{
+			"timestamp": [
+				{
+					"guid": "",
+					"datetime": "",
+					"country": [
+						{
+							"country_guid": "",
+							"country_name": "",
+							"country_bounds": "",
+							"country_language": "",
+							"country_code": "",
+							"states": [
+								{
+									"state_guid": "",
+									"statename": "",
+									"state_bounds": "",
+									"state_code": "",
+									"postal_codes": [
+										{
+											"zipcode_guid": "",
+											"zipcode_name": "",
+											"zipcode": "",
+											"zipcode_gps": "",
+											"land_area_sqmi": "",
+											"water_area_sqmi": "",
+											"primary_city": "",
+											"county": "",
+											"medianhouseholdincome": "",
+											"zipcode_population": "",
+											"zipcode_popdensity_ppsm": "",
+											"environmental_parameters": {
+												"air_quality": "",
+												"windspeed": ""
+											},
+											"realestate": {
+												"property_withmortgage": "2,660",
+												"property_free_clear": "671",
+												"property_rented": "883",
+												"property_vacant": "309",
+												"studio": "0",
+												"1bedroom": "151",
+												"2bedroom": "201",
+												"3+bedroom": "482",
+												"forrent": "102",
+												"occupied": "6",
+												"forsale": "89",
+												"soldunoccupied": "10",
+												"seasonal": "10",
+												"migrantworkers": "0",
+												"other": "92"
+											},
+											"population": [
+												{}
+											],
+											"race": {
+												"white": "",
+												"africanamerican": "",
+												"asian": "",
+												"nativehawaiian_otherpacificislander": "",
+												"americanindian_alaskannative": "",
+												"other": "",
+												"mixed": ""
+											},
+											"employment": {},
+											"housingtype": {
+												"housingunit": "10,427",
+												"correctionalfacilityforadults": "0",
+												"nursing": "0",
+												"otherinstitutional": "0",
+												"college": "0",
+												"militaryquarters": "0",
+												"other": "0"
+											},
+											"qualification": {
+												"lessthanhighschool ": "716 ",
+												"highschool": "4,092",
+												"associatedegree": "702",
+												"bachelors": "962",
+												"masters": "293",
+												"professional": "56",
+												"phd": "52"
+											},
+											"school_enrollment": {
+												"schoolenrollement3-17_public": "1,199",
+												"schoolenrollment3-17_private": "296",
+												"schoolenrollment3-17_notenrolled": "110"
+											},
+											"schools": [
+												{
+													"schoolname": "",
+													"schoolurl": "",
+													"school_address": "",
+													"school_pop": "",
+													"school_staff": "",
+													"school_type": "",
+													"school_funding": ""
+												}
+											],
+											"nearby_zipcodes": [
+												{}
+											],
+											"companies": [
+												{
+													"company_name": "",
+													"type": "",
+													"no_employees": "",
+													"gps": ""
+												}
+											],
+											"hospitals": [
+												{
+													"hospital_name": "",
+													"hospital_url": "",
+													"hospital_address": "",
+													"hospital_beds": "",
+													"hospital_opd": "",
+													"hospital_doctors": "",
+													"hospital_nursingstaff": "",
+													"hospital_type": "",
+													"hospital_funding": ""
+												}
+											],
+											"water": {},
+											"air": {},
+											"soil": {}
+										}
+									]
+								}
+							]
+						},
+						{
+							"country_guid": "",
+							"country_name": "",
+							"country_bounds": "",
+							"country_language": "",
+							"country_code": "",
+							"states": [
+								{
+									"state_guid": "",
+									"statename": "",
+									"state_bounds": "",
+									"state_code": "",
+									"postal_codes": [
+										{
+											"zipcode_guid": "",
+											"zipcode_name": "",
+											"zipcode": "",
+											"zipcode_gps": "",
+											"land_area_sqmi": "",
+											"water_area_sqmi": "",
+											"primary_city": "",
+											"county": "",
+											"medianhouseholdincome": "",
+											"zipcode_population": "",
+											"zipcode_popdensity_ppsm": "",
+											"environmental_parameters": {
+												"air_quality": "",
+												"windspeed": ""
+											},
+											"realestate": {
+												"property_withmortgage": "2,660",
+												"property_free_clear": "671",
+												"property_rented": "883",
+												"property_vacant": "309",
+												"studio": "0",
+												"1bedroom": "151",
+												"2bedroom": "201",
+												"3+bedroom": "482",
+												"forrent": "102",
+												"occupied": "6",
+												"forsale": "89",
+												"soldunoccupied": "10",
+												"seasonal": "10",
+												"migrantworkers": "0",
+												"other": "92"
+											},
+											"population": [
+												{}
+											],
+											"race": {
+												"white": "",
+												"africanamerican": "",
+												"asian": "",
+												"nativehawaiian_otherpacificislander": "",
+												"americanindian_alaskannative": "",
+												"other": "",
+												"mixed": ""
+											},
+											"employment": {},
+											"housingtype": {
+												"housingunit": "10,427",
+												"correctionalfacilityforadults": "0",
+												"nursing": "0",
+												"otherinstitutional": "0",
+												"college": "0",
+												"militaryquarters": "0",
+												"other": "0"
+											},
+											"qualification": {
+												"lessthanhighschool ": "716 ",
+												"highschool": "4,092",
+												"associatedegree": "702",
+												"bachelors": "962",
+												"masters": "293",
+												"professional": "56",
+												"phd": "52"
+											},
+											"school_enrollment": {
+												"schoolenrollement3-17_public": "1,199",
+												"schoolenrollment3-17_private": "296",
+												"schoolenrollment3-17_notenrolled": "110"
+											},
+											"schools": [
+												{
+													"schoolname": "",
+													"schoolurl": "",
+													"school_address": "",
+													"school_pop": "",
+													"school_staff": "",
+													"school_type": "",
+													"school_funding": ""
+												}
+											],
+											"nearby_zipcodes": [
+												{}
+											],
+											"companies": [
+												{
+													"company_name": "",
+													"type": "",
+													"no_employees": "",
+													"gps": ""
+												}
+											],
+											"hospitals": [
+												{
+													"hospital_name": "",
+													"hospital_url": "",
+													"hospital_address": "",
+													"hospital_beds": "",
+													"hospital_opd": "",
+													"hospital_doctors": "",
+													"hospital_nursingstaff": "",
+													"hospital_type": "",
+													"hospital_funding": ""
+												}
+											],
+											"water": {},
+											"air": {},
+											"soil": {}
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"guid": "",
+					"datetime": "",
+					"country": [
+						{
+							"country_guid": "",
+							"country_name": "",
+							"country_bounds": "",
+							"country_language": "",
+							"country_code": "",
+							"states": [
+								{
+									"state_guid": "",
+									"statename": "",
+									"state_bounds": "",
+									"state_code": "",
+									"postal_codes": [
+										{
+											"zipcode_guid": "",
+											"zipcode_name": "",
+											"zipcode": "",
+											"zipcode_gps": "",
+											"land_area_sqmi": "",
+											"water_area_sqmi": "",
+											"primary_city": "",
+											"county": "",
+											"medianhouseholdincome": "",
+											"zipcode_population": "",
+											"zipcode_popdensity_ppsm": "",
+											"environmental_parameters": {
+												"air_quality": "",
+												"windspeed": ""
+											},
+											"realestate": {
+												"property_withmortgage": "2,660",
+												"property_free_clear": "671",
+												"property_rented": "883",
+												"property_vacant": "309",
+												"studio": "0",
+												"1bedroom": "151",
+												"2bedroom": "201",
+												"3+bedroom": "482",
+												"forrent": "102",
+												"occupied": "6",
+												"forsale": "89",
+												"soldunoccupied": "10",
+												"seasonal": "10",
+												"migrantworkers": "0",
+												"other": "92"
+											},
+											"population": [
+												{}
+											],
+											"race": {
+												"white": "",
+												"africanamerican": "",
+												"asian": "",
+												"nativehawaiian_otherpacificislander": "",
+												"americanindian_alaskannative": "",
+												"other": "",
+												"mixed": ""
+											},
+											"employment": {},
+											"housingtype": {
+												"housingunit": "10,427",
+												"correctionalfacilityforadults": "0",
+												"nursing": "0",
+												"otherinstitutional": "0",
+												"college": "0",
+												"militaryquarters": "0",
+												"other": "0"
+											},
+											"qualification": {
+												"lessthanhighschool ": "716 ",
+												"highschool": "4,092",
+												"associatedegree": "702",
+												"bachelors": "962",
+												"masters": "293",
+												"professional": "56",
+												"phd": "52"
+											},
+											"school_enrollment": {
+												"schoolenrollement3-17_public": "1,199",
+												"schoolenrollment3-17_private": "296",
+												"schoolenrollment3-17_notenrolled": "110"
+											},
+											"schools": [
+												{
+													"schoolname": "",
+													"schoolurl": "",
+													"school_address": "",
+													"school_pop": "",
+													"school_staff": "",
+													"school_type": "",
+													"school_funding": ""
+												}
+											],
+											"nearby_zipcodes": [
+												{}
+											],
+											"companies": [
+												{
+													"company_name": "",
+													"type": "",
+													"no_employees": "",
+													"gps": ""
+												}
+											],
+											"hospitals": [
+												{
+													"hospital_name": "",
+													"hospital_url": "",
+													"hospital_address": "",
+													"hospital_beds": "",
+													"hospital_opd": "",
+													"hospital_doctors": "",
+													"hospital_nursingstaff": "",
+													"hospital_type": "",
+													"hospital_funding": ""
+												}
+											],
+											"water": {},
+											"air": {},
+											"soil": {}
+										}
+									]
+								}
+							]
+						},
+						{
+							"country_guid": "",
+							"country_name": "",
+							"country_bounds": "",
+							"country_language": "",
+							"country_code": "",
+							"states": [
+								{
+									"state_guid": "",
+									"statename": "",
+									"state_bounds": "",
+									"state_code": "",
+									"postal_codes": [
+										{
+											"zipcode_guid": "",
+											"zipcode_name": "",
+											"zipcode": "",
+											"zipcode_gps": "",
+											"land_area_sqmi": "",
+											"water_area_sqmi": "",
+											"primary_city": "",
+											"county": "",
+											"medianhouseholdincome": "",
+											"zipcode_population": "",
+											"zipcode_popdensity_ppsm": "",
+											"environmental_parameters": {
+												"air_quality": "",
+												"windspeed": ""
+											},
+											"realestate": {
+												"property_withmortgage": "2,660",
+												"property_free_clear": "671",
+												"property_rented": "883",
+												"property_vacant": "309",
+												"studio": "0",
+												"1bedroom": "151",
+												"2bedroom": "201",
+												"3+bedroom": "482",
+												"forrent": "102",
+												"occupied": "6",
+												"forsale": "89",
+												"soldunoccupied": "10",
+												"seasonal": "10",
+												"migrantworkers": "0",
+												"other": "92"
+											},
+											"population": [
+												{}
+											],
+											"race": {
+												"white": "",
+												"africanamerican": "",
+												"asian": "",
+												"nativehawaiian_otherpacificislander": "",
+												"americanindian_alaskannative": "",
+												"other": "",
+												"mixed": ""
+											},
+											"employment": {},
+											"housingtype": {
+												"housingunit": "10,427",
+												"correctionalfacilityforadults": "0",
+												"nursing": "0",
+												"otherinstitutional": "0",
+												"college": "0",
+												"militaryquarters": "0",
+												"other": "0"
+											},
+											"qualification": {
+												"lessthanhighschool ": "716 ",
+												"highschool": "4,092",
+												"associatedegree": "702",
+												"bachelors": "962",
+												"masters": "293",
+												"professional": "56",
+												"phd": "52"
+											},
+											"school_enrollment": {
+												"schoolenrollement3-17_public": "1,199",
+												"schoolenrollment3-17_private": "296",
+												"schoolenrollment3-17_notenrolled": "110"
+											},
+											"schools": [
+												{
+													"schoolname": "",
+													"schoolurl": "",
+													"school_address": "",
+													"school_pop": "",
+													"school_staff": "",
+													"school_type": "",
+													"school_funding": ""
+												}
+											],
+											"nearby_zipcodes": [
+												{}
+											],
+											"companies": [
+												{
+													"company_name": "",
+													"type": "",
+													"no_employees": "",
+													"gps": ""
+												}
+											],
+											"hospitals": [
+												{
+													"hospital_name": "",
+													"hospital_url": "",
+													"hospital_address": "",
+													"hospital_beds": "",
+													"hospital_opd": "",
+													"hospital_doctors": "",
+													"hospital_nursingstaff": "",
+													"hospital_type": "",
+													"hospital_funding": ""
+												}
+											],
+											"water": {},
+											"air": {},
+											"soil": {}
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

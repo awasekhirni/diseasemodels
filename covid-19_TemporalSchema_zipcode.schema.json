@@ -1,0 +1,1984 @@
+
+
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "temporal_frame": {
+      "type": "array",
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "timestamp": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "object",
+                  "properties": {
+                    "guid": {
+                      "type": "string"
+                    },
+                    "datetime": {
+                      "type": "string"
+                    },
+                    "country": {
+                      "type": "array",
+                      "items": [
+                        {
+                          "type": "object",
+                          "properties": {
+                            "country_guid": {
+                              "type": "string"
+                            },
+                            "country_name": {
+                              "type": "string"
+                            },
+                            "country_bounds": {
+                              "type": "string"
+                            },
+                            "country_language": {
+                              "type": "string"
+                            },
+                            "country_code": {
+                              "type": "string"
+                            },
+                            "states": {
+                              "type": "array",
+                              "items": [
+                                {
+                                  "type": "object",
+                                  "properties": {
+                                    "state_guid": {
+                                      "type": "string"
+                                    },
+                                    "statename": {
+                                      "type": "string"
+                                    },
+                                    "state_bounds": {
+                                      "type": "string"
+                                    },
+                                    "state_code": {
+                                      "type": "string"
+                                    },
+                                    "postal_codes": {
+                                      "type": "array",
+                                      "items": [
+                                        {
+                                          "type": "object",
+                                          "properties": {
+                                            "zipcode_guid": {
+                                              "type": "string"
+                                            },
+                                            "zipcode_name": {
+                                              "type": "string"
+                                            },
+                                            "zipcode": {
+                                              "type": "string"
+                                            },
+                                            "zipcode_gps": {
+                                              "type": "string"
+                                            },
+                                            "land_area_sqmi": {
+                                              "type": "string"
+                                            },
+                                            "water_area_sqmi": {
+                                              "type": "string"
+                                            },
+                                            "primary_city": {
+                                              "type": "string"
+                                            },
+                                            "county": {
+                                              "type": "string"
+                                            },
+                                            "medianhouseholdincome": {
+                                              "type": "string"
+                                            },
+                                            "zipcode_population": {
+                                              "type": "string"
+                                            },
+                                            "zipcode_popdensity_ppsm": {
+                                              "type": "string"
+                                            },
+                                            "environmental_parameters": {
+                                              "type": "object",
+                                              "properties": {
+                                                "air_quality": {
+                                                  "type": "string"
+                                                },
+                                                "windspeed": {
+                                                  "type": "string"
+                                                }
+                                              },
+                                              "required": [
+                                                "air_quality",
+                                                "windspeed"
+                                              ]
+                                            },
+                                            "realestate": {
+                                              "type": "object",
+                                              "properties": {
+                                                "property_withmortgage": {
+                                                  "type": "string"
+                                                },
+                                                "property_free_clear": {
+                                                  "type": "string"
+                                                },
+                                                "property_rented": {
+                                                  "type": "string"
+                                                },
+                                                "property_vacant": {
+                                                  "type": "string"
+                                                },
+                                                "studio": {
+                                                  "type": "string"
+                                                },
+                                                "1bedroom": {
+                                                  "type": "string"
+                                                },
+                                                "2bedroom": {
+                                                  "type": "string"
+                                                },
+                                                "3+bedroom": {
+                                                  "type": "string"
+                                                },
+                                                "forrent": {
+                                                  "type": "string"
+                                                },
+                                                "occupied": {
+                                                  "type": "string"
+                                                },
+                                                "forsale": {
+                                                  "type": "string"
+                                                },
+                                                "soldunoccupied": {
+                                                  "type": "string"
+                                                },
+                                                "seasonal": {
+                                                  "type": "string"
+                                                },
+                                                "migrantworkers": {
+                                                  "type": "string"
+                                                },
+                                                "other": {
+                                                  "type": "string"
+                                                }
+                                              },
+                                              "required": [
+                                                "property_withmortgage",
+                                                "property_free_clear",
+                                                "property_rented",
+                                                "property_vacant",
+                                                "studio",
+                                                "1bedroom",
+                                                "2bedroom",
+                                                "3+bedroom",
+                                                "forrent",
+                                                "occupied",
+                                                "forsale",
+                                                "soldunoccupied",
+                                                "seasonal",
+                                                "migrantworkers",
+                                                "other"
+                                              ]
+                                            },
+                                            "population": {
+                                              "type": "array",
+                                              "items": [
+                                                {
+                                                  "type": "object"
+                                                }
+                                              ]
+                                            },
+                                            "race": {
+                                              "type": "object",
+                                              "properties": {
+                                                "white": {
+                                                  "type": "string"
+                                                },
+                                                "africanamerican": {
+                                                  "type": "string"
+                                                },
+                                                "asian": {
+                                                  "type": "string"
+                                                },
+                                                "nativehawaiian_otherpacificislander": {
+                                                  "type": "string"
+                                                },
+                                                "americanindian_alaskannative": {
+                                                  "type": "string"
+                                                },
+                                                "other": {
+                                                  "type": "string"
+                                                },
+                                                "mixed": {
+                                                  "type": "string"
+                                                }
+                                              },
+                                              "required": [
+                                                "white",
+                                                "africanamerican",
+                                                "asian",
+                                                "nativehawaiian_otherpacificislander",
+                                                "americanindian_alaskannative",
+                                                "other",
+                                                "mixed"
+                                              ]
+                                            },
+                                            "employment": {
+                                              "type": "object"
+                                            },
+                                            "housingtype": {
+                                              "type": "object",
+                                              "properties": {
+                                                "housingunit": {
+                                                  "type": "string"
+                                                },
+                                                "correctionalfacilityforadults": {
+                                                  "type": "string"
+                                                },
+                                                "nursing": {
+                                                  "type": "string"
+                                                },
+                                                "otherinstitutional": {
+                                                  "type": "string"
+                                                },
+                                                "college": {
+                                                  "type": "string"
+                                                },
+                                                "militaryquarters": {
+                                                  "type": "string"
+                                                },
+                                                "other": {
+                                                  "type": "string"
+                                                }
+                                              },
+                                              "required": [
+                                                "housingunit",
+                                                "correctionalfacilityforadults",
+                                                "nursing",
+                                                "otherinstitutional",
+                                                "college",
+                                                "militaryquarters",
+                                                "other"
+                                              ]
+                                            },
+                                            "qualification": {
+                                              "type": "object",
+                                              "properties": {
+                                                "lessthanhighschool ": {
+                                                  "type": "string"
+                                                },
+                                                "highschool": {
+                                                  "type": "string"
+                                                },
+                                                "associatedegree": {
+                                                  "type": "string"
+                                                },
+                                                "bachelors": {
+                                                  "type": "string"
+                                                },
+                                                "masters": {
+                                                  "type": "string"
+                                                },
+                                                "professional": {
+                                                  "type": "string"
+                                                },
+                                                "phd": {
+                                                  "type": "string"
+                                                }
+                                              },
+                                              "required": [
+                                                "lessthanhighschool ",
+                                                "highschool",
+                                                "associatedegree",
+                                                "bachelors",
+                                                "masters",
+                                                "professional",
+                                                "phd"
+                                              ]
+                                            },
+                                            "school_enrollment": {
+                                              "type": "object",
+                                              "properties": {
+                                                "schoolenrollement3-17_public": {
+                                                  "type": "string"
+                                                },
+                                                "schoolenrollment3-17_private": {
+                                                  "type": "string"
+                                                },
+                                                "schoolenrollment3-17_notenrolled": {
+                                                  "type": "string"
+                                                }
+                                              },
+                                              "required": [
+                                                "schoolenrollement3-17_public",
+                                                "schoolenrollment3-17_private",
+                                                "schoolenrollment3-17_notenrolled"
+                                              ]
+                                            },
+                                            "schools": {
+                                              "type": "array",
+                                              "items": [
+                                                {
+                                                  "type": "object",
+                                                  "properties": {
+                                                    "schoolname": {
+                                                      "type": "string"
+                                                    },
+                                                    "schoolurl": {
+                                                      "type": "string"
+                                                    },
+                                                    "school_address": {
+                                                      "type": "string"
+                                                    },
+                                                    "school_pop": {
+                                                      "type": "string"
+                                                    },
+                                                    "school_staff": {
+                                                      "type": "string"
+                                                    },
+                                                    "school_type": {
+                                                      "type": "string"
+                                                    },
+                                                    "school_funding": {
+                                                      "type": "string"
+                                                    }
+                                                  },
+                                                  "required": [
+                                                    "schoolname",
+                                                    "schoolurl",
+                                                    "school_address",
+                                                    "school_pop",
+                                                    "school_staff",
+                                                    "school_type",
+                                                    "school_funding"
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            "nearby_zipcodes": {
+                                              "type": "array",
+                                              "items": [
+                                                {
+                                                  "type": "object"
+                                                }
+                                              ]
+                                            },
+                                            "companies": {
+                                              "type": "array",
+                                              "items": [
+                                                {
+                                                  "type": "object",
+                                                  "properties": {
+                                                    "company_name": {
+                                                      "type": "string"
+                                                    },
+                                                    "type": {
+                                                      "type": "string"
+                                                    },
+                                                    "no_employees": {
+                                                      "type": "string"
+                                                    },
+                                                    "gps": {
+                                                      "type": "string"
+                                                    }
+                                                  },
+                                                  "required": [
+                                                    "company_name",
+                                                    "type",
+                                                    "no_employees",
+                                                    "gps"
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            "hospitals": {
+                                              "type": "array",
+                                              "items": [
+                                                {
+                                                  "type": "object",
+                                                  "properties": {
+                                                    "hospital_name": {
+                                                      "type": "string"
+                                                    },
+                                                    "hospital_url": {
+                                                      "type": "string"
+                                                    },
+                                                    "hospital_address": {
+                                                      "type": "string"
+                                                    },
+                                                    "hospital_beds": {
+                                                      "type": "string"
+                                                    },
+                                                    "hospital_opd": {
+                                                      "type": "string"
+                                                    },
+                                                    "hospital_doctors": {
+                                                      "type": "string"
+                                                    },
+                                                    "hospital_nursingstaff": {
+                                                      "type": "string"
+                                                    },
+                                                    "hospital_type": {
+                                                      "type": "string"
+                                                    },
+                                                    "hospital_funding": {
+                                                      "type": "string"
+                                                    }
+                                                  },
+                                                  "required": [
+                                                    "hospital_name",
+                                                    "hospital_url",
+                                                    "hospital_address",
+                                                    "hospital_beds",
+                                                    "hospital_opd",
+                                                    "hospital_doctors",
+                                                    "hospital_nursingstaff",
+                                                    "hospital_type",
+                                                    "hospital_funding"
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            "water": {
+                                              "type": "object"
+                                            },
+                                            "air": {
+                                              "type": "object"
+                                            },
+                                            "soil": {
+                                              "type": "object"
+                                            }
+                                          },
+                                          "required": [
+                                            "zipcode_guid",
+                                            "zipcode_name",
+                                            "zipcode",
+                                            "zipcode_gps",
+                                            "land_area_sqmi",
+                                            "water_area_sqmi",
+                                            "primary_city",
+                                            "county",
+                                            "medianhouseholdincome",
+                                            "zipcode_population",
+                                            "zipcode_popdensity_ppsm",
+                                            "environmental_parameters",
+                                            "realestate",
+                                            "population",
+                                            "race",
+                                            "employment",
+                                            "housingtype",
+                                            "qualification",
+                                            "school_enrollment",
+                                            "schools",
+                                            "nearby_zipcodes",
+                                            "companies",
+                                            "hospitals",
+                                            "water",
+                                            "air",
+                                            "soil"
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  },
+                                  "required": [
+                                    "state_guid",
+                                    "statename",
+                                    "state_bounds",
+                                    "state_code",
+                                    "postal_codes"
+                                  ]
+                                }
+                              ]
+                            }
+                          },
+                          "required": [
+                            "country_guid",
+                            "country_name",
+                            "country_bounds",
+                            "country_language",
+                            "country_code",
+                            "states"
+                          ]
+                        },
+                        {
+                          "type": "object",
+                          "properties": {
+                            "country_guid": {
+                              "type": "string"
+                            },
+                            "country_name": {
+                              "type": "string"
+                            },
+                            "country_bounds": {
+                              "type": "string"
+                            },
+                            "country_language": {
+                              "type": "string"
+                            },
+                            "country_code": {
+                              "type": "string"
+                            },
+                            "states": {
+                              "type": "array",
+                              "items": [
+                                {
+                                  "type": "object",
+                                  "properties": {
+                                    "state_guid": {
+                                      "type": "string"
+                                    },
+                                    "statename": {
+                                      "type": "string"
+                                    },
+                                    "state_bounds": {
+                                      "type": "string"
+                                    },
+                                    "state_code": {
+                                      "type": "string"
+                                    },
+                                    "postal_codes": {
+                                      "type": "array",
+                                      "items": [
+                                        {
+                                          "type": "object",
+                                          "properties": {
+                                            "zipcode_guid": {
+                                              "type": "string"
+                                            },
+                                            "zipcode_name": {
+                                              "type": "string"
+                                            },
+                                            "zipcode": {
+                                              "type": "string"
+                                            },
+                                            "zipcode_gps": {
+                                              "type": "string"
+                                            },
+                                            "land_area_sqmi": {
+                                              "type": "string"
+                                            },
+                                            "water_area_sqmi": {
+                                              "type": "string"
+                                            },
+                                            "primary_city": {
+                                              "type": "string"
+                                            },
+                                            "county": {
+                                              "type": "string"
+                                            },
+                                            "medianhouseholdincome": {
+                                              "type": "string"
+                                            },
+                                            "zipcode_population": {
+                                              "type": "string"
+                                            },
+                                            "zipcode_popdensity_ppsm": {
+                                              "type": "string"
+                                            },
+                                            "environmental_parameters": {
+                                              "type": "object",
+                                              "properties": {
+                                                "air_quality": {
+                                                  "type": "string"
+                                                },
+                                                "windspeed": {
+                                                  "type": "string"
+                                                }
+                                              },
+                                              "required": [
+                                                "air_quality",
+                                                "windspeed"
+                                              ]
+                                            },
+                                            "realestate": {
+                                              "type": "object",
+                                              "properties": {
+                                                "property_withmortgage": {
+                                                  "type": "string"
+                                                },
+                                                "property_free_clear": {
+                                                  "type": "string"
+                                                },
+                                                "property_rented": {
+                                                  "type": "string"
+                                                },
+                                                "property_vacant": {
+                                                  "type": "string"
+                                                },
+                                                "studio": {
+                                                  "type": "string"
+                                                },
+                                                "1bedroom": {
+                                                  "type": "string"
+                                                },
+                                                "2bedroom": {
+                                                  "type": "string"
+                                                },
+                                                "3+bedroom": {
+                                                  "type": "string"
+                                                },
+                                                "forrent": {
+                                                  "type": "string"
+                                                },
+                                                "occupied": {
+                                                  "type": "string"
+                                                },
+                                                "forsale": {
+                                                  "type": "string"
+                                                },
+                                                "soldunoccupied": {
+                                                  "type": "string"
+                                                },
+                                                "seasonal": {
+                                                  "type": "string"
+                                                },
+                                                "migrantworkers": {
+                                                  "type": "string"
+                                                },
+                                                "other": {
+                                                  "type": "string"
+                                                }
+                                              },
+                                              "required": [
+                                                "property_withmortgage",
+                                                "property_free_clear",
+                                                "property_rented",
+                                                "property_vacant",
+                                                "studio",
+                                                "1bedroom",
+                                                "2bedroom",
+                                                "3+bedroom",
+                                                "forrent",
+                                                "occupied",
+                                                "forsale",
+                                                "soldunoccupied",
+                                                "seasonal",
+                                                "migrantworkers",
+                                                "other"
+                                              ]
+                                            },
+                                            "population": {
+                                              "type": "array",
+                                              "items": [
+                                                {
+                                                  "type": "object"
+                                                }
+                                              ]
+                                            },
+                                            "race": {
+                                              "type": "object",
+                                              "properties": {
+                                                "white": {
+                                                  "type": "string"
+                                                },
+                                                "africanamerican": {
+                                                  "type": "string"
+                                                },
+                                                "asian": {
+                                                  "type": "string"
+                                                },
+                                                "nativehawaiian_otherpacificislander": {
+                                                  "type": "string"
+                                                },
+                                                "americanindian_alaskannative": {
+                                                  "type": "string"
+                                                },
+                                                "other": {
+                                                  "type": "string"
+                                                },
+                                                "mixed": {
+                                                  "type": "string"
+                                                }
+                                              },
+                                              "required": [
+                                                "white",
+                                                "africanamerican",
+                                                "asian",
+                                                "nativehawaiian_otherpacificislander",
+                                                "americanindian_alaskannative",
+                                                "other",
+                                                "mixed"
+                                              ]
+                                            },
+                                            "employment": {
+                                              "type": "object"
+                                            },
+                                            "housingtype": {
+                                              "type": "object",
+                                              "properties": {
+                                                "housingunit": {
+                                                  "type": "string"
+                                                },
+                                                "correctionalfacilityforadults": {
+                                                  "type": "string"
+                                                },
+                                                "nursing": {
+                                                  "type": "string"
+                                                },
+                                                "otherinstitutional": {
+                                                  "type": "string"
+                                                },
+                                                "college": {
+                                                  "type": "string"
+                                                },
+                                                "militaryquarters": {
+                                                  "type": "string"
+                                                },
+                                                "other": {
+                                                  "type": "string"
+                                                }
+                                              },
+                                              "required": [
+                                                "housingunit",
+                                                "correctionalfacilityforadults",
+                                                "nursing",
+                                                "otherinstitutional",
+                                                "college",
+                                                "militaryquarters",
+                                                "other"
+                                              ]
+                                            },
+                                            "qualification": {
+                                              "type": "object",
+                                              "properties": {
+                                                "lessthanhighschool ": {
+                                                  "type": "string"
+                                                },
+                                                "highschool": {
+                                                  "type": "string"
+                                                },
+                                                "associatedegree": {
+                                                  "type": "string"
+                                                },
+                                                "bachelors": {
+                                                  "type": "string"
+                                                },
+                                                "masters": {
+                                                  "type": "string"
+                                                },
+                                                "professional": {
+                                                  "type": "string"
+                                                },
+                                                "phd": {
+                                                  "type": "string"
+                                                }
+                                              },
+                                              "required": [
+                                                "lessthanhighschool ",
+                                                "highschool",
+                                                "associatedegree",
+                                                "bachelors",
+                                                "masters",
+                                                "professional",
+                                                "phd"
+                                              ]
+                                            },
+                                            "school_enrollment": {
+                                              "type": "object",
+                                              "properties": {
+                                                "schoolenrollement3-17_public": {
+                                                  "type": "string"
+                                                },
+                                                "schoolenrollment3-17_private": {
+                                                  "type": "string"
+                                                },
+                                                "schoolenrollment3-17_notenrolled": {
+                                                  "type": "string"
+                                                }
+                                              },
+                                              "required": [
+                                                "schoolenrollement3-17_public",
+                                                "schoolenrollment3-17_private",
+                                                "schoolenrollment3-17_notenrolled"
+                                              ]
+                                            },
+                                            "schools": {
+                                              "type": "array",
+                                              "items": [
+                                                {
+                                                  "type": "object",
+                                                  "properties": {
+                                                    "schoolname": {
+                                                      "type": "string"
+                                                    },
+                                                    "schoolurl": {
+                                                      "type": "string"
+                                                    },
+                                                    "school_address": {
+                                                      "type": "string"
+                                                    },
+                                                    "school_pop": {
+                                                      "type": "string"
+                                                    },
+                                                    "school_staff": {
+                                                      "type": "string"
+                                                    },
+                                                    "school_type": {
+                                                      "type": "string"
+                                                    },
+                                                    "school_funding": {
+                                                      "type": "string"
+                                                    }
+                                                  },
+                                                  "required": [
+                                                    "schoolname",
+                                                    "schoolurl",
+                                                    "school_address",
+                                                    "school_pop",
+                                                    "school_staff",
+                                                    "school_type",
+                                                    "school_funding"
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            "nearby_zipcodes": {
+                                              "type": "array",
+                                              "items": [
+                                                {
+                                                  "type": "object"
+                                                }
+                                              ]
+                                            },
+                                            "companies": {
+                                              "type": "array",
+                                              "items": [
+                                                {
+                                                  "type": "object",
+                                                  "properties": {
+                                                    "company_name": {
+                                                      "type": "string"
+                                                    },
+                                                    "type": {
+                                                      "type": "string"
+                                                    },
+                                                    "no_employees": {
+                                                      "type": "string"
+                                                    },
+                                                    "gps": {
+                                                      "type": "string"
+                                                    }
+                                                  },
+                                                  "required": [
+                                                    "company_name",
+                                                    "type",
+                                                    "no_employees",
+                                                    "gps"
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            "hospitals": {
+                                              "type": "array",
+                                              "items": [
+                                                {
+                                                  "type": "object",
+                                                  "properties": {
+                                                    "hospital_name": {
+                                                      "type": "string"
+                                                    },
+                                                    "hospital_url": {
+                                                      "type": "string"
+                                                    },
+                                                    "hospital_address": {
+                                                      "type": "string"
+                                                    },
+                                                    "hospital_beds": {
+                                                      "type": "string"
+                                                    },
+                                                    "hospital_opd": {
+                                                      "type": "string"
+                                                    },
+                                                    "hospital_doctors": {
+                                                      "type": "string"
+                                                    },
+                                                    "hospital_nursingstaff": {
+                                                      "type": "string"
+                                                    },
+                                                    "hospital_type": {
+                                                      "type": "string"
+                                                    },
+                                                    "hospital_funding": {
+                                                      "type": "string"
+                                                    }
+                                                  },
+                                                  "required": [
+                                                    "hospital_name",
+                                                    "hospital_url",
+                                                    "hospital_address",
+                                                    "hospital_beds",
+                                                    "hospital_opd",
+                                                    "hospital_doctors",
+                                                    "hospital_nursingstaff",
+                                                    "hospital_type",
+                                                    "hospital_funding"
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            "water": {
+                                              "type": "object"
+                                            },
+                                            "air": {
+                                              "type": "object"
+                                            },
+                                            "soil": {
+                                              "type": "object"
+                                            }
+                                          },
+                                          "required": [
+                                            "zipcode_guid",
+                                            "zipcode_name",
+                                            "zipcode",
+                                            "zipcode_gps",
+                                            "land_area_sqmi",
+                                            "water_area_sqmi",
+                                            "primary_city",
+                                            "county",
+                                            "medianhouseholdincome",
+                                            "zipcode_population",
+                                            "zipcode_popdensity_ppsm",
+                                            "environmental_parameters",
+                                            "realestate",
+                                            "population",
+                                            "race",
+                                            "employment",
+                                            "housingtype",
+                                            "qualification",
+                                            "school_enrollment",
+                                            "schools",
+                                            "nearby_zipcodes",
+                                            "companies",
+                                            "hospitals",
+                                            "water",
+                                            "air",
+                                            "soil"
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  },
+                                  "required": [
+                                    "state_guid",
+                                    "statename",
+                                    "state_bounds",
+                                    "state_code",
+                                    "postal_codes"
+                                  ]
+                                }
+                              ]
+                            }
+                          },
+                          "required": [
+                            "country_guid",
+                            "country_name",
+                            "country_bounds",
+                            "country_language",
+                            "country_code",
+                            "states"
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  "required": [
+                    "guid",
+                    "datetime",
+                    "country"
+                  ]
+                },
+                {
+                  "type": "object",
+                  "properties": {
+                    "guid": {
+                      "type": "string"
+                    },
+                    "datetime": {
+                      "type": "string"
+                    },
+                    "country": {
+                      "type": "array",
+                      "items": [
+                        {
+                          "type": "object",
+                          "properties": {
+                            "country_guid": {
+                              "type": "string"
+                            },
+                            "country_name": {
+                              "type": "string"
+                            },
+                            "country_bounds": {
+                              "type": "string"
+                            },
+                            "country_language": {
+                              "type": "string"
+                            },
+                            "country_code": {
+                              "type": "string"
+                            },
+                            "states": {
+                              "type": "array",
+                              "items": [
+                                {
+                                  "type": "object",
+                                  "properties": {
+                                    "state_guid": {
+                                      "type": "string"
+                                    },
+                                    "statename": {
+                                      "type": "string"
+                                    },
+                                    "state_bounds": {
+                                      "type": "string"
+                                    },
+                                    "state_code": {
+                                      "type": "string"
+                                    },
+                                    "postal_codes": {
+                                      "type": "array",
+                                      "items": [
+                                        {
+                                          "type": "object",
+                                          "properties": {
+                                            "zipcode_guid": {
+                                              "type": "string"
+                                            },
+                                            "zipcode_name": {
+                                              "type": "string"
+                                            },
+                                            "zipcode": {
+                                              "type": "string"
+                                            },
+                                            "zipcode_gps": {
+                                              "type": "string"
+                                            },
+                                            "land_area_sqmi": {
+                                              "type": "string"
+                                            },
+                                            "water_area_sqmi": {
+                                              "type": "string"
+                                            },
+                                            "primary_city": {
+                                              "type": "string"
+                                            },
+                                            "county": {
+                                              "type": "string"
+                                            },
+                                            "medianhouseholdincome": {
+                                              "type": "string"
+                                            },
+                                            "zipcode_population": {
+                                              "type": "string"
+                                            },
+                                            "zipcode_popdensity_ppsm": {
+                                              "type": "string"
+                                            },
+                                            "environmental_parameters": {
+                                              "type": "object",
+                                              "properties": {
+                                                "air_quality": {
+                                                  "type": "string"
+                                                },
+                                                "windspeed": {
+                                                  "type": "string"
+                                                }
+                                              },
+                                              "required": [
+                                                "air_quality",
+                                                "windspeed"
+                                              ]
+                                            },
+                                            "realestate": {
+                                              "type": "object",
+                                              "properties": {
+                                                "property_withmortgage": {
+                                                  "type": "string"
+                                                },
+                                                "property_free_clear": {
+                                                  "type": "string"
+                                                },
+                                                "property_rented": {
+                                                  "type": "string"
+                                                },
+                                                "property_vacant": {
+                                                  "type": "string"
+                                                },
+                                                "studio": {
+                                                  "type": "string"
+                                                },
+                                                "1bedroom": {
+                                                  "type": "string"
+                                                },
+                                                "2bedroom": {
+                                                  "type": "string"
+                                                },
+                                                "3+bedroom": {
+                                                  "type": "string"
+                                                },
+                                                "forrent": {
+                                                  "type": "string"
+                                                },
+                                                "occupied": {
+                                                  "type": "string"
+                                                },
+                                                "forsale": {
+                                                  "type": "string"
+                                                },
+                                                "soldunoccupied": {
+                                                  "type": "string"
+                                                },
+                                                "seasonal": {
+                                                  "type": "string"
+                                                },
+                                                "migrantworkers": {
+                                                  "type": "string"
+                                                },
+                                                "other": {
+                                                  "type": "string"
+                                                }
+                                              },
+                                              "required": [
+                                                "property_withmortgage",
+                                                "property_free_clear",
+                                                "property_rented",
+                                                "property_vacant",
+                                                "studio",
+                                                "1bedroom",
+                                                "2bedroom",
+                                                "3+bedroom",
+                                                "forrent",
+                                                "occupied",
+                                                "forsale",
+                                                "soldunoccupied",
+                                                "seasonal",
+                                                "migrantworkers",
+                                                "other"
+                                              ]
+                                            },
+                                            "population": {
+                                              "type": "array",
+                                              "items": [
+                                                {
+                                                  "type": "object"
+                                                }
+                                              ]
+                                            },
+                                            "race": {
+                                              "type": "object",
+                                              "properties": {
+                                                "white": {
+                                                  "type": "string"
+                                                },
+                                                "africanamerican": {
+                                                  "type": "string"
+                                                },
+                                                "asian": {
+                                                  "type": "string"
+                                                },
+                                                "nativehawaiian_otherpacificislander": {
+                                                  "type": "string"
+                                                },
+                                                "americanindian_alaskannative": {
+                                                  "type": "string"
+                                                },
+                                                "other": {
+                                                  "type": "string"
+                                                },
+                                                "mixed": {
+                                                  "type": "string"
+                                                }
+                                              },
+                                              "required": [
+                                                "white",
+                                                "africanamerican",
+                                                "asian",
+                                                "nativehawaiian_otherpacificislander",
+                                                "americanindian_alaskannative",
+                                                "other",
+                                                "mixed"
+                                              ]
+                                            },
+                                            "employment": {
+                                              "type": "object"
+                                            },
+                                            "housingtype": {
+                                              "type": "object",
+                                              "properties": {
+                                                "housingunit": {
+                                                  "type": "string"
+                                                },
+                                                "correctionalfacilityforadults": {
+                                                  "type": "string"
+                                                },
+                                                "nursing": {
+                                                  "type": "string"
+                                                },
+                                                "otherinstitutional": {
+                                                  "type": "string"
+                                                },
+                                                "college": {
+                                                  "type": "string"
+                                                },
+                                                "militaryquarters": {
+                                                  "type": "string"
+                                                },
+                                                "other": {
+                                                  "type": "string"
+                                                }
+                                              },
+                                              "required": [
+                                                "housingunit",
+                                                "correctionalfacilityforadults",
+                                                "nursing",
+                                                "otherinstitutional",
+                                                "college",
+                                                "militaryquarters",
+                                                "other"
+                                              ]
+                                            },
+                                            "qualification": {
+                                              "type": "object",
+                                              "properties": {
+                                                "lessthanhighschool ": {
+                                                  "type": "string"
+                                                },
+                                                "highschool": {
+                                                  "type": "string"
+                                                },
+                                                "associatedegree": {
+                                                  "type": "string"
+                                                },
+                                                "bachelors": {
+                                                  "type": "string"
+                                                },
+                                                "masters": {
+                                                  "type": "string"
+                                                },
+                                                "professional": {
+                                                  "type": "string"
+                                                },
+                                                "phd": {
+                                                  "type": "string"
+                                                }
+                                              },
+                                              "required": [
+                                                "lessthanhighschool ",
+                                                "highschool",
+                                                "associatedegree",
+                                                "bachelors",
+                                                "masters",
+                                                "professional",
+                                                "phd"
+                                              ]
+                                            },
+                                            "school_enrollment": {
+                                              "type": "object",
+                                              "properties": {
+                                                "schoolenrollement3-17_public": {
+                                                  "type": "string"
+                                                },
+                                                "schoolenrollment3-17_private": {
+                                                  "type": "string"
+                                                },
+                                                "schoolenrollment3-17_notenrolled": {
+                                                  "type": "string"
+                                                }
+                                              },
+                                              "required": [
+                                                "schoolenrollement3-17_public",
+                                                "schoolenrollment3-17_private",
+                                                "schoolenrollment3-17_notenrolled"
+                                              ]
+                                            },
+                                            "schools": {
+                                              "type": "array",
+                                              "items": [
+                                                {
+                                                  "type": "object",
+                                                  "properties": {
+                                                    "schoolname": {
+                                                      "type": "string"
+                                                    },
+                                                    "schoolurl": {
+                                                      "type": "string"
+                                                    },
+                                                    "school_address": {
+                                                      "type": "string"
+                                                    },
+                                                    "school_pop": {
+                                                      "type": "string"
+                                                    },
+                                                    "school_staff": {
+                                                      "type": "string"
+                                                    },
+                                                    "school_type": {
+                                                      "type": "string"
+                                                    },
+                                                    "school_funding": {
+                                                      "type": "string"
+                                                    }
+                                                  },
+                                                  "required": [
+                                                    "schoolname",
+                                                    "schoolurl",
+                                                    "school_address",
+                                                    "school_pop",
+                                                    "school_staff",
+                                                    "school_type",
+                                                    "school_funding"
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            "nearby_zipcodes": {
+                                              "type": "array",
+                                              "items": [
+                                                {
+                                                  "type": "object"
+                                                }
+                                              ]
+                                            },
+                                            "companies": {
+                                              "type": "array",
+                                              "items": [
+                                                {
+                                                  "type": "object",
+                                                  "properties": {
+                                                    "company_name": {
+                                                      "type": "string"
+                                                    },
+                                                    "type": {
+                                                      "type": "string"
+                                                    },
+                                                    "no_employees": {
+                                                      "type": "string"
+                                                    },
+                                                    "gps": {
+                                                      "type": "string"
+                                                    }
+                                                  },
+                                                  "required": [
+                                                    "company_name",
+                                                    "type",
+                                                    "no_employees",
+                                                    "gps"
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            "hospitals": {
+                                              "type": "array",
+                                              "items": [
+                                                {
+                                                  "type": "object",
+                                                  "properties": {
+                                                    "hospital_name": {
+                                                      "type": "string"
+                                                    },
+                                                    "hospital_url": {
+                                                      "type": "string"
+                                                    },
+                                                    "hospital_address": {
+                                                      "type": "string"
+                                                    },
+                                                    "hospital_beds": {
+                                                      "type": "string"
+                                                    },
+                                                    "hospital_opd": {
+                                                      "type": "string"
+                                                    },
+                                                    "hospital_doctors": {
+                                                      "type": "string"
+                                                    },
+                                                    "hospital_nursingstaff": {
+                                                      "type": "string"
+                                                    },
+                                                    "hospital_type": {
+                                                      "type": "string"
+                                                    },
+                                                    "hospital_funding": {
+                                                      "type": "string"
+                                                    }
+                                                  },
+                                                  "required": [
+                                                    "hospital_name",
+                                                    "hospital_url",
+                                                    "hospital_address",
+                                                    "hospital_beds",
+                                                    "hospital_opd",
+                                                    "hospital_doctors",
+                                                    "hospital_nursingstaff",
+                                                    "hospital_type",
+                                                    "hospital_funding"
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            "water": {
+                                              "type": "object"
+                                            },
+                                            "air": {
+                                              "type": "object"
+                                            },
+                                            "soil": {
+                                              "type": "object"
+                                            }
+                                          },
+                                          "required": [
+                                            "zipcode_guid",
+                                            "zipcode_name",
+                                            "zipcode",
+                                            "zipcode_gps",
+                                            "land_area_sqmi",
+                                            "water_area_sqmi",
+                                            "primary_city",
+                                            "county",
+                                            "medianhouseholdincome",
+                                            "zipcode_population",
+                                            "zipcode_popdensity_ppsm",
+                                            "environmental_parameters",
+                                            "realestate",
+                                            "population",
+                                            "race",
+                                            "employment",
+                                            "housingtype",
+                                            "qualification",
+                                            "school_enrollment",
+                                            "schools",
+                                            "nearby_zipcodes",
+                                            "companies",
+                                            "hospitals",
+                                            "water",
+                                            "air",
+                                            "soil"
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  },
+                                  "required": [
+                                    "state_guid",
+                                    "statename",
+                                    "state_bounds",
+                                    "state_code",
+                                    "postal_codes"
+                                  ]
+                                }
+                              ]
+                            }
+                          },
+                          "required": [
+                            "country_guid",
+                            "country_name",
+                            "country_bounds",
+                            "country_language",
+                            "country_code",
+                            "states"
+                          ]
+                        },
+                        {
+                          "type": "object",
+                          "properties": {
+                            "country_guid": {
+                              "type": "string"
+                            },
+                            "country_name": {
+                              "type": "string"
+                            },
+                            "country_bounds": {
+                              "type": "string"
+                            },
+                            "country_language": {
+                              "type": "string"
+                            },
+                            "country_code": {
+                              "type": "string"
+                            },
+                            "states": {
+                              "type": "array",
+                              "items": [
+                                {
+                                  "type": "object",
+                                  "properties": {
+                                    "state_guid": {
+                                      "type": "string"
+                                    },
+                                    "statename": {
+                                      "type": "string"
+                                    },
+                                    "state_bounds": {
+                                      "type": "string"
+                                    },
+                                    "state_code": {
+                                      "type": "string"
+                                    },
+                                    "postal_codes": {
+                                      "type": "array",
+                                      "items": [
+                                        {
+                                          "type": "object",
+                                          "properties": {
+                                            "zipcode_guid": {
+                                              "type": "string"
+                                            },
+                                            "zipcode_name": {
+                                              "type": "string"
+                                            },
+                                            "zipcode": {
+                                              "type": "string"
+                                            },
+                                            "zipcode_gps": {
+                                              "type": "string"
+                                            },
+                                            "land_area_sqmi": {
+                                              "type": "string"
+                                            },
+                                            "water_area_sqmi": {
+                                              "type": "string"
+                                            },
+                                            "primary_city": {
+                                              "type": "string"
+                                            },
+                                            "county": {
+                                              "type": "string"
+                                            },
+                                            "medianhouseholdincome": {
+                                              "type": "string"
+                                            },
+                                            "zipcode_population": {
+                                              "type": "string"
+                                            },
+                                            "zipcode_popdensity_ppsm": {
+                                              "type": "string"
+                                            },
+                                            "environmental_parameters": {
+                                              "type": "object",
+                                              "properties": {
+                                                "air_quality": {
+                                                  "type": "string"
+                                                },
+                                                "windspeed": {
+                                                  "type": "string"
+                                                }
+                                              },
+                                              "required": [
+                                                "air_quality",
+                                                "windspeed"
+                                              ]
+                                            },
+                                            "realestate": {
+                                              "type": "object",
+                                              "properties": {
+                                                "property_withmortgage": {
+                                                  "type": "string"
+                                                },
+                                                "property_free_clear": {
+                                                  "type": "string"
+                                                },
+                                                "property_rented": {
+                                                  "type": "string"
+                                                },
+                                                "property_vacant": {
+                                                  "type": "string"
+                                                },
+                                                "studio": {
+                                                  "type": "string"
+                                                },
+                                                "1bedroom": {
+                                                  "type": "string"
+                                                },
+                                                "2bedroom": {
+                                                  "type": "string"
+                                                },
+                                                "3+bedroom": {
+                                                  "type": "string"
+                                                },
+                                                "forrent": {
+                                                  "type": "string"
+                                                },
+                                                "occupied": {
+                                                  "type": "string"
+                                                },
+                                                "forsale": {
+                                                  "type": "string"
+                                                },
+                                                "soldunoccupied": {
+                                                  "type": "string"
+                                                },
+                                                "seasonal": {
+                                                  "type": "string"
+                                                },
+                                                "migrantworkers": {
+                                                  "type": "string"
+                                                },
+                                                "other": {
+                                                  "type": "string"
+                                                }
+                                              },
+                                              "required": [
+                                                "property_withmortgage",
+                                                "property_free_clear",
+                                                "property_rented",
+                                                "property_vacant",
+                                                "studio",
+                                                "1bedroom",
+                                                "2bedroom",
+                                                "3+bedroom",
+                                                "forrent",
+                                                "occupied",
+                                                "forsale",
+                                                "soldunoccupied",
+                                                "seasonal",
+                                                "migrantworkers",
+                                                "other"
+                                              ]
+                                            },
+                                            "population": {
+                                              "type": "array",
+                                              "items": [
+                                                {
+                                                  "type": "object"
+                                                }
+                                              ]
+                                            },
+                                            "race": {
+                                              "type": "object",
+                                              "properties": {
+                                                "white": {
+                                                  "type": "string"
+                                                },
+                                                "africanamerican": {
+                                                  "type": "string"
+                                                },
+                                                "asian": {
+                                                  "type": "string"
+                                                },
+                                                "nativehawaiian_otherpacificislander": {
+                                                  "type": "string"
+                                                },
+                                                "americanindian_alaskannative": {
+                                                  "type": "string"
+                                                },
+                                                "other": {
+                                                  "type": "string"
+                                                },
+                                                "mixed": {
+                                                  "type": "string"
+                                                }
+                                              },
+                                              "required": [
+                                                "white",
+                                                "africanamerican",
+                                                "asian",
+                                                "nativehawaiian_otherpacificislander",
+                                                "americanindian_alaskannative",
+                                                "other",
+                                                "mixed"
+                                              ]
+                                            },
+                                            "employment": {
+                                              "type": "object"
+                                            },
+                                            "housingtype": {
+                                              "type": "object",
+                                              "properties": {
+                                                "housingunit": {
+                                                  "type": "string"
+                                                },
+                                                "correctionalfacilityforadults": {
+                                                  "type": "string"
+                                                },
+                                                "nursing": {
+                                                  "type": "string"
+                                                },
+                                                "otherinstitutional": {
+                                                  "type": "string"
+                                                },
+                                                "college": {
+                                                  "type": "string"
+                                                },
+                                                "militaryquarters": {
+                                                  "type": "string"
+                                                },
+                                                "other": {
+                                                  "type": "string"
+                                                }
+                                              },
+                                              "required": [
+                                                "housingunit",
+                                                "correctionalfacilityforadults",
+                                                "nursing",
+                                                "otherinstitutional",
+                                                "college",
+                                                "militaryquarters",
+                                                "other"
+                                              ]
+                                            },
+                                            "qualification": {
+                                              "type": "object",
+                                              "properties": {
+                                                "lessthanhighschool ": {
+                                                  "type": "string"
+                                                },
+                                                "highschool": {
+                                                  "type": "string"
+                                                },
+                                                "associatedegree": {
+                                                  "type": "string"
+                                                },
+                                                "bachelors": {
+                                                  "type": "string"
+                                                },
+                                                "masters": {
+                                                  "type": "string"
+                                                },
+                                                "professional": {
+                                                  "type": "string"
+                                                },
+                                                "phd": {
+                                                  "type": "string"
+                                                }
+                                              },
+                                              "required": [
+                                                "lessthanhighschool ",
+                                                "highschool",
+                                                "associatedegree",
+                                                "bachelors",
+                                                "masters",
+                                                "professional",
+                                                "phd"
+                                              ]
+                                            },
+                                            "school_enrollment": {
+                                              "type": "object",
+                                              "properties": {
+                                                "schoolenrollement3-17_public": {
+                                                  "type": "string"
+                                                },
+                                                "schoolenrollment3-17_private": {
+                                                  "type": "string"
+                                                },
+                                                "schoolenrollment3-17_notenrolled": {
+                                                  "type": "string"
+                                                }
+                                              },
+                                              "required": [
+                                                "schoolenrollement3-17_public",
+                                                "schoolenrollment3-17_private",
+                                                "schoolenrollment3-17_notenrolled"
+                                              ]
+                                            },
+                                            "schools": {
+                                              "type": "array",
+                                              "items": [
+                                                {
+                                                  "type": "object",
+                                                  "properties": {
+                                                    "schoolname": {
+                                                      "type": "string"
+                                                    },
+                                                    "schoolurl": {
+                                                      "type": "string"
+                                                    },
+                                                    "school_address": {
+                                                      "type": "string"
+                                                    },
+                                                    "school_pop": {
+                                                      "type": "string"
+                                                    },
+                                                    "school_staff": {
+                                                      "type": "string"
+                                                    },
+                                                    "school_type": {
+                                                      "type": "string"
+                                                    },
+                                                    "school_funding": {
+                                                      "type": "string"
+                                                    }
+                                                  },
+                                                  "required": [
+                                                    "schoolname",
+                                                    "schoolurl",
+                                                    "school_address",
+                                                    "school_pop",
+                                                    "school_staff",
+                                                    "school_type",
+                                                    "school_funding"
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            "nearby_zipcodes": {
+                                              "type": "array",
+                                              "items": [
+                                                {
+                                                  "type": "object"
+                                                }
+                                              ]
+                                            },
+                                            "companies": {
+                                              "type": "array",
+                                              "items": [
+                                                {
+                                                  "type": "object",
+                                                  "properties": {
+                                                    "company_name": {
+                                                      "type": "string"
+                                                    },
+                                                    "type": {
+                                                      "type": "string"
+                                                    },
+                                                    "no_employees": {
+                                                      "type": "string"
+                                                    },
+                                                    "gps": {
+                                                      "type": "string"
+                                                    }
+                                                  },
+                                                  "required": [
+                                                    "company_name",
+                                                    "type",
+                                                    "no_employees",
+                                                    "gps"
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            "hospitals": {
+                                              "type": "array",
+                                              "items": [
+                                                {
+                                                  "type": "object",
+                                                  "properties": {
+                                                    "hospital_name": {
+                                                      "type": "string"
+                                                    },
+                                                    "hospital_url": {
+                                                      "type": "string"
+                                                    },
+                                                    "hospital_address": {
+                                                      "type": "string"
+                                                    },
+                                                    "hospital_beds": {
+                                                      "type": "string"
+                                                    },
+                                                    "hospital_opd": {
+                                                      "type": "string"
+                                                    },
+                                                    "hospital_doctors": {
+                                                      "type": "string"
+                                                    },
+                                                    "hospital_nursingstaff": {
+                                                      "type": "string"
+                                                    },
+                                                    "hospital_type": {
+                                                      "type": "string"
+                                                    },
+                                                    "hospital_funding": {
+                                                      "type": "string"
+                                                    }
+                                                  },
+                                                  "required": [
+                                                    "hospital_name",
+                                                    "hospital_url",
+                                                    "hospital_address",
+                                                    "hospital_beds",
+                                                    "hospital_opd",
+                                                    "hospital_doctors",
+                                                    "hospital_nursingstaff",
+                                                    "hospital_type",
+                                                    "hospital_funding"
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            "water": {
+                                              "type": "object"
+                                            },
+                                            "air": {
+                                              "type": "object"
+                                            },
+                                            "soil": {
+                                              "type": "object"
+                                            }
+                                          },
+                                          "required": [
+                                            "zipcode_guid",
+                                            "zipcode_name",
+                                            "zipcode",
+                                            "zipcode_gps",
+                                            "land_area_sqmi",
+                                            "water_area_sqmi",
+                                            "primary_city",
+                                            "county",
+                                            "medianhouseholdincome",
+                                            "zipcode_population",
+                                            "zipcode_popdensity_ppsm",
+                                            "environmental_parameters",
+                                            "realestate",
+                                            "population",
+                                            "race",
+                                            "employment",
+                                            "housingtype",
+                                            "qualification",
+                                            "school_enrollment",
+                                            "schools",
+                                            "nearby_zipcodes",
+                                            "companies",
+                                            "hospitals",
+                                            "water",
+                                            "air",
+                                            "soil"
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  },
+                                  "required": [
+                                    "state_guid",
+                                    "statename",
+                                    "state_bounds",
+                                    "state_code",
+                                    "postal_codes"
+                                  ]
+                                }
+                              ]
+                            }
+                          },
+                          "required": [
+                            "country_guid",
+                            "country_name",
+                            "country_bounds",
+                            "country_language",
+                            "country_code",
+                            "states"
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  "required": [
+                    "guid",
+                    "datetime",
+                    "country"
+                  ]
+                }
+              ]
+            }
+          },
+          "required": [
+            "timestamp"
+          ]
+        }
+      ]
+    }
+  },
+  "required": [
+    "temporal_frame"
+  ]
+}
+
