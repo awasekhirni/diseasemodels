@@ -1,0 +1,1268 @@
+[{
+	"countries": [{
+		"country_guid": "1e7f2cbb-2df3-4586-b691-0fa61d7ba9c5",
+		"country_name": "China",
+		"country_bounds": null,
+		"country_language": "mandarin",
+		"country_code": "CN",
+		"states": [
+		  {
+				"states_guid": "abe00871-2a3d-4e85-bd0d-6e95078b8d1d",
+				"states_name": "Louisiana",
+				"states_code": "LA",
+				"states_bounds": null,
+				"population": "6345958d-59e0-4bab-8dc7-ba943c51a1e9",
+				"counties": [{
+						"countyname": null,
+						"primarycity": null,
+						"waterarea_sqmi": null,
+						"landarea_sqmi": null,
+						"daily_temporalframes": [{
+								"timestamp": null,
+								"population": null,
+								"popdensity_ppsm": null,
+								"environmental": {
+									"temp_max": "",
+									"temp_min": "",
+									"temp_mean": "",
+									"temp_sd": "",
+									"pressureTendency": "",
+									"visibility": "",
+									"humidity": "",
+									"dewpoint": "",
+									"wind": "",
+									"airquailityHealthIndex": "",
+									"rain": "",
+									"snow": ""
+
+								},
+								"realestate": {
+									"property_withmortgage": "2,660",
+									"property_free_clear": "671",
+									"property_rented": "883",
+									"property_vacant": "309",
+									"studio": "0",
+									"1bedroom": "151",
+									"2bedroom": "201",
+									"3+bedroom": "482",
+									"forrent": "102",
+									"occupied": "6",
+									"forsale": "89",
+									"soldunoccupied": "10",
+									"seasonal": "10",
+									"migrantworkers": "0",
+									"other": "92"
+								},
+								"airquality": {
+									"o3_ppb": "",
+									"pm2.5_microgrampercumtr": "",
+									"no2_ppb": "",
+									"so2_ppb": "",
+									"co_ppm": "",
+									"healthindex": ""
+								},
+								"visitors": {
+									"origin_postcode": null,
+									"dest_postcode": null
+								},
+								"consumption_data": {},
+								"hospitals": [{
+										"hospital_guid": "",
+										"hospital_name": "",
+										"hospital_gps": "",
+										"hospital_beds": "",
+										"hospital_nursingstaff": "",
+										"hospital_beds_available": ""
+									},
+									{
+										"hospital_guid": "",
+										"hospital_name": "",
+										"hospital_gps": "",
+										"hospital_beds": "",
+										"hospital_nursingstaff": "",
+										"hospital_beds_available": ""
+									}
+								],
+
+								"social_network": {},
+								"driving_data": [{
+									"trip_guid": "",
+									"origin_gps": "",
+									"destination_gps": "",
+									"acceleration": "",
+									"speed": "",
+									"start_time": "",
+									"end_time": "",
+									"route_coordinates": ""
+								}, {
+									"trip_guid": "",
+									"origin_gps": "",
+									"destination_gps": "",
+									"acceleration": "",
+									"speed": "",
+									"start_time": "",
+									"end_time": "",
+									"route_coordinates": ""
+								}],
+								"race": {
+									"white": null,
+									"africanamerican": null,
+									"asian": null,
+									"nativehawaiian_otherpacificislander": null,
+									"americanindian_alaskannative": null,
+									"middle-eastern": "",
+									"other": null,
+									"mixed": null
+								},
+								"taxi_trips": [{
+									"trip_id": "",
+									"origin_trip": "",
+									"dest_trip": ""
+								}],
+								"delivery_trips": [{
+									"trip_id": "",
+									"origin_trip": "",
+									"dest_trip": ""
+								}],
+								"companies": [{
+									"company_name": "",
+									"company_address": "",
+									"company_gps": "",
+									"company_employees": "",
+									"company_visitors": ""
+								}],
+								"housingtype": {
+									"housingunit": "10,427",
+									"correctionalfacilityforadults": "0",
+									"nursing": "0",
+									"otherinstitutional": "0",
+									"college": "0",
+									"militaryquarters": "0",
+									"other": "0"
+								},
+								"qualification": {
+									"lessthanhighschool ": "716 ",
+									"highschool": "4,092",
+									"associatedegree": "702",
+									"bachelors": "962",
+									"masters": "293",
+									"professional": "56",
+									"phd": "52"
+								},
+								"schoolenroll": {
+									"schoolenrollement3-17_public": "1,199",
+									"schoolenrollment3-17_private": "296",
+									"schoolenrollment3-17_notenrolled": "110"
+								},
+								"schools": [{
+									"schoolname": "",
+									"schoolurl": "",
+									"school_address": "",
+									"school_population": "",
+									"school_staff": "",
+									"school_type": "",
+									"school_funding": ""
+								}]
+							},
+
+
+
+							{
+								"countyname": null,
+								"primarycity": null,
+								"waterarea_sqmi": null,
+								"landarea_sqmi": null,
+								"daily_temporalframes": [{
+									"timestamp": null,
+									"population": null,
+									"popdensity_ppsm": null,
+									"environmental": {
+										"temp_max": "",
+										"temp_min": "",
+										"temp_mean": "",
+										"temp_sd": "",
+										"pressureTendency": "",
+										"visibility": "",
+										"humidity": "",
+										"dewpoint": "",
+										"wind": "",
+										"airquailityHealthIndex": "",
+										"rain": "",
+										"snow": ""
+
+									},
+									"realestate": {
+										"property_withmortgage": "2,660",
+										"property_free_clear": "671",
+										"property_rented": "883",
+										"property_vacant": "309",
+										"studio": "0",
+										"1bedroom": "151",
+										"2bedroom": "201",
+										"3+bedroom": "482",
+										"forrent": "102",
+										"occupied": "6",
+										"forsale": "89",
+										"soldunoccupied": "10",
+										"seasonal": "10",
+										"migrantworkers": "0",
+										"other": "92"
+									},
+									"airquality": {
+										"o3_ppb": "",
+										"pm2.5_microgrampercumtr": "",
+										"no2_ppb": "",
+										"so2_ppb": "",
+										"co_ppm": "",
+										"healthindex": ""
+									},
+									"visitors": {
+										"origin_postcode": null,
+										"dest_postcode": null
+									},
+									"consumption_data": {},
+									"hospitals": [{
+											"hospital_guid": "",
+											"hospital_name": "",
+											"hospital_gps": "",
+											"hospital_beds": "",
+											"hospital_nursingstaff": "",
+											"hospital_beds_available": ""
+										},
+										{
+											"hospital_guid": "",
+											"hospital_name": "",
+											"hospital_gps": "",
+											"hospital_beds": "",
+											"hospital_nursingstaff": "",
+											"hospital_beds_available": ""
+										}
+									],
+
+									"social_network": {},
+									"driving_data": [{
+										"trip_guid": "",
+										"origin_gps": "",
+										"destination_gps": "",
+										"acceleration": "",
+										"speed": "",
+										"start_time": "",
+										"end_time": "",
+										"route_coordinates": ""
+									}, {
+										"trip_guid": "",
+										"origin_gps": "",
+										"destination_gps": "",
+										"acceleration": "",
+										"speed": "",
+										"start_time": "",
+										"end_time": "",
+										"route_coordinates": ""
+									}],
+									"race": {
+										"white": null,
+										"africanamerican": null,
+										"asian": null,
+										"nativehawaiian_otherpacificislander": null,
+										"americanindian_alaskannative": null,
+										"middle-eastern": "",
+										"other": null,
+										"mixed": null
+									},
+									"taxi_trips": [{
+										"trip_id": "",
+										"origin_trip": "",
+										"dest_trip": ""
+									}],
+									"delivery_trips": [{
+										"trip_id": "",
+										"origin_trip": "",
+										"dest_trip": ""
+									}],
+									"companies": [{
+										"company_name": "",
+										"company_address": "",
+										"company_gps": "",
+										"company_employees": "",
+										"company_visitors": ""
+									}],
+									"housingtype": {
+										"housingunit": "10,427",
+										"correctionalfacilityforadults": "0",
+										"nursing": "0",
+										"otherinstitutional": "0",
+										"college": "0",
+										"militaryquarters": "0",
+										"other": "0"
+									},
+									"qualification": {
+										"lessthanhighschool ": "716 ",
+										"highschool": "4,092",
+										"associatedegree": "702",
+										"bachelors": "962",
+										"masters": "293",
+										"professional": "56",
+										"phd": "52"
+									},
+									"schoolenroll": {
+										"schoolenrollement3-17_public": "1,199",
+										"schoolenrollment3-17_private": "296",
+										"schoolenrollment3-17_notenrolled": "110"
+									},
+									"schools": [{
+										"schoolname": "",
+										"schoolurl": "",
+										"school_address": "",
+										"school_population": "",
+										"school_staff": "",
+										"school_type": "",
+										"school_funding": ""
+									}]
+								}]
+							}
+						]
+					},
+					{
+						"countyname": null,
+						"primarycity": null,
+						"waterarea_sqmi": null,
+						"landarea_sqmi": null,
+						"daily_temporalframes": [{
+								"timestamp": null,
+								"population": null,
+								"popdensity_ppsm": null,
+								"environmental": {
+									"temp_max": "",
+									"temp_min": "",
+									"temp_mean": "",
+									"temp_sd": "",
+									"pressureTendency": "",
+									"visibility": "",
+									"humidity": "",
+									"dewpoint": "",
+									"wind": "",
+									"airquailityHealthIndex": "",
+									"rain": "",
+									"snow": ""
+
+								},
+								"realestate": {
+									"property_withmortgage": "2,660",
+									"property_free_clear": "671",
+									"property_rented": "883",
+									"property_vacant": "309",
+									"studio": "0",
+									"1bedroom": "151",
+									"2bedroom": "201",
+									"3+bedroom": "482",
+									"forrent": "102",
+									"occupied": "6",
+									"forsale": "89",
+									"soldunoccupied": "10",
+									"seasonal": "10",
+									"migrantworkers": "0",
+									"other": "92"
+								},
+								"airquality": {
+									"o3_ppb": "",
+									"pm2.5_microgrampercumtr": "",
+									"no2_ppb": "",
+									"so2_ppb": "",
+									"co_ppm": "",
+									"healthindex": ""
+								},
+								"visitors": {
+									"origin_postcode": null,
+									"dest_postcode": null
+								},
+								"consumption_data": {},
+								"hospitals": [{
+										"hospital_guid": "",
+										"hospital_name": "",
+										"hospital_gps": "",
+										"hospital_beds": "",
+										"hospital_nursingstaff": "",
+										"hospital_beds_available": ""
+									},
+									{
+										"hospital_guid": "",
+										"hospital_name": "",
+										"hospital_gps": "",
+										"hospital_beds": "",
+										"hospital_nursingstaff": "",
+										"hospital_beds_available": ""
+									}
+								],
+
+								"social_network": {},
+								"driving_data": [{
+									"trip_guid": "",
+									"origin_gps": "",
+									"destination_gps": "",
+									"acceleration": "",
+									"speed": "",
+									"start_time": "",
+									"end_time": "",
+									"route_coordinates": ""
+								}, {
+									"trip_guid": "",
+									"origin_gps": "",
+									"destination_gps": "",
+									"acceleration": "",
+									"speed": "",
+									"start_time": "",
+									"end_time": "",
+									"route_coordinates": ""
+								}],
+								"race": {
+									"white": null,
+									"africanamerican": null,
+									"asian": null,
+									"nativehawaiian_otherpacificislander": null,
+									"americanindian_alaskannative": null,
+									"middle-eastern": "",
+									"other": null,
+									"mixed": null
+								},
+								"taxi_trips": [{
+									"trip_id": "",
+									"origin_trip": "",
+									"dest_trip": ""
+								}],
+								"delivery_trips": [{
+									"trip_id": "",
+									"origin_trip": "",
+									"dest_trip": ""
+								}],
+								"companies": [{
+									"company_name": "",
+									"company_address": "",
+									"company_gps": "",
+									"company_employees": "",
+									"company_visitors": ""
+								}],
+								"housingtype": {
+									"housingunit": "10,427",
+									"correctionalfacilityforadults": "0",
+									"nursing": "0",
+									"otherinstitutional": "0",
+									"college": "0",
+									"militaryquarters": "0",
+									"other": "0"
+								},
+								"qualification": {
+									"lessthanhighschool ": "716 ",
+									"highschool": "4,092",
+									"associatedegree": "702",
+									"bachelors": "962",
+									"masters": "293",
+									"professional": "56",
+									"phd": "52"
+								},
+								"schoolenroll": {
+									"schoolenrollement3-17_public": "1,199",
+									"schoolenrollment3-17_private": "296",
+									"schoolenrollment3-17_notenrolled": "110"
+								},
+								"schools": [{
+									"schoolname": "",
+									"schoolurl": "",
+									"school_address": "",
+									"school_population": "",
+									"school_staff": "",
+									"school_type": "",
+									"school_funding": ""
+								}]
+							},
+
+
+
+							{
+								"countyname": null,
+								"primarycity": null,
+								"waterarea_sqmi": null,
+								"landarea_sqmi": null,
+								"daily_temporalframes": [{
+									"timestamp": null,
+									"population": null,
+									"popdensity_ppsm": null,
+									"environmental": {
+										"temp_max": "",
+										"temp_min": "",
+										"temp_mean": "",
+										"temp_sd": "",
+										"pressureTendency": "",
+										"visibility": "",
+										"humidity": "",
+										"dewpoint": "",
+										"wind": "",
+										"airquailityHealthIndex": "",
+										"rain": "",
+										"snow": ""
+
+									},
+									"realestate": {
+										"property_withmortgage": "2,660",
+										"property_free_clear": "671",
+										"property_rented": "883",
+										"property_vacant": "309",
+										"studio": "0",
+										"1bedroom": "151",
+										"2bedroom": "201",
+										"3+bedroom": "482",
+										"forrent": "102",
+										"occupied": "6",
+										"forsale": "89",
+										"soldunoccupied": "10",
+										"seasonal": "10",
+										"migrantworkers": "0",
+										"other": "92"
+									},
+									"airquality": {
+										"o3_ppb": "",
+										"pm2.5_microgrampercumtr": "",
+										"no2_ppb": "",
+										"so2_ppb": "",
+										"co_ppm": "",
+										"healthindex": ""
+									},
+									"visitors": {
+										"origin_postcode": null,
+										"dest_postcode": null
+									},
+									"consumption_data": {},
+									"hospitals": [{
+											"hospital_guid": "",
+											"hospital_name": "",
+											"hospital_gps": "",
+											"hospital_beds": "",
+											"hospital_nursingstaff": "",
+											"hospital_beds_available": ""
+										},
+										{
+											"hospital_guid": "",
+											"hospital_name": "",
+											"hospital_gps": "",
+											"hospital_beds": "",
+											"hospital_nursingstaff": "",
+											"hospital_beds_available": ""
+										}
+									],
+
+									"social_network": {},
+									"driving_data": [{
+										"trip_guid": "",
+										"origin_gps": "",
+										"destination_gps": "",
+										"acceleration": "",
+										"speed": "",
+										"start_time": "",
+										"end_time": "",
+										"route_coordinates": ""
+									}, {
+										"trip_guid": "",
+										"origin_gps": "",
+										"destination_gps": "",
+										"acceleration": "",
+										"speed": "",
+										"start_time": "",
+										"end_time": "",
+										"route_coordinates": ""
+									}],
+									"race": {
+										"white": null,
+										"africanamerican": null,
+										"asian": null,
+										"nativehawaiian_otherpacificislander": null,
+										"americanindian_alaskannative": null,
+										"middle-eastern": "",
+										"other": null,
+										"mixed": null
+									},
+									"taxi_trips": [{
+										"trip_id": "",
+										"origin_trip": "",
+										"dest_trip": ""
+									}],
+									"delivery_trips": [{
+										"trip_id": "",
+										"origin_trip": "",
+										"dest_trip": ""
+									}],
+									"companies": [{
+										"company_name": "",
+										"company_address": "",
+										"company_gps": "",
+										"company_employees": "",
+										"company_visitors": ""
+									}],
+									"housingtype": {
+										"housingunit": "10,427",
+										"correctionalfacilityforadults": "0",
+										"nursing": "0",
+										"otherinstitutional": "0",
+										"college": "0",
+										"militaryquarters": "0",
+										"other": "0"
+									},
+									"qualification": {
+										"lessthanhighschool ": "716 ",
+										"highschool": "4,092",
+										"associatedegree": "702",
+										"bachelors": "962",
+										"masters": "293",
+										"professional": "56",
+										"phd": "52"
+									},
+									"schoolenroll": {
+										"schoolenrollement3-17_public": "1,199",
+										"schoolenrollment3-17_private": "296",
+										"schoolenrollment3-17_notenrolled": "110"
+									},
+									"schools": [{
+										"schoolname": "",
+										"schoolurl": "",
+										"school_address": "",
+										"school_population": "",
+										"school_staff": "",
+										"school_type": "",
+										"school_funding": ""
+									}]
+								}]
+							}
+						]
+					}
+				]
+			},
+			{
+				"states_guid": "abe00871-2a3d-4e85-bd0d-6e95078b8d1d",
+				"states_name": "Louisiana",
+				"states_code": "LA",
+				"states_bounds": null,
+				"population": "6345958d-59e0-4bab-8dc7-ba943c51a1e9",
+				"counties": [{
+						"countyname": null,
+						"primarycity": null,
+						"waterarea_sqmi": null,
+						"landarea_sqmi": null,
+						"daily_temporalframes": [{
+								"timestamp": null,
+								"population": null,
+								"popdensity_ppsm": null,
+								"environmental": {
+									"temp_max": "",
+									"temp_min": "",
+									"temp_mean": "",
+									"temp_sd": "",
+									"pressureTendency": "",
+									"visibility": "",
+									"humidity": "",
+									"dewpoint": "",
+									"wind": "",
+									"airquailityHealthIndex": "",
+									"rain": "",
+									"snow": ""
+
+								},
+								"realestate": {
+									"property_withmortgage": "2,660",
+									"property_free_clear": "671",
+									"property_rented": "883",
+									"property_vacant": "309",
+									"studio": "0",
+									"1bedroom": "151",
+									"2bedroom": "201",
+									"3+bedroom": "482",
+									"forrent": "102",
+									"occupied": "6",
+									"forsale": "89",
+									"soldunoccupied": "10",
+									"seasonal": "10",
+									"migrantworkers": "0",
+									"other": "92"
+								},
+								"airquality": {
+									"o3_ppb": "",
+									"pm2.5_microgrampercumtr": "",
+									"no2_ppb": "",
+									"so2_ppb": "",
+									"co_ppm": "",
+									"healthindex": ""
+								},
+								"visitors": {
+									"origin_postcode": null,
+									"dest_postcode": null
+								},
+								"consumption_data": {},
+								"hospitals": [{
+										"hospital_guid": "",
+										"hospital_name": "",
+										"hospital_gps": "",
+										"hospital_beds": "",
+										"hospital_nursingstaff": "",
+										"hospital_beds_available": ""
+									},
+									{
+										"hospital_guid": "",
+										"hospital_name": "",
+										"hospital_gps": "",
+										"hospital_beds": "",
+										"hospital_nursingstaff": "",
+										"hospital_beds_available": ""
+									}
+								],
+
+								"social_network": {},
+								"driving_data": [{
+									"trip_guid": "",
+									"origin_gps": "",
+									"destination_gps": "",
+									"acceleration": "",
+									"speed": "",
+									"start_time": "",
+									"end_time": "",
+									"route_coordinates": ""
+								}, {
+									"trip_guid": "",
+									"origin_gps": "",
+									"destination_gps": "",
+									"acceleration": "",
+									"speed": "",
+									"start_time": "",
+									"end_time": "",
+									"route_coordinates": ""
+								}],
+								"race": {
+									"white": null,
+									"africanamerican": null,
+									"asian": null,
+									"nativehawaiian_otherpacificislander": null,
+									"americanindian_alaskannative": null,
+									"middle-eastern": "",
+									"other": null,
+									"mixed": null
+								},
+								"taxi_trips": [{
+									"trip_id": "",
+									"origin_trip": "",
+									"dest_trip": ""
+								}],
+								"delivery_trips": [{
+									"trip_id": "",
+									"origin_trip": "",
+									"dest_trip": ""
+								}],
+								"companies": [{
+									"company_name": "",
+									"company_address": "",
+									"company_gps": "",
+									"company_employees": "",
+									"company_visitors": ""
+								}],
+								"housingtype": {
+									"housingunit": "10,427",
+									"correctionalfacilityforadults": "0",
+									"nursing": "0",
+									"otherinstitutional": "0",
+									"college": "0",
+									"militaryquarters": "0",
+									"other": "0"
+								},
+								"qualification": {
+									"lessthanhighschool ": "716 ",
+									"highschool": "4,092",
+									"associatedegree": "702",
+									"bachelors": "962",
+									"masters": "293",
+									"professional": "56",
+									"phd": "52"
+								},
+								"schoolenroll": {
+									"schoolenrollement3-17_public": "1,199",
+									"schoolenrollment3-17_private": "296",
+									"schoolenrollment3-17_notenrolled": "110"
+								},
+								"schools": [{
+									"schoolname": "",
+									"schoolurl": "",
+									"school_address": "",
+									"school_population": "",
+									"school_staff": "",
+									"school_type": "",
+									"school_funding": ""
+								}]
+							},
+
+
+
+							{
+								"countyname": null,
+								"primarycity": null,
+								"waterarea_sqmi": null,
+								"landarea_sqmi": null,
+								"daily_temporalframes": [{
+									"timestamp": null,
+									"population": null,
+									"popdensity_ppsm": null,
+									"environmental": {
+										"temp_max": "",
+										"temp_min": "",
+										"temp_mean": "",
+										"temp_sd": "",
+										"pressureTendency": "",
+										"visibility": "",
+										"humidity": "",
+										"dewpoint": "",
+										"wind": "",
+										"airquailityHealthIndex": "",
+										"rain": "",
+										"snow": ""
+
+									},
+									"realestate": {
+										"property_withmortgage": "2,660",
+										"property_free_clear": "671",
+										"property_rented": "883",
+										"property_vacant": "309",
+										"studio": "0",
+										"1bedroom": "151",
+										"2bedroom": "201",
+										"3+bedroom": "482",
+										"forrent": "102",
+										"occupied": "6",
+										"forsale": "89",
+										"soldunoccupied": "10",
+										"seasonal": "10",
+										"migrantworkers": "0",
+										"other": "92"
+									},
+									"airquality": {
+										"o3_ppb": "",
+										"pm2.5_microgrampercumtr": "",
+										"no2_ppb": "",
+										"so2_ppb": "",
+										"co_ppm": "",
+										"healthindex": ""
+									},
+									"visitors": {
+										"origin_postcode": null,
+										"dest_postcode": null
+									},
+									"consumption_data": {},
+									"hospitals": [{
+											"hospital_guid": "",
+											"hospital_name": "",
+											"hospital_gps": "",
+											"hospital_beds": "",
+											"hospital_nursingstaff": "",
+											"hospital_beds_available": ""
+										},
+										{
+											"hospital_guid": "",
+											"hospital_name": "",
+											"hospital_gps": "",
+											"hospital_beds": "",
+											"hospital_nursingstaff": "",
+											"hospital_beds_available": ""
+										}
+									],
+
+									"social_network": {},
+									"driving_data": [{
+										"trip_guid": "",
+										"origin_gps": "",
+										"destination_gps": "",
+										"acceleration": "",
+										"speed": "",
+										"start_time": "",
+										"end_time": "",
+										"route_coordinates": ""
+									}, {
+										"trip_guid": "",
+										"origin_gps": "",
+										"destination_gps": "",
+										"acceleration": "",
+										"speed": "",
+										"start_time": "",
+										"end_time": "",
+										"route_coordinates": ""
+									}],
+									"race": {
+										"white": null,
+										"africanamerican": null,
+										"asian": null,
+										"nativehawaiian_otherpacificislander": null,
+										"americanindian_alaskannative": null,
+										"middle-eastern": "",
+										"other": null,
+										"mixed": null
+									},
+									"taxi_trips": [{
+										"trip_id": "",
+										"origin_trip": "",
+										"dest_trip": ""
+									}],
+									"delivery_trips": [{
+										"trip_id": "",
+										"origin_trip": "",
+										"dest_trip": ""
+									}],
+									"companies": [{
+										"company_name": "",
+										"company_address": "",
+										"company_gps": "",
+										"company_employees": "",
+										"company_visitors": ""
+									}],
+									"housingtype": {
+										"housingunit": "10,427",
+										"correctionalfacilityforadults": "0",
+										"nursing": "0",
+										"otherinstitutional": "0",
+										"college": "0",
+										"militaryquarters": "0",
+										"other": "0"
+									},
+									"qualification": {
+										"lessthanhighschool ": "716 ",
+										"highschool": "4,092",
+										"associatedegree": "702",
+										"bachelors": "962",
+										"masters": "293",
+										"professional": "56",
+										"phd": "52"
+									},
+									"schoolenroll": {
+										"schoolenrollement3-17_public": "1,199",
+										"schoolenrollment3-17_private": "296",
+										"schoolenrollment3-17_notenrolled": "110"
+									},
+									"schools": [{
+										"schoolname": "",
+										"schoolurl": "",
+										"school_address": "",
+										"school_population": "",
+										"school_staff": "",
+										"school_type": "",
+										"school_funding": ""
+									}]
+								}]
+							}
+						]
+					},
+					{
+						"countyname": null,
+						"primarycity": null,
+						"waterarea_sqmi": null,
+						"landarea_sqmi": null,
+						"daily_temporalframes": [{
+								"timestamp": null,
+								"population": null,
+								"popdensity_ppsm": null,
+								"environmental": {
+									"temp_max": "",
+									"temp_min": "",
+									"temp_mean": "",
+									"temp_sd": "",
+									"pressureTendency": "",
+									"visibility": "",
+									"humidity": "",
+									"dewpoint": "",
+									"wind": "",
+									"airquailityHealthIndex": "",
+									"rain": "",
+									"snow": ""
+
+								},
+								"realestate": {
+									"property_withmortgage": "2,660",
+									"property_free_clear": "671",
+									"property_rented": "883",
+									"property_vacant": "309",
+									"studio": "0",
+									"1bedroom": "151",
+									"2bedroom": "201",
+									"3+bedroom": "482",
+									"forrent": "102",
+									"occupied": "6",
+									"forsale": "89",
+									"soldunoccupied": "10",
+									"seasonal": "10",
+									"migrantworkers": "0",
+									"other": "92"
+								},
+								"airquality": {
+									"o3_ppb": "",
+									"pm2.5_microgrampercumtr": "",
+									"no2_ppb": "",
+									"so2_ppb": "",
+									"co_ppm": "",
+									"healthindex": ""
+								},
+								"visitors": {
+									"origin_postcode": null,
+									"dest_postcode": null
+								},
+								"consumption_data": {},
+								"hospitals": [{
+										"hospital_guid": "",
+										"hospital_name": "",
+										"hospital_gps": "",
+										"hospital_beds": "",
+										"hospital_nursingstaff": "",
+										"hospital_beds_available": ""
+									},
+									{
+										"hospital_guid": "",
+										"hospital_name": "",
+										"hospital_gps": "",
+										"hospital_beds": "",
+										"hospital_nursingstaff": "",
+										"hospital_beds_available": ""
+									}
+								],
+
+								"social_network": {},
+								"driving_data": [{
+									"trip_guid": "",
+									"origin_gps": "",
+									"destination_gps": "",
+									"acceleration": "",
+									"speed": "",
+									"start_time": "",
+									"end_time": "",
+									"route_coordinates": ""
+								}, {
+									"trip_guid": "",
+									"origin_gps": "",
+									"destination_gps": "",
+									"acceleration": "",
+									"speed": "",
+									"start_time": "",
+									"end_time": "",
+									"route_coordinates": ""
+								}],
+								"race": {
+									"white": null,
+									"africanamerican": null,
+									"asian": null,
+									"nativehawaiian_otherpacificislander": null,
+									"americanindian_alaskannative": null,
+									"middle-eastern": "",
+									"other": null,
+									"mixed": null
+								},
+								"taxi_trips": [{
+									"trip_id": "",
+									"origin_trip": "",
+									"dest_trip": ""
+								}],
+								"delivery_trips": [{
+									"trip_id": "",
+									"origin_trip": "",
+									"dest_trip": ""
+								}],
+								"companies": [{
+									"company_name": "",
+									"company_address": "",
+									"company_gps": "",
+									"company_employees": "",
+									"company_visitors": ""
+								}],
+								"housingtype": {
+									"housingunit": "10,427",
+									"correctionalfacilityforadults": "0",
+									"nursing": "0",
+									"otherinstitutional": "0",
+									"college": "0",
+									"militaryquarters": "0",
+									"other": "0"
+								},
+								"qualification": {
+									"lessthanhighschool ": "716 ",
+									"highschool": "4,092",
+									"associatedegree": "702",
+									"bachelors": "962",
+									"masters": "293",
+									"professional": "56",
+									"phd": "52"
+								},
+								"schoolenroll": {
+									"schoolenrollement3-17_public": "1,199",
+									"schoolenrollment3-17_private": "296",
+									"schoolenrollment3-17_notenrolled": "110"
+								},
+								"schools": [{
+									"schoolname": "",
+									"schoolurl": "",
+									"school_address": "",
+									"school_population": "",
+									"school_staff": "",
+									"school_type": "",
+									"school_funding": ""
+								}]
+							},
+
+
+
+							{
+								"countyname": null,
+								"primarycity": null,
+								"waterarea_sqmi": null,
+								"landarea_sqmi": null,
+								"daily_temporalframes": [{
+									"timestamp": null,
+									"population": null,
+									"popdensity_ppsm": null,
+									"environmental": {
+										"temp_max": "",
+										"temp_min": "",
+										"temp_mean": "",
+										"temp_sd": "",
+										"pressureTendency": "",
+										"visibility": "",
+										"humidity": "",
+										"dewpoint": "",
+										"wind": "",
+										"airquailityHealthIndex": "",
+										"rain": "",
+										"snow": ""
+
+									},
+									"realestate": {
+										"property_withmortgage": "2,660",
+										"property_free_clear": "671",
+										"property_rented": "883",
+										"property_vacant": "309",
+										"studio": "0",
+										"1bedroom": "151",
+										"2bedroom": "201",
+										"3+bedroom": "482",
+										"forrent": "102",
+										"occupied": "6",
+										"forsale": "89",
+										"soldunoccupied": "10",
+										"seasonal": "10",
+										"migrantworkers": "0",
+										"other": "92"
+									},
+									"airquality": {
+										"o3_ppb": "",
+										"pm2.5_microgrampercumtr": "",
+										"no2_ppb": "",
+										"so2_ppb": "",
+										"co_ppm": "",
+										"healthindex": ""
+									},
+									"visitors": {
+										"origin_postcode": null,
+										"dest_postcode": null
+									},
+									"consumption_data": {},
+									"hospitals": [{
+											"hospital_guid": "",
+											"hospital_name": "",
+											"hospital_gps": "",
+											"hospital_beds": "",
+											"hospital_nursingstaff": "",
+											"hospital_beds_available": ""
+										},
+										{
+											"hospital_guid": "",
+											"hospital_name": "",
+											"hospital_gps": "",
+											"hospital_beds": "",
+											"hospital_nursingstaff": "",
+											"hospital_beds_available": ""
+										}
+									],
+
+									"social_network": {},
+									"driving_data": [{
+										"trip_guid": "",
+										"origin_gps": "",
+										"destination_gps": "",
+										"acceleration": "",
+										"speed": "",
+										"start_time": "",
+										"end_time": "",
+										"route_coordinates": ""
+									}, {
+										"trip_guid": "",
+										"origin_gps": "",
+										"destination_gps": "",
+										"acceleration": "",
+										"speed": "",
+										"start_time": "",
+										"end_time": "",
+										"route_coordinates": ""
+									}],
+									"race": {
+										"white": null,
+										"africanamerican": null,
+										"asian": null,
+										"nativehawaiian_otherpacificislander": null,
+										"americanindian_alaskannative": null,
+										"middle-eastern": "",
+										"other": null,
+										"mixed": null
+									},
+									"taxi_trips": [{
+										"trip_id": "",
+										"origin_trip": "",
+										"dest_trip": ""
+									}],
+									"delivery_trips": [{
+										"trip_id": "",
+										"origin_trip": "",
+										"dest_trip": ""
+									}],
+									"companies": [{
+										"company_name": "",
+										"company_address": "",
+										"company_gps": "",
+										"company_employees": "",
+										"company_visitors": ""
+									}],
+									"housingtype": {
+										"housingunit": "10,427",
+										"correctionalfacilityforadults": "0",
+										"nursing": "0",
+										"otherinstitutional": "0",
+										"college": "0",
+										"militaryquarters": "0",
+										"other": "0"
+									},
+									"qualification": {
+										"lessthanhighschool ": "716 ",
+										"highschool": "4,092",
+										"associatedegree": "702",
+										"bachelors": "962",
+										"masters": "293",
+										"professional": "56",
+										"phd": "52"
+									},
+									"schoolenroll": {
+										"schoolenrollement3-17_public": "1,199",
+										"schoolenrollment3-17_private": "296",
+										"schoolenrollment3-17_notenrolled": "110"
+									},
+									"schools": [{
+										"schoolname": "",
+										"schoolurl": "",
+										"school_address": "",
+										"school_population": "",
+										"school_staff": "",
+										"school_type": "",
+										"school_funding": ""
+									}]
+								}]
+							}
+						]
+					}
+				]
+			}
+
+		]
+	}]
+}]
