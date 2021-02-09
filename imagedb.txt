@@ -1,0 +1,20 @@
+List of image databases 
+https://asf.alaska.edu/data-sets/sar-data-sets/ers-1/
+https://asf.alaska.edu/data-sets/sar-data-sets/radarsat-1/
+https://www.sensefly.com/education/datasets/
+http://dippix.tp.chiba-u.jp/database/index_e.html
+http://colorimaginglab.ugr.es/pages/Data
+https://www.wmo-sat.info/oscar/satellites/view/169
+http://www.cresda.com/EN/gjhz/jwsjfz/7461.shtml
+https://github.com/mfauvel/
+http://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes
+http://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes
+http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes
+https://www.kyb.tuebingen.mpg.de/fileadmin/user_upload/files/publications/pdfs/pdf2453.pdf
+https://mortcanty.github.io/CRCENVI/
+https://www.spectir.com/contact#free-data-samples
+https://www.cecilinstrumentationservices.com/
+https://www.maxar.com/open-data
+http://www.speclab.org/gatoreye.html
+medical database 
+http://www.imagelab.at/en_data_repository.html
