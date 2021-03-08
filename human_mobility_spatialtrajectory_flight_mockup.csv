@@ -1,0 +1,12 @@
+
+id,datetime,age,profession,gender,flightno,from,to,from_postcode,to_zipcode,flighttype,airlinesname,SARS-COV2-Vaccinated,vaccine_name
+b35685b8-24c9-47cb-bfef-b0bf87ecdd49,2021/03/07,1,,Polygender,,Benzilan,Legaspi,,4500,domestic,cathay pacific,false,Johnson & Johnson
+c77ab6dd-ec43-4363-abf7-2f18141239ca,2020/12/04,2,,Non-binary,,Jaguariaíva,Vanadzor,84200-000,,domestic,westjet,false,Johnson & Johnson
+5904b8a4-b944-4cfd-902e-ffd8260581d3,2020/08/07,3,,Polygender,,Cluses,Colonia Nicolich,74311 CEDEX,,domestic,westjet,true,Pfizer
+2810d6f7-6fba-4a34-b349-13bdabe2d244,2021/02/16,4,,Male,,Pittsburgh,Rybatskoye,15250,196851,domestic,cathay pacific,true,Pfizer
+83118f8d-fc57-49fd-97b3-35576855db91,2020/07/23,5,,Genderfluid,,Brades,San Diego,,92132,domestic,westjet,true,Covax
+d356ae80-7d41-4b54-9dce-3921d30e649a,2021/01/24,6,,Polygender,,Tyler,Warburton,75710,39180,international,westjet,false,Pfizer
+f109b7e9-bb2b-45d2-86ab-bceb747af7a3,2020/04/25,7,,Male,,Rio Grande da Serra,Dhahi,09450-000,,international,westjet,false,Pfizer
+7d0e0596-1962-4f61-aa00-383d2bdaa99c,2020/04/01,8,,Non-binary,,Santulhão,Ulyanovsk,5230-204,432980,international,cathay pacific,false,Pfizer
+d971ec7f-4c1a-4e14-ba5f-3dbbdfd69681,2020/05/18,9,,Polygender,,Kishi,Payao,,7008,domestic,swiss air,true,Pfizer
+be7ca461-9e56-4a79-ac93-4b25fe8f22a7,2020/09/18,10,,Agender,,Yuncao,Vamvakoú,,,international,air india,false,Pfizer
