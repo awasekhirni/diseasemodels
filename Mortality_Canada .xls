@@ -1,0 +1,36 @@
+﻿death_id,province_death_id,case_id,age,sex,health_region,province,country,date_death_report
+1,1,60,80-89,Male,Vancouver Coastal,BC,Canada,08-03-2020
+2,1,477,70-79,Male,Simcoe Muskoka,Ontario,Canada,11-03-2020
+3,2,,,,Vancouver Coastal,BC,Canada,16-03-2020
+4,3,,,,Vancouver Coastal,BC,Canada,16-03-2020
+5,4,,,,Vancouver Coastal,BC,Canada,16-03-2020
+6,5,,,,Vancouver Coastal,BC,Canada,17-03-2020
+7,6,,,,Vancouver Coastal,BC,Canada,17-03-2020
+8,7,,80-89,Male,Fraser,BC,Canada,17-03-2020
+9,1,,80-89,Female,Lanaudière,Quebec,Canada,18-03-2020
+10,2,806,50-59,Male,Halton,Ontario,Canada,19-03-2020
+11,1,,60-69,Male,Edmonton,Alberta,Canada,19-03-2020
+12,8,,,,Vancouver Coastal,BC,Canada,19-03-2020
+13,9,,,,Vancouver Coastal,BC,Canada,20-03-2020
+14,3,,70-79,Male,Simcoe Muskoka,Ontario,Canada,21-03-2020
+15,2,,,,Lanaudière,Quebec,Canada,21-03-2020
+16,3,,,,Lanaudière,Quebec,Canada,21-03-2020
+17,4,,,,Lanaudière,Quebec,Canada,21-03-2020
+18,10,,,,Vancouver Coastal,BC,Canada,21-03-2020
+19,4,1469,70-79,Female,York,Ontario,Canada,22-03-2020
+20,5,,70-79,Male,Toronto,Ontario,Canada,22-03-2020
+21,6,1473,80-89,Male,Haliburton Kawartha Pineridge,Ontario,Canada,22-03-2020
+22,11,,,,Vancouver Coastal,BC,Canada,23-03-2020
+23,12,,,,Vancouver Coastal,BC,Canada,23-03-2020
+24,13,,,,Fraser,BC,Canada,23-03-2020
+25,7,549,90-99,Female,Durham,Ontario,Canada,24-03-2020
+26,2,,80-89,Female,Calgary,Alberta,Canada,24-03-2020
+27,8,,80-89,Female,Hamilton,Ontario,Canada,24-03-2020
+28,9,,80-89,Male,Niagara,Ontario,Canada,25-03-2020
+29,5,,,,Not Reported,Quebec,Canada,25-03-2020
+30,6,,,,Not Reported,Quebec,Canada,25-03-2020
+31,14,,,,Vancouver Coastal,BC,Canada,25-03-2020
+32,10,,,Male,Toronto,Ontario,Canada,25-03-2020
+33,11,,,,Toronto,Ontario,Canada,25-03-2020
+34,12,,,,Toronto,Ontario,Canada,25-03-2020
+35,13,,,,Not Reported,Ontario,Canada,25-03-2020
