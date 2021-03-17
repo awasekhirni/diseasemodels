@@ -1,0 +1,1044 @@
+iso3,country,"Indicator code","Indicator name","Indicator type",value,year
+CAN,Canada,ODB.2013.C.INIT,"To what extent is there a well-resourced open government data initiative in the country?",PRIMARY,10.0,2017
+CAN,Canada,ODB.2015.C.POLI,"To what extent is there a well-defined open data policy and/or strategy in the country?",PRIMARY,9.0,2017
+CAN,Canada,ODB.2015.C.MANAG,"To what extent is there a consistent (open) data management and publication approach?",PRIMARY,9.0,2017
+CAN,Canada,ODB.2013.C.DPL,"To what extent is there a robust legal or regulatory framework for protection of personal data in the country?",PRIMARY,8.0,2017
+CAN,Canada,ODB.2013.C.RTI,"To what extent does the country have a functioning Right to Information law (RTI) / Freedom of Information (FoI) law?",PRIMARY,7.0,2017
+CAN,Canada,ODB.2013.C.CSOC,"To what extent are civil society and/or information technology professionals engaging with the government regarding open data?",PRIMARY,10.0,2017
+CAN,Canada,ODB.2013.C.SUPIN,"To what extent is government directly supporting a culture of innovation with open data through competitions, grants or other support actions?",PRIMARY,8.0,2017
+CAN,Canada,ODB.2013.C.CITY,"To what extent are city, regional and local governments running their own open data initiatives?",PRIMARY,10.0,2017
+CAN,Canada,ODB.2013.C.TRAIN,"To what extent is training about open data available for individuals or businesses wishing to increase their skills or build businesses to use (open) data?",PRIMARY,8.0,2017
+CAN,Canada,FH,"Political Freedoms and Civil Liberties",SECONDARY,99.0,2017
+CAN,Canada,UN.OSI,"Government online services index",SECONDARY,0.95652,2017
+CAN,Canada,ITU.NETUSERS,"Internet users (per 100 people)",SECONDARY,89.84,2017
+CAN,Canada,WEF.GCI.9.02,"Firm-level technology absorption.",SECONDARY,5.29,2017
+CAN,Canada,WEF.GITR.8.01,"Importance of ICT to government vision of the future.",SECONDARY,4.295679847,2017
+CAN,Canada,ODB.2013.I.GOV,"To what extent has open data had a noticeable impact on increasing government efficiency and effectiveness?",PRIMARY,6.0,2017
+CAN,Canada,ODB.2013.I.ACCOUNT,"To what extent has open data had a noticeable impact on increasing transparency and accountability in the country?",PRIMARY,6.0,2017
+CAN,Canada,ODB.2013.I.ENV,"To what extent has open data had a noticeable impact on environmental sustainability in the country?",PRIMARY,6.0,2017
+CAN,Canada,ODB.2013.I.INC,"To what extent has open data had a noticeable impact on increasing the inclusion of marginalised groups in policy making and accessing government services?",PRIMARY,5.0,2017
+CAN,Canada,ODB.2013.I.ECON,"To what extent has open data had a noticeable positive impact on the economy?",PRIMARY,4.0,2017
+CAN,Canada,ODB.2013.D1,"Map Data",PRIMARY,90.0,2017
+CAN,Canada,ODB.2013.D2,"Land ownership data",PRIMARY,95.0,2017
+CAN,Canada,ODB.2013.D4,"Detailed census data",PRIMARY,95.0,2017
+CAN,Canada,ODB.2013.D5,"Detailed government budget",PRIMARY,75.0,2017
+CAN,Canada,ODB.2013.D6,"Detailed data on government spend",PRIMARY,75.0,2017
+CAN,Canada,ODB.2013.D7,"Company register",PRIMARY,100.0,2017
+CAN,Canada,ODB.2013.D8,Legislation,PRIMARY,80.0,2017
+CAN,Canada,ODB.2013.D9,"Public transport timetables",PRIMARY,95.0,2017
+CAN,Canada,ODB.2013.D10,"International trade data",PRIMARY,90.0,2017
+CAN,Canada,ODB.2013.D11,"Health sector performance",PRIMARY,80.0,2017
+CAN,Canada,ODB.2013.D12,"Primary or secondary education performance data",PRIMARY,85.0,2017
+CAN,Canada,ODB.2013.D13,"Crime statistics",PRIMARY,90.0,2017
+CAN,Canada,ODB.2013.D14,"National environment statistics",PRIMARY,60.0,2017
+CAN,Canada,ODB.2013.D15,"National election results",PRIMARY,95.0,2017
+CAN,Canada,ODB.2013.D16,"Public Contracts",PRIMARY,100.0,2017
+CAN,Canada,ODB,"Open Data Barometer",INDEX,76.0,2017
+CAN,Canada,READINESS,Readiness,SUBINDEX,86.0,2017
+CAN,Canada,IMPLEMENTATION,Implementation,SUBINDEX,87.0,2017
+CAN,Canada,IMPACT,"Emerging Impact",SUBINDEX,55.0,2017
+CAN,Canada,GOVERNMENT_POLICIES,"Government policies",COMPONENT,78.0,2017
+CAN,Canada,GOVERNMENT_ACTION,"Government action",COMPONENT,99.0,2017
+CAN,Canada,REGULATORY_AND_CIVIL,"Citizens and civil rights",COMPONENT,87.0,2017
+CAN,Canada,BUSINESS_AND_ENTREPRENEURSHIP,"Entrepreneurs and business",COMPONENT,80.0,2017
+CAN,Canada,INNOVATION,"Government datasets: Innovation Cluster",COMPONENT,93.0,2017
+CAN,Canada,SOCIAL_POLICY,"Government datasets: Social Policy Cluster",COMPONENT,83.0,2017
+CAN,Canada,ACCOUNTABILITY,"Government datasets: Accountability cluster",COMPONENT,85.0,2017
+CAN,Canada,POLITICAL,"Political impact",COMPONENT,60.0,2017
+CAN,Canada,SOCIAL,"Social impact",COMPONENT,55.0,2017
+CAN,Canada,ECONOMIC,"Economic impact",COMPONENT,50.0,2017
+CAN,Canada,"ODB.2013.D1 ISOPEN","Map Data",PRIMARY,1.0,2017
+CAN,Canada,"ODB.2013.D2 ISOPEN","Land ownership data",PRIMARY,1.0,2017
+CAN,Canada,"ODB.2013.D4 ISOPEN","Detailed census data",PRIMARY,1.0,2017
+CAN,Canada,"ODB.2013.D5 ISOPEN","Detailed government budget",PRIMARY,0.0,2017
+CAN,Canada,"ODB.2013.D6 ISOPEN","Detailed data on government spend",PRIMARY,1.0,2017
+CAN,Canada,"ODB.2013.D7 ISOPEN","Company register",PRIMARY,1.0,2017
+CAN,Canada,"ODB.2013.D8 ISOPEN",Legislation,PRIMARY,0.0,2017
+CAN,Canada,"ODB.2013.D9 ISOPEN","Public transport timetables",PRIMARY,1.0,2017
+CAN,Canada,"ODB.2013.D10 ISOPEN","International trade data",PRIMARY,1.0,2017
+CAN,Canada,"ODB.2013.D11 ISOPEN","Health sector performance",PRIMARY,0.0,2017
+CAN,Canada,"ODB.2013.D12 ISOPEN","Primary or secondary education performance data",PRIMARY,1.0,2017
+CAN,Canada,"ODB.2013.D13 ISOPEN","Crime statistics",PRIMARY,1.0,2017
+CAN,Canada,"ODB.2013.D14 ISOPEN","National environment statistics",PRIMARY,0.0,2017
+CAN,Canada,"ODB.2013.D15 ISOPEN","National election results",PRIMARY,1.0,2017
+CAN,Canada,"ODB.2013.D16 ISOPEN","Public Contracts",PRIMARY,1.0,2017
+CAN,Canada,"ODB.2013.D1 AEXISTS","Map Data",PRIMARY,5.0,2017
+CAN,Canada,"ODB.2013.D2 AEXISTS","Land ownership data",PRIMARY,5.0,2017
+CAN,Canada,"ODB.2013.D4 AEXISTS","Detailed census data",PRIMARY,5.0,2017
+CAN,Canada,"ODB.2013.D5 AEXISTS","Detailed government budget",PRIMARY,5.0,2017
+CAN,Canada,"ODB.2013.D6 AEXISTS","Detailed data on government spend",PRIMARY,5.0,2017
+CAN,Canada,"ODB.2013.D7 AEXISTS","Company register",PRIMARY,5.0,2017
+CAN,Canada,"ODB.2013.D8 AEXISTS",Legislation,PRIMARY,5.0,2017
+CAN,Canada,"ODB.2013.D9 AEXISTS","Public transport timetables",PRIMARY,5.0,2017
+CAN,Canada,"ODB.2013.D10 AEXISTS","International trade data",PRIMARY,5.0,2017
+CAN,Canada,"ODB.2013.D11 AEXISTS","Health sector performance",PRIMARY,5.0,2017
+CAN,Canada,"ODB.2013.D12 AEXISTS","Primary or secondary education performance data",PRIMARY,5.0,2017
+CAN,Canada,"ODB.2013.D13 AEXISTS","Crime statistics",PRIMARY,5.0,2017
+CAN,Canada,"ODB.2013.D14 AEXISTS","National environment statistics",PRIMARY,5.0,2017
+CAN,Canada,"ODB.2013.D15 AEXISTS","National election results",PRIMARY,5.0,2017
+CAN,Canada,"ODB.2013.D16 AEXISTS","Public Contracts",PRIMARY,5.0,2017
+CAN,Canada,"ODB.2013.D1 BAVAILABLE","Map Data",PRIMARY,10.0,2017
+CAN,Canada,"ODB.2013.D2 BAVAILABLE","Land ownership data",PRIMARY,10.0,2017
+CAN,Canada,"ODB.2013.D4 BAVAILABLE","Detailed census data",PRIMARY,10.0,2017
+CAN,Canada,"ODB.2013.D5 BAVAILABLE","Detailed government budget",PRIMARY,10.0,2017
+CAN,Canada,"ODB.2013.D6 BAVAILABLE","Detailed data on government spend",PRIMARY,10.0,2017
+CAN,Canada,"ODB.2013.D7 BAVAILABLE","Company register",PRIMARY,10.0,2017
+CAN,Canada,"ODB.2013.D8 BAVAILABLE",Legislation,PRIMARY,10.0,2017
+CAN,Canada,"ODB.2013.D9 BAVAILABLE","Public transport timetables",PRIMARY,10.0,2017
+CAN,Canada,"ODB.2013.D10 BAVAILABLE","International trade data",PRIMARY,10.0,2017
+CAN,Canada,"ODB.2013.D11 BAVAILABLE","Health sector performance",PRIMARY,10.0,2017
+CAN,Canada,"ODB.2013.D12 BAVAILABLE","Primary or secondary education performance data",PRIMARY,10.0,2017
+CAN,Canada,"ODB.2013.D13 BAVAILABLE","Crime statistics",PRIMARY,10.0,2017
+CAN,Canada,"ODB.2013.D14 BAVAILABLE","National environment statistics",PRIMARY,10.0,2017
+CAN,Canada,"ODB.2013.D15 BAVAILABLE","National election results",PRIMARY,10.0,2017
+CAN,Canada,"ODB.2013.D16 BAVAILABLE","Public Contracts",PRIMARY,10.0,2017
+CAN,Canada,"ODB.2013.D1 CMACHINEREADABLE","Map Data",PRIMARY,15.0,2017
+CAN,Canada,"ODB.2013.D2 CMACHINEREADABLE","Land ownership data",PRIMARY,15.0,2017
+CAN,Canada,"ODB.2013.D4 CMACHINEREADABLE","Detailed census data",PRIMARY,15.0,2017
+CAN,Canada,"ODB.2013.D5 CMACHINEREADABLE","Detailed government budget",PRIMARY,15.0,2017
+CAN,Canada,"ODB.2013.D6 CMACHINEREADABLE","Detailed data on government spend",PRIMARY,15.0,2017
+CAN,Canada,"ODB.2013.D7 CMACHINEREADABLE","Company register",PRIMARY,15.0,2017
+CAN,Canada,"ODB.2013.D8 CMACHINEREADABLE",Legislation,PRIMARY,15.0,2017
+CAN,Canada,"ODB.2013.D9 CMACHINEREADABLE","Public transport timetables",PRIMARY,15.0,2017
+CAN,Canada,"ODB.2013.D10 CMACHINEREADABLE","International trade data",PRIMARY,15.0,2017
+CAN,Canada,"ODB.2013.D11 CMACHINEREADABLE","Health sector performance",PRIMARY,15.0,2017
+CAN,Canada,"ODB.2013.D12 CMACHINEREADABLE","Primary or secondary education performance data",PRIMARY,15.0,2017
+CAN,Canada,"ODB.2013.D13 CMACHINEREADABLE","Crime statistics",PRIMARY,15.0,2017
+CAN,Canada,"ODB.2013.D14 CMACHINEREADABLE","National environment statistics",PRIMARY,15.0,2017
+CAN,Canada,"ODB.2013.D15 CMACHINEREADABLE","National election results",PRIMARY,15.0,2017
+CAN,Canada,"ODB.2013.D16 CMACHINEREADABLE","Public Contracts",PRIMARY,15.0,2017
+CAN,Canada,"ODB.2013.D1 DBULK","Map Data",PRIMARY,15.0,2017
+CAN,Canada,"ODB.2013.D2 DBULK","Land ownership data",PRIMARY,15.0,2017
+CAN,Canada,"ODB.2013.D4 DBULK","Detailed census data",PRIMARY,15.0,2017
+CAN,Canada,"ODB.2013.D5 DBULK","Detailed government budget",PRIMARY,15.0,2017
+CAN,Canada,"ODB.2013.D6 DBULK","Detailed data on government spend",PRIMARY,15.0,2017
+CAN,Canada,"ODB.2013.D7 DBULK","Company register",PRIMARY,15.0,2017
+CAN,Canada,"ODB.2013.D8 DBULK",Legislation,PRIMARY,15.0,2017
+CAN,Canada,"ODB.2013.D9 DBULK","Public transport timetables",PRIMARY,15.0,2017
+CAN,Canada,"ODB.2013.D10 DBULK","International trade data",PRIMARY,15.0,2017
+CAN,Canada,"ODB.2013.D11 DBULK","Health sector performance",PRIMARY,15.0,2017
+CAN,Canada,"ODB.2013.D12 DBULK","Primary or secondary education performance data",PRIMARY,15.0,2017
+CAN,Canada,"ODB.2013.D13 DBULK","Crime statistics",PRIMARY,15.0,2017
+CAN,Canada,"ODB.2013.D14 DBULK","National environment statistics",PRIMARY,15.0,2017
+CAN,Canada,"ODB.2013.D15 DBULK","National election results",PRIMARY,15.0,2017
+CAN,Canada,"ODB.2013.D16 DBULK","Public Contracts",PRIMARY,15.0,2017
+CAN,Canada,"ODB.2013.D1 EFREE","Map Data",PRIMARY,15.0,2017
+CAN,Canada,"ODB.2013.D2 EFREE","Land ownership data",PRIMARY,15.0,2017
+CAN,Canada,"ODB.2013.D4 EFREE","Detailed census data",PRIMARY,15.0,2017
+CAN,Canada,"ODB.2013.D5 EFREE","Detailed government budget",PRIMARY,15.0,2017
+CAN,Canada,"ODB.2013.D6 EFREE","Detailed data on government spend",PRIMARY,15.0,2017
+CAN,Canada,"ODB.2013.D7 EFREE","Company register",PRIMARY,15.0,2017
+CAN,Canada,"ODB.2013.D8 EFREE",Legislation,PRIMARY,15.0,2017
+CAN,Canada,"ODB.2013.D9 EFREE","Public transport timetables",PRIMARY,15.0,2017
+CAN,Canada,"ODB.2013.D10 EFREE","International trade data",PRIMARY,15.0,2017
+CAN,Canada,"ODB.2013.D11 EFREE","Health sector performance",PRIMARY,15.0,2017
+CAN,Canada,"ODB.2013.D12 EFREE","Primary or secondary education performance data",PRIMARY,15.0,2017
+CAN,Canada,"ODB.2013.D13 EFREE","Crime statistics",PRIMARY,15.0,2017
+CAN,Canada,"ODB.2013.D14 EFREE","National environment statistics",PRIMARY,15.0,2017
+CAN,Canada,"ODB.2013.D15 EFREE","National election results",PRIMARY,15.0,2017
+CAN,Canada,"ODB.2013.D16 EFREE","Public Contracts",PRIMARY,15.0,2017
+CAN,Canada,"ODB.2013.D1 FLICENSE","Map Data",PRIMARY,15.0,2017
+CAN,Canada,"ODB.2013.D2 FLICENSE","Land ownership data",PRIMARY,15.0,2017
+CAN,Canada,"ODB.2013.D4 FLICENSE","Detailed census data",PRIMARY,15.0,2017
+CAN,Canada,"ODB.2013.D5 FLICENSE","Detailed government budget",PRIMARY,0.0,2017
+CAN,Canada,"ODB.2013.D6 FLICENSE","Detailed data on government spend",PRIMARY,15.0,2017
+CAN,Canada,"ODB.2013.D7 FLICENSE","Company register",PRIMARY,15.0,2017
+CAN,Canada,"ODB.2013.D8 FLICENSE",Legislation,PRIMARY,0.0,2017
+CAN,Canada,"ODB.2013.D9 FLICENSE","Public transport timetables",PRIMARY,15.0,2017
+CAN,Canada,"ODB.2013.D10 FLICENSE","International trade data",PRIMARY,15.0,2017
+CAN,Canada,"ODB.2013.D11 FLICENSE","Health sector performance",PRIMARY,0.0,2017
+CAN,Canada,"ODB.2013.D12 FLICENSE","Primary or secondary education performance data",PRIMARY,15.0,2017
+CAN,Canada,"ODB.2013.D13 FLICENSE","Crime statistics",PRIMARY,15.0,2017
+CAN,Canada,"ODB.2013.D14 FLICENSE","National environment statistics",PRIMARY,0.0,2017
+CAN,Canada,"ODB.2013.D15 FLICENSE","National election results",PRIMARY,15.0,2017
+CAN,Canada,"ODB.2013.D16 FLICENSE","Public Contracts",PRIMARY,15.0,2017
+CAN,Canada,"ODB.2013.D1 GUPDATED","Map Data",PRIMARY,10.0,2017
+CAN,Canada,"ODB.2013.D2 GUPDATED","Land ownership data",PRIMARY,10.0,2017
+CAN,Canada,"ODB.2013.D4 GUPDATED","Detailed census data",PRIMARY,10.0,2017
+CAN,Canada,"ODB.2013.D5 GUPDATED","Detailed government budget",PRIMARY,10.0,2017
+CAN,Canada,"ODB.2013.D6 GUPDATED","Detailed data on government spend",PRIMARY,-5.0,2017
+CAN,Canada,"ODB.2013.D7 GUPDATED","Company register",PRIMARY,10.0,2017
+CAN,Canada,"ODB.2013.D8 GUPDATED",Legislation,PRIMARY,10.0,2017
+CAN,Canada,"ODB.2013.D9 GUPDATED","Public transport timetables",PRIMARY,10.0,2017
+CAN,Canada,"ODB.2013.D10 GUPDATED","International trade data",PRIMARY,10.0,2017
+CAN,Canada,"ODB.2013.D11 GUPDATED","Health sector performance",PRIMARY,10.0,2017
+CAN,Canada,"ODB.2013.D12 GUPDATED","Primary or secondary education performance data",PRIMARY,10.0,2017
+CAN,Canada,"ODB.2013.D13 GUPDATED","Crime statistics",PRIMARY,10.0,2017
+CAN,Canada,"ODB.2013.D14 GUPDATED","National environment statistics",PRIMARY,-5.0,2017
+CAN,Canada,"ODB.2013.D15 GUPDATED","National election results",PRIMARY,10.0,2017
+CAN,Canada,"ODB.2013.D16 GUPDATED","Public Contracts",PRIMARY,10.0,2017
+CAN,Canada,"ODB.2013.D1 HSUSTAINABLE","Map Data",PRIMARY,5.0,2017
+CAN,Canada,"ODB.2013.D2 HSUSTAINABLE","Land ownership data",PRIMARY,5.0,2017
+CAN,Canada,"ODB.2013.D4 HSUSTAINABLE","Detailed census data",PRIMARY,5.0,2017
+CAN,Canada,"ODB.2013.D5 HSUSTAINABLE","Detailed government budget",PRIMARY,5.0,2017
+CAN,Canada,"ODB.2013.D6 HSUSTAINABLE","Detailed data on government spend",PRIMARY,0.0,2017
+CAN,Canada,"ODB.2013.D7 HSUSTAINABLE","Company register",PRIMARY,5.0,2017
+CAN,Canada,"ODB.2013.D8 HSUSTAINABLE",Legislation,PRIMARY,5.0,2017
+CAN,Canada,"ODB.2013.D9 HSUSTAINABLE","Public transport timetables",PRIMARY,5.0,2017
+CAN,Canada,"ODB.2013.D10 HSUSTAINABLE","International trade data",PRIMARY,5.0,2017
+CAN,Canada,"ODB.2013.D11 HSUSTAINABLE","Health sector performance",PRIMARY,5.0,2017
+CAN,Canada,"ODB.2013.D12 HSUSTAINABLE","Primary or secondary education performance data",PRIMARY,0.0,2017
+CAN,Canada,"ODB.2013.D13 HSUSTAINABLE","Crime statistics",PRIMARY,5.0,2017
+CAN,Canada,"ODB.2013.D14 HSUSTAINABLE","National environment statistics",PRIMARY,0.0,2017
+CAN,Canada,"ODB.2013.D15 HSUSTAINABLE","National election results",PRIMARY,5.0,2017
+CAN,Canada,"ODB.2013.D16 HSUSTAINABLE","Public Contracts",PRIMARY,5.0,2017
+CAN,Canada,"ODB.2013.D1 IDISCOVERABLE","Map Data",PRIMARY,0.0,2017
+CAN,Canada,"ODB.2013.D2 IDISCOVERABLE","Land ownership data",PRIMARY,5.0,2017
+CAN,Canada,"ODB.2013.D4 IDISCOVERABLE","Detailed census data",PRIMARY,5.0,2017
+CAN,Canada,"ODB.2013.D5 IDISCOVERABLE","Detailed government budget",PRIMARY,0.0,2017
+CAN,Canada,"ODB.2013.D6 IDISCOVERABLE","Detailed data on government spend",PRIMARY,5.0,2017
+CAN,Canada,"ODB.2013.D7 IDISCOVERABLE","Company register",PRIMARY,5.0,2017
+CAN,Canada,"ODB.2013.D8 IDISCOVERABLE",Legislation,PRIMARY,5.0,2017
+CAN,Canada,"ODB.2013.D9 IDISCOVERABLE","Public transport timetables",PRIMARY,0.0,2017
+CAN,Canada,"ODB.2013.D10 IDISCOVERABLE","International trade data",PRIMARY,0.0,2017
+CAN,Canada,"ODB.2013.D11 IDISCOVERABLE","Health sector performance",PRIMARY,5.0,2017
+CAN,Canada,"ODB.2013.D12 IDISCOVERABLE","Primary or secondary education performance data",PRIMARY,0.0,2017
+CAN,Canada,"ODB.2013.D13 IDISCOVERABLE","Crime statistics",PRIMARY,0.0,2017
+CAN,Canada,"ODB.2013.D14 IDISCOVERABLE","National environment statistics",PRIMARY,5.0,2017
+CAN,Canada,"ODB.2013.D15 IDISCOVERABLE","National election results",PRIMARY,5.0,2017
+CAN,Canada,"ODB.2013.D16 IDISCOVERABLE","Public Contracts",PRIMARY,5.0,2017
+CAN,Canada,"ODB.2013.D1 JLINKED","Map Data",PRIMARY,0.0,2017
+CAN,Canada,"ODB.2013.D2 JLINKED","Land ownership data",PRIMARY,0.0,2017
+CAN,Canada,"ODB.2013.D4 JLINKED","Detailed census data",PRIMARY,0.0,2017
+CAN,Canada,"ODB.2013.D5 JLINKED","Detailed government budget",PRIMARY,0.0,2017
+CAN,Canada,"ODB.2013.D6 JLINKED","Detailed data on government spend",PRIMARY,0.0,2017
+CAN,Canada,"ODB.2013.D7 JLINKED","Company register",PRIMARY,5.0,2017
+CAN,Canada,"ODB.2013.D8 JLINKED",Legislation,PRIMARY,0.0,2017
+CAN,Canada,"ODB.2013.D9 JLINKED","Public transport timetables",PRIMARY,5.0,2017
+CAN,Canada,"ODB.2013.D10 JLINKED","International trade data",PRIMARY,0.0,2017
+CAN,Canada,"ODB.2013.D11 JLINKED","Health sector performance",PRIMARY,0.0,2017
+CAN,Canada,"ODB.2013.D12 JLINKED","Primary or secondary education performance data",PRIMARY,0.0,2017
+CAN,Canada,"ODB.2013.D13 JLINKED","Crime statistics",PRIMARY,0.0,2017
+CAN,Canada,"ODB.2013.D14 JLINKED","National environment statistics",PRIMARY,0.0,2017
+CAN,Canada,"ODB.2013.D15 JLINKED","National election results",PRIMARY,0.0,2017
+CAN,Canada,"ODB.2013.D16 JLINKED","Public Contracts",PRIMARY,5.0,2017
+CAN,Canada,ODB.2013.C.INIT,"To what extent is there a well-resourced open government data initiative in the country?",PRIMARY,9.0,2016
+CAN,Canada,ODB.2015.C.POLI,"To what extent is there a well-defined open data policy and/or strategy in the country?",PRIMARY,9.0,2016
+CAN,Canada,ODB.2015.C.MANAG,"To what extent is there a consistent (open) data management and publication approach?",PRIMARY,8.0,2016
+CAN,Canada,ODB.2013.C.DPL,"To what extent is there a robust legal or regulatory framework for protection of personal data in the country?",PRIMARY,8.0,2016
+CAN,Canada,ODB.2013.C.RTI,"To what extent does the country have a functioning Right to Information law (RTI) / Freedom of Information (FoI) law?",PRIMARY,7.0,2016
+CAN,Canada,ODB.2013.C.CSOC,"To what extent are civil society and/or information technology professionals engaging with the government regarding open data?",PRIMARY,9.0,2016
+CAN,Canada,ODB.2013.C.SUPIN,"To what extent is government directly supporting a culture of innovation with open data through competitions, grants or other support actions?",PRIMARY,7.0,2016
+CAN,Canada,ODB.2013.C.CITY,"To what extent are city, regional and local governments running their own open data initiatives?",PRIMARY,10.0,2016
+CAN,Canada,ODB.2013.C.TRAIN,"To what extent is training about open data available for individuals or businesses wishing to increase their skills or build businesses to use (open) data?",PRIMARY,7.0,2016
+CAN,Canada,FH,"Political Freedoms and Civil Liberties",SECONDARY,99.0,2016
+CAN,Canada,UN.OSI,"Government online services index",SECONDARY,0.95652,2016
+CAN,Canada,WEF.GCI.9.02,"Firm-level technology absorption.",SECONDARY,5.268656731,2016
+CAN,Canada,WEF.GITR.8.01,"Importance of ICT to government vision of the future.",SECONDARY,4.295679847,2016
+CAN,Canada,ODB.2013.I.GOV,"To what extent has open data had a noticeable impact on increasing government efficiency and effectiveness?",PRIMARY,4.0,2016
+CAN,Canada,ODB.2013.I.ACCOUNT,"To what extent has open data had a noticeable impact on increasing transparency and accountability in the country?",PRIMARY,3.0,2016
+CAN,Canada,ODB.2013.I.ENV,"To what extent has open data had a noticeable impact on environmental sustainability in the country?",PRIMARY,3.0,2016
+CAN,Canada,ODB.2013.I.INC,"To what extent has open data had a noticeable impact on increasing the inclusion of marginalised groups in policy making and accessing government services?",PRIMARY,4.0,2016
+CAN,Canada,ODB.2013.I.ECON,"To what extent has open data had a noticeable positive impact on the economy?",PRIMARY,3.0,2016
+CAN,Canada,ODB.2013.D1,"Map Data",PRIMARY,95.0,2016
+CAN,Canada,ODB.2013.D2,"Land ownership data",PRIMARY,90.0,2016
+CAN,Canada,ODB.2013.D4,"Detailed census data",PRIMARY,95.0,2016
+CAN,Canada,ODB.2013.D5,"Detailed government budget",PRIMARY,80.0,2016
+CAN,Canada,ODB.2013.D6,"Detailed data on government spend",PRIMARY,90.0,2016
+CAN,Canada,ODB.2013.D7,"Company register",PRIMARY,100.0,2016
+CAN,Canada,ODB.2013.D8,Legislation,PRIMARY,65.0,2016
+CAN,Canada,ODB.2013.D9,"Public transport timetables",PRIMARY,90.0,2016
+CAN,Canada,ODB.2013.D10,"International trade data",PRIMARY,90.0,2016
+CAN,Canada,ODB.2013.D11,"Health sector performance",PRIMARY,80.0,2016
+CAN,Canada,ODB.2013.D12,"Primary or secondary education performance data",PRIMARY,15.0,2016
+CAN,Canada,ODB.2013.D13,"Crime statistics",PRIMARY,75.0,2016
+CAN,Canada,ODB.2013.D14,"National environment statistics",PRIMARY,50.0,2016
+CAN,Canada,ODB.2013.D15,"National election results",PRIMARY,95.0,2016
+CAN,Canada,ODB.2013.D16,"Public Contracts",PRIMARY,85.0,2016
+CAN,Canada,ODB,"Open Data Barometer",INDEX,68.0,2016
+CAN,Canada,READINESS,Readiness,SUBINDEX,82.0,2016
+CAN,Canada,IMPLEMENTATION,Implementation,SUBINDEX,80.0,2016
+CAN,Canada,IMPACT,"Emerging Impact",SUBINDEX,37.0,2016
+CAN,Canada,GOVERNMENT_POLICIES,"Government policies",COMPONENT,75.0,2016
+CAN,Canada,GOVERNMENT_ACTION,"Government action",COMPONENT,95.0,2016
+CAN,Canada,REGULATORY_AND_CIVIL,"Citizens and civil rights",COMPONENT,85.0,2016
+CAN,Canada,BUSINESS_AND_ENTREPRENEURSHIP,"Entrepreneurs and business",COMPONENT,75.0,2016
+CAN,Canada,INNOVATION,"Government datasets: Innovation Cluster",COMPONENT,87.0,2016
+CAN,Canada,SOCIAL_POLICY,"Government datasets: Social Policy Cluster",COMPONENT,66.0,2016
+CAN,Canada,ACCOUNTABILITY,"Government datasets: Accountability cluster",COMPONENT,86.0,2016
+CAN,Canada,POLITICAL,"Political impact",COMPONENT,35.0,2016
+CAN,Canada,SOCIAL,"Social impact",COMPONENT,35.0,2016
+CAN,Canada,ECONOMIC,"Economic impact",COMPONENT,40.0,2016
+CAN,Canada,"ODB.2013.D1 ISOPEN","Map Data",PRIMARY,1.0,2016
+CAN,Canada,"ODB.2013.D10 ISOPEN","International trade data",PRIMARY,1.0,2016
+CAN,Canada,"ODB.2013.D11 ISOPEN","Health sector performance",PRIMARY,0.0,2016
+CAN,Canada,"ODB.2013.D12 ISOPEN","Primary or secondary education performance data",PRIMARY,0.0,2016
+CAN,Canada,"ODB.2013.D13 ISOPEN","Crime statistics",PRIMARY,1.0,2016
+CAN,Canada,"ODB.2013.D14 ISOPEN","National environment statistics",PRIMARY,0.0,2016
+CAN,Canada,"ODB.2013.D15 ISOPEN","National election results",PRIMARY,1.0,2016
+CAN,Canada,"ODB.2013.D16 ISOPEN","Public Contracts",PRIMARY,0.0,2016
+CAN,Canada,"ODB.2013.D2 ISOPEN","Land ownership data",PRIMARY,1.0,2016
+CAN,Canada,"ODB.2013.D4 ISOPEN","Detailed census data",PRIMARY,1.0,2016
+CAN,Canada,"ODB.2013.D5 ISOPEN","Detailed government budget",PRIMARY,0.0,2016
+CAN,Canada,"ODB.2013.D6 ISOPEN","Detailed data on government spend",PRIMARY,1.0,2016
+CAN,Canada,"ODB.2013.D7 ISOPEN","Company register",PRIMARY,1.0,2016
+CAN,Canada,"ODB.2013.D8 ISOPEN",Legislation,PRIMARY,0.0,2016
+CAN,Canada,"ODB.2013.D9 ISOPEN","Public transport timetables",PRIMARY,1.0,2016
+CAN,Canada,"ODB.2013.D1 AEXISTS","Map Data",PRIMARY,5.0,2016
+CAN,Canada,"ODB.2013.D10 AEXISTS","International trade data",PRIMARY,5.0,2016
+CAN,Canada,"ODB.2013.D11 AEXISTS","Health sector performance",PRIMARY,5.0,2016
+CAN,Canada,"ODB.2013.D12 AEXISTS","Primary or secondary education performance data",PRIMARY,5.0,2016
+CAN,Canada,"ODB.2013.D13 AEXISTS","Crime statistics",PRIMARY,5.0,2016
+CAN,Canada,"ODB.2013.D14 AEXISTS","National environment statistics",PRIMARY,5.0,2016
+CAN,Canada,"ODB.2013.D15 AEXISTS","National election results",PRIMARY,5.0,2016
+CAN,Canada,"ODB.2013.D16 AEXISTS","Public Contracts",PRIMARY,5.0,2016
+CAN,Canada,"ODB.2013.D2 AEXISTS","Land ownership data",PRIMARY,5.0,2016
+CAN,Canada,"ODB.2013.D4 AEXISTS","Detailed census data",PRIMARY,5.0,2016
+CAN,Canada,"ODB.2013.D5 AEXISTS","Detailed government budget",PRIMARY,5.0,2016
+CAN,Canada,"ODB.2013.D6 AEXISTS","Detailed data on government spend",PRIMARY,5.0,2016
+CAN,Canada,"ODB.2013.D7 AEXISTS","Company register",PRIMARY,5.0,2016
+CAN,Canada,"ODB.2013.D8 AEXISTS",Legislation,PRIMARY,5.0,2016
+CAN,Canada,"ODB.2013.D9 AEXISTS","Public transport timetables",PRIMARY,5.0,2016
+CAN,Canada,"ODB.2013.D1 BAVAILABLE","Map Data",PRIMARY,10.0,2016
+CAN,Canada,"ODB.2013.D10 BAVAILABLE","International trade data",PRIMARY,10.0,2016
+CAN,Canada,"ODB.2013.D11 BAVAILABLE","Health sector performance",PRIMARY,10.0,2016
+CAN,Canada,"ODB.2013.D12 BAVAILABLE","Primary or secondary education performance data",PRIMARY,10.0,2016
+CAN,Canada,"ODB.2013.D13 BAVAILABLE","Crime statistics",PRIMARY,10.0,2016
+CAN,Canada,"ODB.2013.D14 BAVAILABLE","National environment statistics",PRIMARY,10.0,2016
+CAN,Canada,"ODB.2013.D15 BAVAILABLE","National election results",PRIMARY,10.0,2016
+CAN,Canada,"ODB.2013.D16 BAVAILABLE","Public Contracts",PRIMARY,10.0,2016
+CAN,Canada,"ODB.2013.D2 BAVAILABLE","Land ownership data",PRIMARY,10.0,2016
+CAN,Canada,"ODB.2013.D4 BAVAILABLE","Detailed census data",PRIMARY,10.0,2016
+CAN,Canada,"ODB.2013.D5 BAVAILABLE","Detailed government budget",PRIMARY,10.0,2016
+CAN,Canada,"ODB.2013.D6 BAVAILABLE","Detailed data on government spend",PRIMARY,10.0,2016
+CAN,Canada,"ODB.2013.D7 BAVAILABLE","Company register",PRIMARY,10.0,2016
+CAN,Canada,"ODB.2013.D8 BAVAILABLE",Legislation,PRIMARY,10.0,2016
+CAN,Canada,"ODB.2013.D9 BAVAILABLE","Public transport timetables",PRIMARY,10.0,2016
+CAN,Canada,"ODB.2013.D1 CMACHINEREADABLE","Map Data",PRIMARY,15.0,2016
+CAN,Canada,"ODB.2013.D10 CMACHINEREADABLE","International trade data",PRIMARY,15.0,2016
+CAN,Canada,"ODB.2013.D11 CMACHINEREADABLE","Health sector performance",PRIMARY,15.0,2016
+CAN,Canada,"ODB.2013.D12 CMACHINEREADABLE","Primary or secondary education performance data",PRIMARY,0.0,2016
+CAN,Canada,"ODB.2013.D13 CMACHINEREADABLE","Crime statistics",PRIMARY,15.0,2016
+CAN,Canada,"ODB.2013.D14 CMACHINEREADABLE","National environment statistics",PRIMARY,15.0,2016
+CAN,Canada,"ODB.2013.D15 CMACHINEREADABLE","National election results",PRIMARY,15.0,2016
+CAN,Canada,"ODB.2013.D16 CMACHINEREADABLE","Public Contracts",PRIMARY,15.0,2016
+CAN,Canada,"ODB.2013.D2 CMACHINEREADABLE","Land ownership data",PRIMARY,15.0,2016
+CAN,Canada,"ODB.2013.D4 CMACHINEREADABLE","Detailed census data",PRIMARY,15.0,2016
+CAN,Canada,"ODB.2013.D5 CMACHINEREADABLE","Detailed government budget",PRIMARY,15.0,2016
+CAN,Canada,"ODB.2013.D6 CMACHINEREADABLE","Detailed data on government spend",PRIMARY,15.0,2016
+CAN,Canada,"ODB.2013.D7 CMACHINEREADABLE","Company register",PRIMARY,15.0,2016
+CAN,Canada,"ODB.2013.D8 CMACHINEREADABLE",Legislation,PRIMARY,15.0,2016
+CAN,Canada,"ODB.2013.D9 CMACHINEREADABLE","Public transport timetables",PRIMARY,15.0,2016
+CAN,Canada,"ODB.2013.D1 DBULK","Map Data",PRIMARY,15.0,2016
+CAN,Canada,"ODB.2013.D10 DBULK","International trade data",PRIMARY,15.0,2016
+CAN,Canada,"ODB.2013.D11 DBULK","Health sector performance",PRIMARY,15.0,2016
+CAN,Canada,"ODB.2013.D12 DBULK","Primary or secondary education performance data",PRIMARY,0.0,2016
+CAN,Canada,"ODB.2013.D13 DBULK","Crime statistics",PRIMARY,15.0,2016
+CAN,Canada,"ODB.2013.D14 DBULK","National environment statistics",PRIMARY,0.0,2016
+CAN,Canada,"ODB.2013.D15 DBULK","National election results",PRIMARY,15.0,2016
+CAN,Canada,"ODB.2013.D16 DBULK","Public Contracts",PRIMARY,15.0,2016
+CAN,Canada,"ODB.2013.D2 DBULK","Land ownership data",PRIMARY,15.0,2016
+CAN,Canada,"ODB.2013.D4 DBULK","Detailed census data",PRIMARY,15.0,2016
+CAN,Canada,"ODB.2013.D5 DBULK","Detailed government budget",PRIMARY,15.0,2016
+CAN,Canada,"ODB.2013.D6 DBULK","Detailed data on government spend",PRIMARY,15.0,2016
+CAN,Canada,"ODB.2013.D7 DBULK","Company register",PRIMARY,15.0,2016
+CAN,Canada,"ODB.2013.D8 DBULK",Legislation,PRIMARY,0.0,2016
+CAN,Canada,"ODB.2013.D9 DBULK","Public transport timetables",PRIMARY,15.0,2016
+CAN,Canada,"ODB.2013.D1 EFREE","Map Data",PRIMARY,15.0,2016
+CAN,Canada,"ODB.2013.D10 EFREE","International trade data",PRIMARY,15.0,2016
+CAN,Canada,"ODB.2013.D11 EFREE","Health sector performance",PRIMARY,15.0,2016
+CAN,Canada,"ODB.2013.D12 EFREE","Primary or secondary education performance data",PRIMARY,0.0,2016
+CAN,Canada,"ODB.2013.D13 EFREE","Crime statistics",PRIMARY,15.0,2016
+CAN,Canada,"ODB.2013.D14 EFREE","National environment statistics",PRIMARY,15.0,2016
+CAN,Canada,"ODB.2013.D15 EFREE","National election results",PRIMARY,15.0,2016
+CAN,Canada,"ODB.2013.D16 EFREE","Public Contracts",PRIMARY,15.0,2016
+CAN,Canada,"ODB.2013.D2 EFREE","Land ownership data",PRIMARY,15.0,2016
+CAN,Canada,"ODB.2013.D4 EFREE","Detailed census data",PRIMARY,15.0,2016
+CAN,Canada,"ODB.2013.D5 EFREE","Detailed government budget",PRIMARY,15.0,2016
+CAN,Canada,"ODB.2013.D6 EFREE","Detailed data on government spend",PRIMARY,15.0,2016
+CAN,Canada,"ODB.2013.D7 EFREE","Company register",PRIMARY,15.0,2016
+CAN,Canada,"ODB.2013.D8 EFREE",Legislation,PRIMARY,15.0,2016
+CAN,Canada,"ODB.2013.D9 EFREE","Public transport timetables",PRIMARY,15.0,2016
+CAN,Canada,"ODB.2013.D1 FLICENSE","Map Data",PRIMARY,15.0,2016
+CAN,Canada,"ODB.2013.D10 FLICENSE","International trade data",PRIMARY,15.0,2016
+CAN,Canada,"ODB.2013.D11 FLICENSE","Health sector performance",PRIMARY,0.0,2016
+CAN,Canada,"ODB.2013.D12 FLICENSE","Primary or secondary education performance data",PRIMARY,0.0,2016
+CAN,Canada,"ODB.2013.D13 FLICENSE","Crime statistics",PRIMARY,15.0,2016
+CAN,Canada,"ODB.2013.D14 FLICENSE","National environment statistics",PRIMARY,0.0,2016
+CAN,Canada,"ODB.2013.D15 FLICENSE","National election results",PRIMARY,15.0,2016
+CAN,Canada,"ODB.2013.D16 FLICENSE","Public Contracts",PRIMARY,0.0,2016
+CAN,Canada,"ODB.2013.D2 FLICENSE","Land ownership data",PRIMARY,15.0,2016
+CAN,Canada,"ODB.2013.D4 FLICENSE","Detailed census data",PRIMARY,15.0,2016
+CAN,Canada,"ODB.2013.D5 FLICENSE","Detailed government budget",PRIMARY,0.0,2016
+CAN,Canada,"ODB.2013.D6 FLICENSE","Detailed data on government spend",PRIMARY,15.0,2016
+CAN,Canada,"ODB.2013.D7 FLICENSE","Company register",PRIMARY,15.0,2016
+CAN,Canada,"ODB.2013.D8 FLICENSE",Legislation,PRIMARY,0.0,2016
+CAN,Canada,"ODB.2013.D9 FLICENSE","Public transport timetables",PRIMARY,15.0,2016
+CAN,Canada,"ODB.2013.D1 GUPDATED","Map Data",PRIMARY,10.0,2016
+CAN,Canada,"ODB.2013.D10 GUPDATED","International trade data",PRIMARY,10.0,2016
+CAN,Canada,"ODB.2013.D11 GUPDATED","Health sector performance",PRIMARY,10.0,2016
+CAN,Canada,"ODB.2013.D12 GUPDATED","Primary or secondary education performance data",PRIMARY,0.0,2016
+CAN,Canada,"ODB.2013.D13 GUPDATED","Crime statistics",PRIMARY,-5.0,2016
+CAN,Canada,"ODB.2013.D14 GUPDATED","National environment statistics",PRIMARY,-5.0,2016
+CAN,Canada,"ODB.2013.D15 GUPDATED","National election results",PRIMARY,10.0,2016
+CAN,Canada,"ODB.2013.D16 GUPDATED","Public Contracts",PRIMARY,10.0,2016
+CAN,Canada,"ODB.2013.D2 GUPDATED","Land ownership data",PRIMARY,10.0,2016
+CAN,Canada,"ODB.2013.D4 GUPDATED","Detailed census data",PRIMARY,10.0,2016
+CAN,Canada,"ODB.2013.D5 GUPDATED","Detailed government budget",PRIMARY,10.0,2016
+CAN,Canada,"ODB.2013.D6 GUPDATED","Detailed data on government spend",PRIMARY,10.0,2016
+CAN,Canada,"ODB.2013.D7 GUPDATED","Company register",PRIMARY,10.0,2016
+CAN,Canada,"ODB.2013.D8 GUPDATED",Legislation,PRIMARY,10.0,2016
+CAN,Canada,"ODB.2013.D9 GUPDATED","Public transport timetables",PRIMARY,10.0,2016
+CAN,Canada,"ODB.2013.D1 HSUSTAINABLE","Map Data",PRIMARY,5.0,2016
+CAN,Canada,"ODB.2013.D10 HSUSTAINABLE","International trade data",PRIMARY,5.0,2016
+CAN,Canada,"ODB.2013.D11 HSUSTAINABLE","Health sector performance",PRIMARY,5.0,2016
+CAN,Canada,"ODB.2013.D12 HSUSTAINABLE","Primary or secondary education performance data",PRIMARY,0.0,2016
+CAN,Canada,"ODB.2013.D13 HSUSTAINABLE","Crime statistics",PRIMARY,0.0,2016
+CAN,Canada,"ODB.2013.D14 HSUSTAINABLE","National environment statistics",PRIMARY,5.0,2016
+CAN,Canada,"ODB.2013.D15 HSUSTAINABLE","National election results",PRIMARY,5.0,2016
+CAN,Canada,"ODB.2013.D16 HSUSTAINABLE","Public Contracts",PRIMARY,5.0,2016
+CAN,Canada,"ODB.2013.D2 HSUSTAINABLE","Land ownership data",PRIMARY,5.0,2016
+CAN,Canada,"ODB.2013.D4 HSUSTAINABLE","Detailed census data",PRIMARY,5.0,2016
+CAN,Canada,"ODB.2013.D5 HSUSTAINABLE","Detailed government budget",PRIMARY,5.0,2016
+CAN,Canada,"ODB.2013.D6 HSUSTAINABLE","Detailed data on government spend",PRIMARY,0.0,2016
+CAN,Canada,"ODB.2013.D7 HSUSTAINABLE","Company register",PRIMARY,5.0,2016
+CAN,Canada,"ODB.2013.D8 HSUSTAINABLE",Legislation,PRIMARY,5.0,2016
+CAN,Canada,"ODB.2013.D9 HSUSTAINABLE","Public transport timetables",PRIMARY,0.0,2016
+CAN,Canada,"ODB.2013.D1 IDISCOVERABLE","Map Data",PRIMARY,5.0,2016
+CAN,Canada,"ODB.2013.D10 IDISCOVERABLE","International trade data",PRIMARY,0.0,2016
+CAN,Canada,"ODB.2013.D11 IDISCOVERABLE","Health sector performance",PRIMARY,5.0,2016
+CAN,Canada,"ODB.2013.D12 IDISCOVERABLE","Primary or secondary education performance data",PRIMARY,0.0,2016
+CAN,Canada,"ODB.2013.D13 IDISCOVERABLE","Crime statistics",PRIMARY,5.0,2016
+CAN,Canada,"ODB.2013.D14 IDISCOVERABLE","National environment statistics",PRIMARY,5.0,2016
+CAN,Canada,"ODB.2013.D15 IDISCOVERABLE","National election results",PRIMARY,5.0,2016
+CAN,Canada,"ODB.2013.D16 IDISCOVERABLE","Public Contracts",PRIMARY,5.0,2016
+CAN,Canada,"ODB.2013.D2 IDISCOVERABLE","Land ownership data",PRIMARY,0.0,2016
+CAN,Canada,"ODB.2013.D4 IDISCOVERABLE","Detailed census data",PRIMARY,5.0,2016
+CAN,Canada,"ODB.2013.D5 IDISCOVERABLE","Detailed government budget",PRIMARY,5.0,2016
+CAN,Canada,"ODB.2013.D6 IDISCOVERABLE","Detailed data on government spend",PRIMARY,5.0,2016
+CAN,Canada,"ODB.2013.D7 IDISCOVERABLE","Company register",PRIMARY,5.0,2016
+CAN,Canada,"ODB.2013.D8 IDISCOVERABLE",Legislation,PRIMARY,5.0,2016
+CAN,Canada,"ODB.2013.D9 IDISCOVERABLE","Public transport timetables",PRIMARY,0.0,2016
+CAN,Canada,"ODB.2013.D1 JLINKED","Map Data",PRIMARY,0.0,2016
+CAN,Canada,"ODB.2013.D10 JLINKED","International trade data",PRIMARY,0.0,2016
+CAN,Canada,"ODB.2013.D11 JLINKED","Health sector performance",PRIMARY,0.0,2016
+CAN,Canada,"ODB.2013.D12 JLINKED","Primary or secondary education performance data",PRIMARY,0.0,2016
+CAN,Canada,"ODB.2013.D13 JLINKED","Crime statistics",PRIMARY,0.0,2016
+CAN,Canada,"ODB.2013.D14 JLINKED","National environment statistics",PRIMARY,0.0,2016
+CAN,Canada,"ODB.2013.D15 JLINKED","National election results",PRIMARY,0.0,2016
+CAN,Canada,"ODB.2013.D16 JLINKED","Public Contracts",PRIMARY,5.0,2016
+CAN,Canada,"ODB.2013.D2 JLINKED","Land ownership data",PRIMARY,0.0,2016
+CAN,Canada,"ODB.2013.D4 JLINKED","Detailed census data",PRIMARY,0.0,2016
+CAN,Canada,"ODB.2013.D5 JLINKED","Detailed government budget",PRIMARY,0.0,2016
+CAN,Canada,"ODB.2013.D6 JLINKED","Detailed data on government spend",PRIMARY,0.0,2016
+CAN,Canada,"ODB.2013.D7 JLINKED","Company register",PRIMARY,5.0,2016
+CAN,Canada,"ODB.2013.D8 JLINKED",Legislation,PRIMARY,0.0,2016
+CAN,Canada,"ODB.2013.D9 JLINKED","Public transport timetables",PRIMARY,5.0,2016
+CAN,Canada,ODB.2013.C.INIT,"To what extent is there a well-resourced open government data initiative in the country?",PRIMARY,7.0,2015
+CAN,Canada,ODB.2015.C.POLI,"To what extent is there a well-defined open data policy and/or strategy in the country?",PRIMARY,8.0,2015
+CAN,Canada,ODB.2015.C.MANAG,"To what extent is there a consistent (open) data management and publication approach?",PRIMARY,7.0,2015
+CAN,Canada,ODB.2013.C.DPL,"To what extent is there a robust legal or regulatory framework for protection of personal data in the country?",PRIMARY,7.0,2015
+CAN,Canada,ODB.2013.C.RTI,"To what extent does the country have a functioning Right to Information law (RTI) / Freedom of Information (FoI) law?",PRIMARY,6.0,2015
+CAN,Canada,ODB.2013.C.CSOC,"To what extent are civil society and/or information technology professionals engaging with the government regarding open data?",PRIMARY,8.0,2015
+CAN,Canada,ODB.2013.C.SUPIN,"To what extent is government directly supporting a culture of innovation with open data through competitions, grants or other support actions?",PRIMARY,7.0,2015
+CAN,Canada,ODB.2013.C.CITY,"To what extent are city, regional and local governments running their own open data initiatives?",PRIMARY,9.0,2015
+CAN,Canada,ODB.2013.C.TRAIN,"To what extent is training about open data available for individuals or businesses wishing to increase their skills or build businesses to use (open) data?",PRIMARY,7.0,2015
+CAN,Canada,FH,"Political Freedoms and Civil Liberties",SECONDARY,98.0,2015
+CAN,Canada,UN.OSI,"Government online services index",SECONDARY,0.91338,2015
+CAN,Canada,WEF.GCI.9.02,"Firm-level technology absorption.",SECONDARY,5.433593589,2015
+CAN,Canada,WEF.GITR.8.01,"Importance of ICT to government vision of the future.",SECONDARY,4.26593972,2015
+CAN,Canada,ODB.2013.I.GOV,"To what extent has open data had a noticeable impact on increasing government efficiency and effectiveness?",PRIMARY,3.0,2015
+CAN,Canada,ODB.2013.I.ACCOUNT,"To what extent has open data had a noticeable impact on increasing transparency and accountability in the country?",PRIMARY,3.0,2015
+CAN,Canada,ODB.2013.I.ENV,"To what extent has open data had a noticeable impact on environmental sustainability in the country?",PRIMARY,3.0,2015
+CAN,Canada,ODB.2013.I.INC,"To what extent has open data had a noticeable impact on increasing the inclusion of marginalised groups in policy making and accessing government services?",PRIMARY,4.0,2015
+CAN,Canada,ODB.2013.I.ECON,"To what extent has open data had a noticeable positive impact on the economy?",PRIMARY,2.0,2015
+CAN,Canada,ODB.2013.D1,"Map Data",PRIMARY,100.0,2015
+CAN,Canada,ODB.2013.D2,"Land ownership data",PRIMARY,95.0,2015
+CAN,Canada,ODB.2013.D4,"Detailed census data",PRIMARY,95.0,2015
+CAN,Canada,ODB.2013.D5,"Detailed government budget",PRIMARY,95.0,2015
+CAN,Canada,ODB.2013.D6,"Detailed data on government spend",PRIMARY,5.0,2015
+CAN,Canada,ODB.2013.D7,"Company register",PRIMARY,45.0,2015
+CAN,Canada,ODB.2013.D8,Legislation,PRIMARY,80.0,2015
+CAN,Canada,ODB.2013.D9,"Public transport timetables",PRIMARY,90.0,2015
+CAN,Canada,ODB.2013.D10,"International trade data",PRIMARY,95.0,2015
+CAN,Canada,ODB.2013.D11,"Health sector performance",PRIMARY,80.0,2015
+CAN,Canada,ODB.2013.D12,"Primary or secondary education performance data",PRIMARY,55.0,2015
+CAN,Canada,ODB.2013.D13,"Crime statistics",PRIMARY,95.0,2015
+CAN,Canada,ODB.2013.D14,"National environment statistics",PRIMARY,95.0,2015
+CAN,Canada,ODB.2013.D15,"National election results",PRIMARY,80.0,2015
+CAN,Canada,ODB.2013.D16,"Public Contracts",PRIMARY,95.0,2015
+CAN,Canada,ODB,"Open Data Barometer",INDEX,64.0,2015
+CAN,Canada,READINESS,Readiness,SUBINDEX,76.0,2015
+CAN,Canada,IMPLEMENTATION,Implementation,SUBINDEX,80.0,2015
+CAN,Canada,IMPACT,"Emerging Impact",SUBINDEX,33.0,2015
+CAN,Canada,GOVERNMENT_POLICIES,"Government policies",COMPONENT,68.0,2015
+CAN,Canada,GOVERNMENT_ACTION,"Government action",COMPONENT,84.0,2015
+CAN,Canada,REGULATORY_AND_CIVIL,"Citizens and civil rights",COMPONENT,77.0,2015
+CAN,Canada,BUSINESS_AND_ENTREPRENEURSHIP,"Entrepreneurs and business",COMPONENT,75.0,2015
+CAN,Canada,INNOVATION,"Government datasets: Innovation Cluster",COMPONENT,95.0,2015
+CAN,Canada,SOCIAL_POLICY,"Government datasets: Social Policy Cluster",COMPONENT,84.0,2015
+CAN,Canada,ACCOUNTABILITY,"Government datasets: Accountability cluster",COMPONENT,61.0,2015
+CAN,Canada,POLITICAL,"Political impact",COMPONENT,30.0,2015
+CAN,Canada,SOCIAL,"Social impact",COMPONENT,35.0,2015
+CAN,Canada,ECONOMIC,"Economic impact",COMPONENT,35.0,2015
+CAN,Canada,"ODB.2013.D1 ISOPEN","Map Data",PRIMARY,1.0,2015
+CAN,Canada,"ODB.2013.D10 ISOPEN","International trade data",PRIMARY,1.0,2015
+CAN,Canada,"ODB.2013.D6 ISOPEN","Detailed data on government spend",PRIMARY,0.0,2015
+CAN,Canada,"ODB.2013.D7 ISOPEN","Company register",PRIMARY,0.0,2015
+CAN,Canada,"ODB.2013.D8 ISOPEN",Legislation,PRIMARY,0.0,2015
+CAN,Canada,"ODB.2013.D11 ISOPEN","Health sector performance",PRIMARY,0.0,2015
+CAN,Canada,"ODB.2013.D12 ISOPEN","Primary or secondary education performance data",PRIMARY,0.0,2015
+CAN,Canada,"ODB.2013.D15 ISOPEN","National election results",PRIMARY,0.0,2015
+CAN,Canada,"ODB.2013.D13 ISOPEN","Crime statistics",PRIMARY,1.0,2015
+CAN,Canada,"ODB.2013.D14 ISOPEN","National environment statistics",PRIMARY,1.0,2015
+CAN,Canada,"ODB.2013.D16 ISOPEN","Public Contracts",PRIMARY,1.0,2015
+CAN,Canada,"ODB.2013.D2 ISOPEN","Land ownership data",PRIMARY,1.0,2015
+CAN,Canada,"ODB.2013.D4 ISOPEN","Detailed census data",PRIMARY,1.0,2015
+CAN,Canada,"ODB.2013.D5 ISOPEN","Detailed government budget",PRIMARY,1.0,2015
+CAN,Canada,"ODB.2013.D9 ISOPEN","Public transport timetables",PRIMARY,1.0,2015
+CAN,Canada,"ODB.2013.D1 AEXISTS","Map Data",PRIMARY,5.0,2015
+CAN,Canada,"ODB.2013.D10 AEXISTS","International trade data",PRIMARY,5.0,2015
+CAN,Canada,"ODB.2013.D6 AEXISTS","Detailed data on government spend",PRIMARY,5.0,2015
+CAN,Canada,"ODB.2013.D7 AEXISTS","Company register",PRIMARY,5.0,2015
+CAN,Canada,"ODB.2013.D8 AEXISTS",Legislation,PRIMARY,5.0,2015
+CAN,Canada,"ODB.2013.D11 AEXISTS","Health sector performance",PRIMARY,5.0,2015
+CAN,Canada,"ODB.2013.D12 AEXISTS","Primary or secondary education performance data",PRIMARY,5.0,2015
+CAN,Canada,"ODB.2013.D15 AEXISTS","National election results",PRIMARY,5.0,2015
+CAN,Canada,"ODB.2013.D13 AEXISTS","Crime statistics",PRIMARY,5.0,2015
+CAN,Canada,"ODB.2013.D14 AEXISTS","National environment statistics",PRIMARY,5.0,2015
+CAN,Canada,"ODB.2013.D16 AEXISTS","Public Contracts",PRIMARY,5.0,2015
+CAN,Canada,"ODB.2013.D2 AEXISTS","Land ownership data",PRIMARY,5.0,2015
+CAN,Canada,"ODB.2013.D4 AEXISTS","Detailed census data",PRIMARY,5.0,2015
+CAN,Canada,"ODB.2013.D5 AEXISTS","Detailed government budget",PRIMARY,5.0,2015
+CAN,Canada,"ODB.2013.D9 AEXISTS","Public transport timetables",PRIMARY,5.0,2015
+CAN,Canada,"ODB.2013.D1 BAVAILABLE","Map Data",PRIMARY,10.0,2015
+CAN,Canada,"ODB.2013.D10 BAVAILABLE","International trade data",PRIMARY,10.0,2015
+CAN,Canada,"ODB.2013.D6 BAVAILABLE","Detailed data on government spend",PRIMARY,0.0,2015
+CAN,Canada,"ODB.2013.D7 BAVAILABLE","Company register",PRIMARY,10.0,2015
+CAN,Canada,"ODB.2013.D8 BAVAILABLE",Legislation,PRIMARY,10.0,2015
+CAN,Canada,"ODB.2013.D11 BAVAILABLE","Health sector performance",PRIMARY,10.0,2015
+CAN,Canada,"ODB.2013.D12 BAVAILABLE","Primary or secondary education performance data",PRIMARY,10.0,2015
+CAN,Canada,"ODB.2013.D15 BAVAILABLE","National election results",PRIMARY,10.0,2015
+CAN,Canada,"ODB.2013.D13 BAVAILABLE","Crime statistics",PRIMARY,10.0,2015
+CAN,Canada,"ODB.2013.D14 BAVAILABLE","National environment statistics",PRIMARY,10.0,2015
+CAN,Canada,"ODB.2013.D16 BAVAILABLE","Public Contracts",PRIMARY,10.0,2015
+CAN,Canada,"ODB.2013.D2 BAVAILABLE","Land ownership data",PRIMARY,10.0,2015
+CAN,Canada,"ODB.2013.D4 BAVAILABLE","Detailed census data",PRIMARY,10.0,2015
+CAN,Canada,"ODB.2013.D5 BAVAILABLE","Detailed government budget",PRIMARY,10.0,2015
+CAN,Canada,"ODB.2013.D9 BAVAILABLE","Public transport timetables",PRIMARY,10.0,2015
+CAN,Canada,"ODB.2013.D1 CMACHINEREADABLE","Map Data",PRIMARY,15.0,2015
+CAN,Canada,"ODB.2013.D10 CMACHINEREADABLE","International trade data",PRIMARY,15.0,2015
+CAN,Canada,"ODB.2013.D6 CMACHINEREADABLE","Detailed data on government spend",PRIMARY,0.0,2015
+CAN,Canada,"ODB.2013.D7 CMACHINEREADABLE","Company register",PRIMARY,15.0,2015
+CAN,Canada,"ODB.2013.D8 CMACHINEREADABLE",Legislation,PRIMARY,15.0,2015
+CAN,Canada,"ODB.2013.D11 CMACHINEREADABLE","Health sector performance",PRIMARY,15.0,2015
+CAN,Canada,"ODB.2013.D12 CMACHINEREADABLE","Primary or secondary education performance data",PRIMARY,15.0,2015
+CAN,Canada,"ODB.2013.D15 CMACHINEREADABLE","National election results",PRIMARY,15.0,2015
+CAN,Canada,"ODB.2013.D13 CMACHINEREADABLE","Crime statistics",PRIMARY,15.0,2015
+CAN,Canada,"ODB.2013.D14 CMACHINEREADABLE","National environment statistics",PRIMARY,15.0,2015
+CAN,Canada,"ODB.2013.D16 CMACHINEREADABLE","Public Contracts",PRIMARY,15.0,2015
+CAN,Canada,"ODB.2013.D2 CMACHINEREADABLE","Land ownership data",PRIMARY,15.0,2015
+CAN,Canada,"ODB.2013.D4 CMACHINEREADABLE","Detailed census data",PRIMARY,15.0,2015
+CAN,Canada,"ODB.2013.D5 CMACHINEREADABLE","Detailed government budget",PRIMARY,15.0,2015
+CAN,Canada,"ODB.2013.D9 CMACHINEREADABLE","Public transport timetables",PRIMARY,15.0,2015
+CAN,Canada,"ODB.2013.D1 DBULK","Map Data",PRIMARY,15.0,2015
+CAN,Canada,"ODB.2013.D10 DBULK","International trade data",PRIMARY,15.0,2015
+CAN,Canada,"ODB.2013.D6 DBULK","Detailed data on government spend",PRIMARY,0.0,2015
+CAN,Canada,"ODB.2013.D7 DBULK","Company register",PRIMARY,0.0,2015
+CAN,Canada,"ODB.2013.D8 DBULK",Legislation,PRIMARY,15.0,2015
+CAN,Canada,"ODB.2013.D11 DBULK","Health sector performance",PRIMARY,15.0,2015
+CAN,Canada,"ODB.2013.D12 DBULK","Primary or secondary education performance data",PRIMARY,15.0,2015
+CAN,Canada,"ODB.2013.D15 DBULK","National election results",PRIMARY,15.0,2015
+CAN,Canada,"ODB.2013.D13 DBULK","Crime statistics",PRIMARY,15.0,2015
+CAN,Canada,"ODB.2013.D14 DBULK","National environment statistics",PRIMARY,15.0,2015
+CAN,Canada,"ODB.2013.D16 DBULK","Public Contracts",PRIMARY,15.0,2015
+CAN,Canada,"ODB.2013.D2 DBULK","Land ownership data",PRIMARY,15.0,2015
+CAN,Canada,"ODB.2013.D4 DBULK","Detailed census data",PRIMARY,15.0,2015
+CAN,Canada,"ODB.2013.D5 DBULK","Detailed government budget",PRIMARY,15.0,2015
+CAN,Canada,"ODB.2013.D9 DBULK","Public transport timetables",PRIMARY,15.0,2015
+CAN,Canada,"ODB.2013.D1 EFREE","Map Data",PRIMARY,15.0,2015
+CAN,Canada,"ODB.2013.D10 EFREE","International trade data",PRIMARY,15.0,2015
+CAN,Canada,"ODB.2013.D6 EFREE","Detailed data on government spend",PRIMARY,0.0,2015
+CAN,Canada,"ODB.2013.D7 EFREE","Company register",PRIMARY,0.0,2015
+CAN,Canada,"ODB.2013.D8 EFREE",Legislation,PRIMARY,15.0,2015
+CAN,Canada,"ODB.2013.D11 EFREE","Health sector performance",PRIMARY,15.0,2015
+CAN,Canada,"ODB.2013.D12 EFREE","Primary or secondary education performance data",PRIMARY,15.0,2015
+CAN,Canada,"ODB.2013.D15 EFREE","National election results",PRIMARY,15.0,2015
+CAN,Canada,"ODB.2013.D13 EFREE","Crime statistics",PRIMARY,15.0,2015
+CAN,Canada,"ODB.2013.D14 EFREE","National environment statistics",PRIMARY,15.0,2015
+CAN,Canada,"ODB.2013.D16 EFREE","Public Contracts",PRIMARY,15.0,2015
+CAN,Canada,"ODB.2013.D2 EFREE","Land ownership data",PRIMARY,15.0,2015
+CAN,Canada,"ODB.2013.D4 EFREE","Detailed census data",PRIMARY,15.0,2015
+CAN,Canada,"ODB.2013.D5 EFREE","Detailed government budget",PRIMARY,15.0,2015
+CAN,Canada,"ODB.2013.D9 EFREE","Public transport timetables",PRIMARY,15.0,2015
+CAN,Canada,"ODB.2013.D1 FLICENSE","Map Data",PRIMARY,15.0,2015
+CAN,Canada,"ODB.2013.D10 FLICENSE","International trade data",PRIMARY,15.0,2015
+CAN,Canada,"ODB.2013.D6 FLICENSE","Detailed data on government spend",PRIMARY,0.0,2015
+CAN,Canada,"ODB.2013.D7 FLICENSE","Company register",PRIMARY,0.0,2015
+CAN,Canada,"ODB.2013.D8 FLICENSE",Legislation,PRIMARY,0.0,2015
+CAN,Canada,"ODB.2013.D11 FLICENSE","Health sector performance",PRIMARY,0.0,2015
+CAN,Canada,"ODB.2013.D12 FLICENSE","Primary or secondary education performance data",PRIMARY,0.0,2015
+CAN,Canada,"ODB.2013.D15 FLICENSE","National election results",PRIMARY,0.0,2015
+CAN,Canada,"ODB.2013.D13 FLICENSE","Crime statistics",PRIMARY,15.0,2015
+CAN,Canada,"ODB.2013.D14 FLICENSE","National environment statistics",PRIMARY,15.0,2015
+CAN,Canada,"ODB.2013.D16 FLICENSE","Public Contracts",PRIMARY,15.0,2015
+CAN,Canada,"ODB.2013.D2 FLICENSE","Land ownership data",PRIMARY,15.0,2015
+CAN,Canada,"ODB.2013.D4 FLICENSE","Detailed census data",PRIMARY,15.0,2015
+CAN,Canada,"ODB.2013.D5 FLICENSE","Detailed government budget",PRIMARY,15.0,2015
+CAN,Canada,"ODB.2013.D9 FLICENSE","Public transport timetables",PRIMARY,15.0,2015
+CAN,Canada,"ODB.2013.D1 GUPDATED","Map Data",PRIMARY,10.0,2015
+CAN,Canada,"ODB.2013.D10 GUPDATED","International trade data",PRIMARY,10.0,2015
+CAN,Canada,"ODB.2013.D6 GUPDATED","Detailed data on government spend",PRIMARY,0.0,2015
+CAN,Canada,"ODB.2013.D7 GUPDATED","Company register",PRIMARY,10.0,2015
+CAN,Canada,"ODB.2013.D8 GUPDATED",Legislation,PRIMARY,10.0,2015
+CAN,Canada,"ODB.2013.D11 GUPDATED","Health sector performance",PRIMARY,10.0,2015
+CAN,Canada,"ODB.2013.D12 GUPDATED","Primary or secondary education performance data",PRIMARY,-5.0,2015
+CAN,Canada,"ODB.2013.D15 GUPDATED","National election results",PRIMARY,10.0,2015
+CAN,Canada,"ODB.2013.D13 GUPDATED","Crime statistics",PRIMARY,10.0,2015
+CAN,Canada,"ODB.2013.D14 GUPDATED","National environment statistics",PRIMARY,10.0,2015
+CAN,Canada,"ODB.2013.D16 GUPDATED","Public Contracts",PRIMARY,10.0,2015
+CAN,Canada,"ODB.2013.D2 GUPDATED","Land ownership data",PRIMARY,10.0,2015
+CAN,Canada,"ODB.2013.D4 GUPDATED","Detailed census data",PRIMARY,10.0,2015
+CAN,Canada,"ODB.2013.D5 GUPDATED","Detailed government budget",PRIMARY,10.0,2015
+CAN,Canada,"ODB.2013.D9 GUPDATED","Public transport timetables",PRIMARY,10.0,2015
+CAN,Canada,"ODB.2013.D1 HSUSTAINABLE","Map Data",PRIMARY,5.0,2015
+CAN,Canada,"ODB.2013.D10 HSUSTAINABLE","International trade data",PRIMARY,5.0,2015
+CAN,Canada,"ODB.2013.D6 HSUSTAINABLE","Detailed data on government spend",PRIMARY,0.0,2015
+CAN,Canada,"ODB.2013.D7 HSUSTAINABLE","Company register",PRIMARY,5.0,2015
+CAN,Canada,"ODB.2013.D8 HSUSTAINABLE",Legislation,PRIMARY,5.0,2015
+CAN,Canada,"ODB.2013.D11 HSUSTAINABLE","Health sector performance",PRIMARY,5.0,2015
+CAN,Canada,"ODB.2013.D12 HSUSTAINABLE","Primary or secondary education performance data",PRIMARY,0.0,2015
+CAN,Canada,"ODB.2013.D15 HSUSTAINABLE","National election results",PRIMARY,5.0,2015
+CAN,Canada,"ODB.2013.D13 HSUSTAINABLE","Crime statistics",PRIMARY,5.0,2015
+CAN,Canada,"ODB.2013.D14 HSUSTAINABLE","National environment statistics",PRIMARY,5.0,2015
+CAN,Canada,"ODB.2013.D16 HSUSTAINABLE","Public Contracts",PRIMARY,5.0,2015
+CAN,Canada,"ODB.2013.D2 HSUSTAINABLE","Land ownership data",PRIMARY,5.0,2015
+CAN,Canada,"ODB.2013.D4 HSUSTAINABLE","Detailed census data",PRIMARY,5.0,2015
+CAN,Canada,"ODB.2013.D5 HSUSTAINABLE","Detailed government budget",PRIMARY,5.0,2015
+CAN,Canada,"ODB.2013.D9 HSUSTAINABLE","Public transport timetables",PRIMARY,5.0,2015
+CAN,Canada,"ODB.2013.D1 IDISCOVERABLE","Map Data",PRIMARY,5.0,2015
+CAN,Canada,"ODB.2013.D10 IDISCOVERABLE","International trade data",PRIMARY,5.0,2015
+CAN,Canada,"ODB.2013.D6 IDISCOVERABLE","Detailed data on government spend",PRIMARY,0.0,2015
+CAN,Canada,"ODB.2013.D7 IDISCOVERABLE","Company register",PRIMARY,0.0,2015
+CAN,Canada,"ODB.2013.D8 IDISCOVERABLE",Legislation,PRIMARY,5.0,2015
+CAN,Canada,"ODB.2013.D11 IDISCOVERABLE","Health sector performance",PRIMARY,5.0,2015
+CAN,Canada,"ODB.2013.D12 IDISCOVERABLE","Primary or secondary education performance data",PRIMARY,0.0,2015
+CAN,Canada,"ODB.2013.D15 IDISCOVERABLE","National election results",PRIMARY,5.0,2015
+CAN,Canada,"ODB.2013.D13 IDISCOVERABLE","Crime statistics",PRIMARY,5.0,2015
+CAN,Canada,"ODB.2013.D14 IDISCOVERABLE","National environment statistics",PRIMARY,5.0,2015
+CAN,Canada,"ODB.2013.D16 IDISCOVERABLE","Public Contracts",PRIMARY,5.0,2015
+CAN,Canada,"ODB.2013.D2 IDISCOVERABLE","Land ownership data",PRIMARY,5.0,2015
+CAN,Canada,"ODB.2013.D4 IDISCOVERABLE","Detailed census data",PRIMARY,5.0,2015
+CAN,Canada,"ODB.2013.D5 IDISCOVERABLE","Detailed government budget",PRIMARY,5.0,2015
+CAN,Canada,"ODB.2013.D9 IDISCOVERABLE","Public transport timetables",PRIMARY,0.0,2015
+CAN,Canada,"ODB.2013.D1 JLINKED","Map Data",PRIMARY,5.0,2015
+CAN,Canada,"ODB.2013.D10 JLINKED","International trade data",PRIMARY,0.0,2015
+CAN,Canada,"ODB.2013.D6 JLINKED","Detailed data on government spend",PRIMARY,0.0,2015
+CAN,Canada,"ODB.2013.D7 JLINKED","Company register",PRIMARY,0.0,2015
+CAN,Canada,"ODB.2013.D8 JLINKED",Legislation,PRIMARY,0.0,2015
+CAN,Canada,"ODB.2013.D11 JLINKED","Health sector performance",PRIMARY,0.0,2015
+CAN,Canada,"ODB.2013.D12 JLINKED","Primary or secondary education performance data",PRIMARY,0.0,2015
+CAN,Canada,"ODB.2013.D15 JLINKED","National election results",PRIMARY,0.0,2015
+CAN,Canada,"ODB.2013.D13 JLINKED","Crime statistics",PRIMARY,0.0,2015
+CAN,Canada,"ODB.2013.D14 JLINKED","National environment statistics",PRIMARY,0.0,2015
+CAN,Canada,"ODB.2013.D16 JLINKED","Public Contracts",PRIMARY,0.0,2015
+CAN,Canada,"ODB.2013.D2 JLINKED","Land ownership data",PRIMARY,0.0,2015
+CAN,Canada,"ODB.2013.D4 JLINKED","Detailed census data",PRIMARY,0.0,2015
+CAN,Canada,"ODB.2013.D5 JLINKED","Detailed government budget",PRIMARY,0.0,2015
+CAN,Canada,"ODB.2013.D9 JLINKED","Public transport timetables",PRIMARY,0.0,2015
+CAN,Canada,ODB.2013.C.INIT,"To what extent is there a well-resourced open government data initiative in the country?",PRIMARY,7.0,2014
+CAN,Canada,ODB.2013.C.DPL,"To what extent is there a robust legal or regulatory framework for protection of personal data in the country?",PRIMARY,7.0,2014
+CAN,Canada,ODB.2013.C.RTI,"To what extent does the country have a functioning Right to Information law (RTI) / Freedom of Information (FoI) law?",PRIMARY,7.0,2014
+CAN,Canada,ODB.2013.C.CSOC,"To what extent are civil society and/or information technology professionals engaging with the government regarding open data?",PRIMARY,8.0,2014
+CAN,Canada,ODB.2013.C.SUPIN,"To what extent is government directly supporting a culture of innovation with open data through competitions, grants or other support actions?",PRIMARY,7.0,2014
+CAN,Canada,ODB.2013.C.CITY,"To what extent are city, regional and local governments running their own open data initiatives?",PRIMARY,8.0,2014
+CAN,Canada,ODB.2013.C.TRAIN,"To what extent is training about open data available for individuals or businesses wishing to increase their skills or build businesses to use (open) data?",PRIMARY,7.0,2014
+CAN,Canada,FH,"Political Freedoms and Civil Liberties",SECONDARY,98.0,2014
+CAN,Canada,UN.OSI,"Government online services index",SECONDARY,0.91338,2014
+CAN,Canada,WEF.GCI.9.02,"Firm-level technology absorption.",SECONDARY,5.448626582,2014
+CAN,Canada,WEF.GITR.8.01,"Importance of ICT to government vision of the future.",SECONDARY,4.236257725,2014
+CAN,Canada,ODB.2013.I.GOV,"To what extent has open data had a noticeable impact on increasing government efficiency and effectiveness?",PRIMARY,3.0,2014
+CAN,Canada,ODB.2013.I.ACCOUNT,"To what extent has open data had a noticeable impact on increasing transparency and accountability in the country?",PRIMARY,3.0,2014
+CAN,Canada,ODB.2013.I.ENV,"To what extent has open data had a noticeable impact on environmental sustainability in the country?",PRIMARY,2.0,2014
+CAN,Canada,ODB.2013.I.INC,"To what extent has open data had a noticeable impact on increasing the inclusion of marginalised groups in policy making and accessing government services?",PRIMARY,3.0,2014
+CAN,Canada,ODB.2013.I.ECON,"To what extent has open data had a noticeable positive impact on the economy?",PRIMARY,2.0,2014
+CAN,Canada,ODB.2013.D1,"Map Data",PRIMARY,80.0,2014
+CAN,Canada,ODB.2013.D2,"Land ownership data",PRIMARY,95.0,2014
+CAN,Canada,ODB.2013.D4,"Detailed census data",PRIMARY,95.0,2014
+CAN,Canada,ODB.2013.D5,"Detailed government budget",PRIMARY,75.0,2014
+CAN,Canada,ODB.2013.D6,"Detailed data on government spend",PRIMARY,5.0,2014
+CAN,Canada,ODB.2013.D7,"Company register",PRIMARY,15.0,2014
+CAN,Canada,ODB.2013.D8,Legislation,PRIMARY,65.0,2014
+CAN,Canada,ODB.2013.D9,"Public transport timetables",PRIMARY,95.0,2014
+CAN,Canada,ODB.2013.D10,"International trade data",PRIMARY,95.0,2014
+CAN,Canada,ODB.2013.D11,"Health sector performance",PRIMARY,80.0,2014
+CAN,Canada,ODB.2013.D12,"Primary or secondary education performance data",PRIMARY,15.0,2014
+CAN,Canada,ODB.2013.D13,"Crime statistics",PRIMARY,95.0,2014
+CAN,Canada,ODB.2013.D14,"National environment statistics",PRIMARY,75.0,2014
+CAN,Canada,ODB.2013.D15,"National election results",PRIMARY,95.0,2014
+CAN,Canada,ODB.2013.D16,"Public Contracts",PRIMARY,95.0,2014
+CAN,Canada,ODB,"Open Data Barometer",INDEX,62.0,2014
+CAN,Canada,READINESS,Readiness,SUBINDEX,76.0,2014
+CAN,Canada,IMPLEMENTATION,Implementation,SUBINDEX,72.0,2014
+CAN,Canada,IMPACT,"Emerging Impact",SUBINDEX,28.0,2014
+CAN,Canada,GOVERNMENT_ACTION,"Government action",COMPONENT,71.0,2014
+CAN,Canada,REGULATORY_AND_CIVIL,"Citizens and civil rights",COMPONENT,80.0,2014
+CAN,Canada,BUSINESS_AND_ENTREPRENEURSHIP,"Entrepreneurs and business",COMPONENT,77.0,2014
+CAN,Canada,INNOVATION,"Government datasets: Innovation Cluster",COMPONENT,92.0,2014
+CAN,Canada,SOCIAL_POLICY,"Government datasets: Social Policy Cluster",COMPONENT,72.0,2014
+CAN,Canada,ACCOUNTABILITY,"Government datasets: Accountability cluster",COMPONENT,51.0,2014
+CAN,Canada,POLITICAL,"Political impact",COMPONENT,30.0,2014
+CAN,Canada,SOCIAL,"Social impact",COMPONENT,25.0,2014
+CAN,Canada,ECONOMIC,"Economic impact",COMPONENT,30.0,2014
+CAN,Canada,"ODB.2013.D10 ISOPEN","International trade data",PRIMARY,1.0,2014
+CAN,Canada,"ODB.2013.D1 ISOPEN","Map Data",PRIMARY,0.0,2014
+CAN,Canada,"ODB.2013.D6 ISOPEN","Detailed data on government spend",PRIMARY,0.0,2014
+CAN,Canada,"ODB.2013.D7 ISOPEN","Company register",PRIMARY,0.0,2014
+CAN,Canada,"ODB.2013.D8 ISOPEN",Legislation,PRIMARY,0.0,2014
+CAN,Canada,"ODB.2013.D11 ISOPEN","Health sector performance",PRIMARY,0.0,2014
+CAN,Canada,"ODB.2013.D12 ISOPEN","Primary or secondary education performance data",PRIMARY,0.0,2014
+CAN,Canada,"ODB.2013.D13 ISOPEN","Crime statistics",PRIMARY,1.0,2014
+CAN,Canada,"ODB.2013.D14 ISOPEN","National environment statistics",PRIMARY,1.0,2014
+CAN,Canada,"ODB.2013.D15 ISOPEN","National election results",PRIMARY,1.0,2014
+CAN,Canada,"ODB.2013.D16 ISOPEN","Public Contracts",PRIMARY,1.0,2014
+CAN,Canada,"ODB.2013.D2 ISOPEN","Land ownership data",PRIMARY,1.0,2014
+CAN,Canada,"ODB.2013.D4 ISOPEN","Detailed census data",PRIMARY,1.0,2014
+CAN,Canada,"ODB.2013.D5 ISOPEN","Detailed government budget",PRIMARY,1.0,2014
+CAN,Canada,"ODB.2013.D9 ISOPEN","Public transport timetables",PRIMARY,1.0,2014
+CAN,Canada,"ODB.2013.D10 AEXISTS","International trade data",PRIMARY,5.0,2014
+CAN,Canada,"ODB.2013.D1 AEXISTS","Map Data",PRIMARY,5.0,2014
+CAN,Canada,"ODB.2013.D6 AEXISTS","Detailed data on government spend",PRIMARY,5.0,2014
+CAN,Canada,"ODB.2013.D7 AEXISTS","Company register",PRIMARY,5.0,2014
+CAN,Canada,"ODB.2013.D8 AEXISTS",Legislation,PRIMARY,5.0,2014
+CAN,Canada,"ODB.2013.D11 AEXISTS","Health sector performance",PRIMARY,5.0,2014
+CAN,Canada,"ODB.2013.D12 AEXISTS","Primary or secondary education performance data",PRIMARY,5.0,2014
+CAN,Canada,"ODB.2013.D13 AEXISTS","Crime statistics",PRIMARY,5.0,2014
+CAN,Canada,"ODB.2013.D14 AEXISTS","National environment statistics",PRIMARY,5.0,2014
+CAN,Canada,"ODB.2013.D15 AEXISTS","National election results",PRIMARY,5.0,2014
+CAN,Canada,"ODB.2013.D16 AEXISTS","Public Contracts",PRIMARY,5.0,2014
+CAN,Canada,"ODB.2013.D2 AEXISTS","Land ownership data",PRIMARY,5.0,2014
+CAN,Canada,"ODB.2013.D4 AEXISTS","Detailed census data",PRIMARY,5.0,2014
+CAN,Canada,"ODB.2013.D5 AEXISTS","Detailed government budget",PRIMARY,5.0,2014
+CAN,Canada,"ODB.2013.D9 AEXISTS","Public transport timetables",PRIMARY,5.0,2014
+CAN,Canada,"ODB.2013.D10 BAVAILABLE","International trade data",PRIMARY,10.0,2014
+CAN,Canada,"ODB.2013.D1 BAVAILABLE","Map Data",PRIMARY,10.0,2014
+CAN,Canada,"ODB.2013.D6 BAVAILABLE","Detailed data on government spend",PRIMARY,0.0,2014
+CAN,Canada,"ODB.2013.D7 BAVAILABLE","Company register",PRIMARY,10.0,2014
+CAN,Canada,"ODB.2013.D8 BAVAILABLE",Legislation,PRIMARY,10.0,2014
+CAN,Canada,"ODB.2013.D11 BAVAILABLE","Health sector performance",PRIMARY,10.0,2014
+CAN,Canada,"ODB.2013.D12 BAVAILABLE","Primary or secondary education performance data",PRIMARY,10.0,2014
+CAN,Canada,"ODB.2013.D13 BAVAILABLE","Crime statistics",PRIMARY,10.0,2014
+CAN,Canada,"ODB.2013.D14 BAVAILABLE","National environment statistics",PRIMARY,10.0,2014
+CAN,Canada,"ODB.2013.D15 BAVAILABLE","National election results",PRIMARY,10.0,2014
+CAN,Canada,"ODB.2013.D16 BAVAILABLE","Public Contracts",PRIMARY,10.0,2014
+CAN,Canada,"ODB.2013.D2 BAVAILABLE","Land ownership data",PRIMARY,10.0,2014
+CAN,Canada,"ODB.2013.D4 BAVAILABLE","Detailed census data",PRIMARY,10.0,2014
+CAN,Canada,"ODB.2013.D5 BAVAILABLE","Detailed government budget",PRIMARY,10.0,2014
+CAN,Canada,"ODB.2013.D9 BAVAILABLE","Public transport timetables",PRIMARY,10.0,2014
+CAN,Canada,"ODB.2013.D10 CMACHINEREADABLE","International trade data",PRIMARY,15.0,2014
+CAN,Canada,"ODB.2013.D1 CMACHINEREADABLE","Map Data",PRIMARY,15.0,2014
+CAN,Canada,"ODB.2013.D6 CMACHINEREADABLE","Detailed data on government spend",PRIMARY,0.0,2014
+CAN,Canada,"ODB.2013.D7 CMACHINEREADABLE","Company register",PRIMARY,0.0,2014
+CAN,Canada,"ODB.2013.D8 CMACHINEREADABLE",Legislation,PRIMARY,15.0,2014
+CAN,Canada,"ODB.2013.D11 CMACHINEREADABLE","Health sector performance",PRIMARY,15.0,2014
+CAN,Canada,"ODB.2013.D12 CMACHINEREADABLE","Primary or secondary education performance data",PRIMARY,0.0,2014
+CAN,Canada,"ODB.2013.D13 CMACHINEREADABLE","Crime statistics",PRIMARY,15.0,2014
+CAN,Canada,"ODB.2013.D14 CMACHINEREADABLE","National environment statistics",PRIMARY,15.0,2014
+CAN,Canada,"ODB.2013.D15 CMACHINEREADABLE","National election results",PRIMARY,15.0,2014
+CAN,Canada,"ODB.2013.D16 CMACHINEREADABLE","Public Contracts",PRIMARY,15.0,2014
+CAN,Canada,"ODB.2013.D2 CMACHINEREADABLE","Land ownership data",PRIMARY,15.0,2014
+CAN,Canada,"ODB.2013.D4 CMACHINEREADABLE","Detailed census data",PRIMARY,15.0,2014
+CAN,Canada,"ODB.2013.D5 CMACHINEREADABLE","Detailed government budget",PRIMARY,15.0,2014
+CAN,Canada,"ODB.2013.D9 CMACHINEREADABLE","Public transport timetables",PRIMARY,15.0,2014
+CAN,Canada,"ODB.2013.D10 DBULK","International trade data",PRIMARY,15.0,2014
+CAN,Canada,"ODB.2013.D1 DBULK","Map Data",PRIMARY,0.0,2014
+CAN,Canada,"ODB.2013.D6 DBULK","Detailed data on government spend",PRIMARY,0.0,2014
+CAN,Canada,"ODB.2013.D7 DBULK","Company register",PRIMARY,0.0,2014
+CAN,Canada,"ODB.2013.D8 DBULK",Legislation,PRIMARY,0.0,2014
+CAN,Canada,"ODB.2013.D11 DBULK","Health sector performance",PRIMARY,15.0,2014
+CAN,Canada,"ODB.2013.D12 DBULK","Primary or secondary education performance data",PRIMARY,0.0,2014
+CAN,Canada,"ODB.2013.D13 DBULK","Crime statistics",PRIMARY,15.0,2014
+CAN,Canada,"ODB.2013.D14 DBULK","National environment statistics",PRIMARY,15.0,2014
+CAN,Canada,"ODB.2013.D15 DBULK","National election results",PRIMARY,15.0,2014
+CAN,Canada,"ODB.2013.D16 DBULK","Public Contracts",PRIMARY,15.0,2014
+CAN,Canada,"ODB.2013.D2 DBULK","Land ownership data",PRIMARY,15.0,2014
+CAN,Canada,"ODB.2013.D4 DBULK","Detailed census data",PRIMARY,15.0,2014
+CAN,Canada,"ODB.2013.D5 DBULK","Detailed government budget",PRIMARY,15.0,2014
+CAN,Canada,"ODB.2013.D9 DBULK","Public transport timetables",PRIMARY,15.0,2014
+CAN,Canada,"ODB.2013.D10 EFREE","International trade data",PRIMARY,15.0,2014
+CAN,Canada,"ODB.2013.D1 EFREE","Map Data",PRIMARY,15.0,2014
+CAN,Canada,"ODB.2013.D6 EFREE","Detailed data on government spend",PRIMARY,0.0,2014
+CAN,Canada,"ODB.2013.D7 EFREE","Company register",PRIMARY,0.0,2014
+CAN,Canada,"ODB.2013.D8 EFREE",Legislation,PRIMARY,15.0,2014
+CAN,Canada,"ODB.2013.D11 EFREE","Health sector performance",PRIMARY,15.0,2014
+CAN,Canada,"ODB.2013.D12 EFREE","Primary or secondary education performance data",PRIMARY,0.0,2014
+CAN,Canada,"ODB.2013.D13 EFREE","Crime statistics",PRIMARY,15.0,2014
+CAN,Canada,"ODB.2013.D14 EFREE","National environment statistics",PRIMARY,15.0,2014
+CAN,Canada,"ODB.2013.D15 EFREE","National election results",PRIMARY,15.0,2014
+CAN,Canada,"ODB.2013.D16 EFREE","Public Contracts",PRIMARY,15.0,2014
+CAN,Canada,"ODB.2013.D2 EFREE","Land ownership data",PRIMARY,15.0,2014
+CAN,Canada,"ODB.2013.D4 EFREE","Detailed census data",PRIMARY,15.0,2014
+CAN,Canada,"ODB.2013.D5 EFREE","Detailed government budget",PRIMARY,15.0,2014
+CAN,Canada,"ODB.2013.D9 EFREE","Public transport timetables",PRIMARY,15.0,2014
+CAN,Canada,"ODB.2013.D10 FLICENSE","International trade data",PRIMARY,15.0,2014
+CAN,Canada,"ODB.2013.D1 FLICENSE","Map Data",PRIMARY,15.0,2014
+CAN,Canada,"ODB.2013.D6 FLICENSE","Detailed data on government spend",PRIMARY,0.0,2014
+CAN,Canada,"ODB.2013.D7 FLICENSE","Company register",PRIMARY,0.0,2014
+CAN,Canada,"ODB.2013.D8 FLICENSE",Legislation,PRIMARY,0.0,2014
+CAN,Canada,"ODB.2013.D11 FLICENSE","Health sector performance",PRIMARY,0.0,2014
+CAN,Canada,"ODB.2013.D12 FLICENSE","Primary or secondary education performance data",PRIMARY,0.0,2014
+CAN,Canada,"ODB.2013.D13 FLICENSE","Crime statistics",PRIMARY,15.0,2014
+CAN,Canada,"ODB.2013.D14 FLICENSE","National environment statistics",PRIMARY,15.0,2014
+CAN,Canada,"ODB.2013.D15 FLICENSE","National election results",PRIMARY,15.0,2014
+CAN,Canada,"ODB.2013.D16 FLICENSE","Public Contracts",PRIMARY,15.0,2014
+CAN,Canada,"ODB.2013.D2 FLICENSE","Land ownership data",PRIMARY,15.0,2014
+CAN,Canada,"ODB.2013.D4 FLICENSE","Detailed census data",PRIMARY,15.0,2014
+CAN,Canada,"ODB.2013.D5 FLICENSE","Detailed government budget",PRIMARY,15.0,2014
+CAN,Canada,"ODB.2013.D9 FLICENSE","Public transport timetables",PRIMARY,15.0,2014
+CAN,Canada,"ODB.2013.D10 GUPDATED","International trade data",PRIMARY,10.0,2014
+CAN,Canada,"ODB.2013.D1 GUPDATED","Map Data",PRIMARY,10.0,2014
+CAN,Canada,"ODB.2013.D6 GUPDATED","Detailed data on government spend",PRIMARY,0.0,2014
+CAN,Canada,"ODB.2013.D7 GUPDATED","Company register",PRIMARY,0.0,2014
+CAN,Canada,"ODB.2013.D8 GUPDATED",Legislation,PRIMARY,10.0,2014
+CAN,Canada,"ODB.2013.D11 GUPDATED","Health sector performance",PRIMARY,10.0,2014
+CAN,Canada,"ODB.2013.D12 GUPDATED","Primary or secondary education performance data",PRIMARY,0.0,2014
+CAN,Canada,"ODB.2013.D13 GUPDATED","Crime statistics",PRIMARY,10.0,2014
+CAN,Canada,"ODB.2013.D14 GUPDATED","National environment statistics",PRIMARY,-5.0,2014
+CAN,Canada,"ODB.2013.D15 GUPDATED","National election results",PRIMARY,10.0,2014
+CAN,Canada,"ODB.2013.D16 GUPDATED","Public Contracts",PRIMARY,10.0,2014
+CAN,Canada,"ODB.2013.D2 GUPDATED","Land ownership data",PRIMARY,10.0,2014
+CAN,Canada,"ODB.2013.D4 GUPDATED","Detailed census data",PRIMARY,10.0,2014
+CAN,Canada,"ODB.2013.D5 GUPDATED","Detailed government budget",PRIMARY,-5.0,2014
+CAN,Canada,"ODB.2013.D9 GUPDATED","Public transport timetables",PRIMARY,10.0,2014
+CAN,Canada,"ODB.2013.D10 HSUSTAINABLE","International trade data",PRIMARY,5.0,2014
+CAN,Canada,"ODB.2013.D1 HSUSTAINABLE","Map Data",PRIMARY,5.0,2014
+CAN,Canada,"ODB.2013.D6 HSUSTAINABLE","Detailed data on government spend",PRIMARY,0.0,2014
+CAN,Canada,"ODB.2013.D7 HSUSTAINABLE","Company register",PRIMARY,0.0,2014
+CAN,Canada,"ODB.2013.D8 HSUSTAINABLE",Legislation,PRIMARY,5.0,2014
+CAN,Canada,"ODB.2013.D11 HSUSTAINABLE","Health sector performance",PRIMARY,5.0,2014
+CAN,Canada,"ODB.2013.D12 HSUSTAINABLE","Primary or secondary education performance data",PRIMARY,0.0,2014
+CAN,Canada,"ODB.2013.D13 HSUSTAINABLE","Crime statistics",PRIMARY,5.0,2014
+CAN,Canada,"ODB.2013.D14 HSUSTAINABLE","National environment statistics",PRIMARY,0.0,2014
+CAN,Canada,"ODB.2013.D15 HSUSTAINABLE","National election results",PRIMARY,5.0,2014
+CAN,Canada,"ODB.2013.D16 HSUSTAINABLE","Public Contracts",PRIMARY,5.0,2014
+CAN,Canada,"ODB.2013.D2 HSUSTAINABLE","Land ownership data",PRIMARY,5.0,2014
+CAN,Canada,"ODB.2013.D4 HSUSTAINABLE","Detailed census data",PRIMARY,5.0,2014
+CAN,Canada,"ODB.2013.D5 HSUSTAINABLE","Detailed government budget",PRIMARY,0.0,2014
+CAN,Canada,"ODB.2013.D9 HSUSTAINABLE","Public transport timetables",PRIMARY,5.0,2014
+CAN,Canada,"ODB.2013.D10 IDISCOVERABLE","International trade data",PRIMARY,5.0,2014
+CAN,Canada,"ODB.2013.D1 IDISCOVERABLE","Map Data",PRIMARY,5.0,2014
+CAN,Canada,"ODB.2013.D6 IDISCOVERABLE","Detailed data on government spend",PRIMARY,0.0,2014
+CAN,Canada,"ODB.2013.D7 IDISCOVERABLE","Company register",PRIMARY,0.0,2014
+CAN,Canada,"ODB.2013.D8 IDISCOVERABLE",Legislation,PRIMARY,5.0,2014
+CAN,Canada,"ODB.2013.D11 IDISCOVERABLE","Health sector performance",PRIMARY,5.0,2014
+CAN,Canada,"ODB.2013.D12 IDISCOVERABLE","Primary or secondary education performance data",PRIMARY,0.0,2014
+CAN,Canada,"ODB.2013.D13 IDISCOVERABLE","Crime statistics",PRIMARY,5.0,2014
+CAN,Canada,"ODB.2013.D14 IDISCOVERABLE","National environment statistics",PRIMARY,5.0,2014
+CAN,Canada,"ODB.2013.D15 IDISCOVERABLE","National election results",PRIMARY,5.0,2014
+CAN,Canada,"ODB.2013.D16 IDISCOVERABLE","Public Contracts",PRIMARY,5.0,2014
+CAN,Canada,"ODB.2013.D2 IDISCOVERABLE","Land ownership data",PRIMARY,5.0,2014
+CAN,Canada,"ODB.2013.D4 IDISCOVERABLE","Detailed census data",PRIMARY,5.0,2014
+CAN,Canada,"ODB.2013.D5 IDISCOVERABLE","Detailed government budget",PRIMARY,5.0,2014
+CAN,Canada,"ODB.2013.D9 IDISCOVERABLE","Public transport timetables",PRIMARY,5.0,2014
+CAN,Canada,"ODB.2013.D10 JLINKED","International trade data",PRIMARY,0.0,2014
+CAN,Canada,"ODB.2013.D1 JLINKED","Map Data",PRIMARY,0.0,2014
+CAN,Canada,"ODB.2013.D6 JLINKED","Detailed data on government spend",PRIMARY,0.0,2014
+CAN,Canada,"ODB.2013.D7 JLINKED","Company register",PRIMARY,0.0,2014
+CAN,Canada,"ODB.2013.D8 JLINKED",Legislation,PRIMARY,0.0,2014
+CAN,Canada,"ODB.2013.D11 JLINKED","Health sector performance",PRIMARY,0.0,2014
+CAN,Canada,"ODB.2013.D12 JLINKED","Primary or secondary education performance data",PRIMARY,0.0,2014
+CAN,Canada,"ODB.2013.D13 JLINKED","Crime statistics",PRIMARY,0.0,2014
+CAN,Canada,"ODB.2013.D14 JLINKED","National environment statistics",PRIMARY,0.0,2014
+CAN,Canada,"ODB.2013.D15 JLINKED","National election results",PRIMARY,0.0,2014
+CAN,Canada,"ODB.2013.D16 JLINKED","Public Contracts",PRIMARY,0.0,2014
+CAN,Canada,"ODB.2013.D2 JLINKED","Land ownership data",PRIMARY,0.0,2014
+CAN,Canada,"ODB.2013.D4 JLINKED","Detailed census data",PRIMARY,0.0,2014
+CAN,Canada,"ODB.2013.D5 JLINKED","Detailed government budget",PRIMARY,0.0,2014
+CAN,Canada,"ODB.2013.D9 JLINKED","Public transport timetables",PRIMARY,0.0,2014
+CAN,Canada,ODB.2013.C.INIT,"To what extent is there a well-resourced open government data initiative in the country?",PRIMARY,7.0,2013
+CAN,Canada,ODB.2013.C.RTI,"To what extent does the country have a functioning Right to Information law (RTI) / Freedom of Information (FoI) law?",PRIMARY,7.0,2013
+CAN,Canada,ODB.2013.C.DPL,"To what extent is there a robust legal or regulatory framework for protection of personal data in the country?",PRIMARY,7.0,2013
+CAN,Canada,ODB.2013.C.CSOC,"To what extent are civil society and/or information technology professionals engaging with the government regarding open data?",PRIMARY,8.0,2013
+CAN,Canada,ODB.2013.C.CITY,"To what extent are city, regional and local governments running their own open data initiatives?",PRIMARY,9.0,2013
+CAN,Canada,ODB.2013.C.SUPIN,"To what extent is government directly supporting a culture of innovation with open data through competitions, grants or other support actions?",PRIMARY,3.0,2013
+CAN,Canada,ODB.2013.C.TRAIN,"To what extent is training about open data available for individuals or businesses wishing to increase their skills or build businesses to use (open) data?",PRIMARY,4.0,2013
+CAN,Canada,FH,"Political Freedoms and Civil Liberties",SECONDARY,98.0,2013
+CAN,Canada,UN.OSI,"Government online services index",SECONDARY,0.8889,2013
+CAN,Canada,WEF.GCI.9.02,"Firm-level technology absorption.",SECONDARY,5.448626582,2013
+CAN,Canada,WEF.GITR.8.01,"Importance of ICT to government vision of the future.",SECONDARY,4.248028312,2013
+CAN,Canada,ODB.2013.I.GOV,"To what extent has open data had a noticeable impact on increasing government efficiency and effectiveness?",PRIMARY,4.0,2013
+CAN,Canada,ODB.2013.I.ACCOUNT,"To what extent has open data had a noticeable impact on increasing transparency and accountability in the country?",PRIMARY,4.0,2013
+CAN,Canada,ODB.2013.I.ENV,"To what extent has open data had a noticeable impact on environmental sustainability in the country?",PRIMARY,3.0,2013
+CAN,Canada,ODB.2013.I.INC,"To what extent has open data had a noticeable impact on increasing the inclusion of marginalised groups in policy making and accessing government services?",PRIMARY,0.0,2013
+CAN,Canada,ODB.2013.I.ECON,"To what extent has open data had a noticeable positive impact on the economy?",PRIMARY,3.0,2013
+CAN,Canada,ODB.2013.D1,"Map Data",PRIMARY,95.0,2013
+CAN,Canada,ODB.2013.D2,"Land ownership data",PRIMARY,0.0,2013
+CAN,Canada,ODB.2013.D4,"Detailed census data",PRIMARY,80.0,2013
+CAN,Canada,ODB.2013.D5,"Detailed government budget",PRIMARY,15.0,2013
+CAN,Canada,ODB.2013.D6,"Detailed data on government spend",PRIMARY,95.0,2013
+CAN,Canada,ODB.2013.D7,"Company register",PRIMARY,15.0,2013
+CAN,Canada,ODB.2013.D8,Legislation,PRIMARY,15.0,2013
+CAN,Canada,ODB.2013.D9,"Public transport timetables",PRIMARY,95.0,2013
+CAN,Canada,ODB.2013.D10,"International trade data",PRIMARY,80.0,2013
+CAN,Canada,ODB.2013.D11,"Health sector performance",PRIMARY,45.0,2013
+CAN,Canada,ODB.2013.D12,"Primary or secondary education performance data",PRIMARY,80.0,2013
+CAN,Canada,ODB.2013.D13,"Crime statistics",PRIMARY,80.0,2013
+CAN,Canada,ODB.2013.D14,"National environment statistics",PRIMARY,80.0,2013
+CAN,Canada,ODB.2013.D15,"National election results",PRIMARY,95.0,2013
+CAN,Canada,ODB,"Open Data Barometer",INDEX,58.0,2013
+CAN,Canada,READINESS,Readiness,SUBINDEX,71.0,2013
+CAN,Canada,IMPLEMENTATION,Implementation,SUBINDEX,64.0,2013
+CAN,Canada,IMPACT,"Emerging Impact",SUBINDEX,32.0,2013
+CAN,Canada,GOVERNMENT_ACTION,"Government action",COMPONENT,76.0,2013
+CAN,Canada,REGULATORY_AND_CIVIL,"Citizens and civil rights",COMPONENT,80.0,2013
+CAN,Canada,BUSINESS_AND_ENTREPRENEURSHIP,"Entrepreneurs and business",COMPONENT,58.0,2013
+CAN,Canada,INNOVATION,"Government datasets: Innovation Cluster",COMPONENT,87.5,2013
+CAN,Canada,SOCIAL_POLICY,"Government datasets: Social Policy Cluster",COMPONENT,57.0,2013
+CAN,Canada,ACCOUNTABILITY,"Government datasets: Accountability cluster",COMPONENT,47.0,2013
+CAN,Canada,POLITICAL,"Political impact",COMPONENT,40.0,2013
+CAN,Canada,SOCIAL,"Social impact",COMPONENT,15.0,2013
+CAN,Canada,ECONOMIC,"Economic impact",COMPONENT,40.0,2013
+CAN,Canada,"ODB.2013.D1 ISOPEN","Map Data",PRIMARY,1.0,2013
+CAN,Canada,"ODB.2013.D2 ISOPEN","Land ownership data",PRIMARY,0.0,2013
+CAN,Canada,"ODB.2013.D4 ISOPEN","Detailed census data",PRIMARY,0.0,2013
+CAN,Canada,"ODB.2013.D5 ISOPEN","Detailed government budget",PRIMARY,0.0,2013
+CAN,Canada,"ODB.2013.D7 ISOPEN","Company register",PRIMARY,0.0,2013
+CAN,Canada,"ODB.2013.D8 ISOPEN",Legislation,PRIMARY,0.0,2013
+CAN,Canada,"ODB.2013.D10 ISOPEN","International trade data",PRIMARY,0.0,2013
+CAN,Canada,"ODB.2013.D11 ISOPEN","Health sector performance",PRIMARY,0.0,2013
+CAN,Canada,"ODB.2013.D12 ISOPEN","Primary or secondary education performance data",PRIMARY,0.0,2013
+CAN,Canada,"ODB.2013.D13 ISOPEN","Crime statistics",PRIMARY,0.0,2013
+CAN,Canada,"ODB.2013.D14 ISOPEN","National environment statistics",PRIMARY,0.0,2013
+CAN,Canada,"ODB.2013.D15 ISOPEN","National election results",PRIMARY,1.0,2013
+CAN,Canada,"ODB.2013.D6 ISOPEN","Detailed data on government spend",PRIMARY,1.0,2013
+CAN,Canada,"ODB.2013.D9 ISOPEN","Public transport timetables",PRIMARY,1.0,2013
+CAN,Canada,"ODB.2013.D1 AEXISTS","Map Data",PRIMARY,5.0,2013
+CAN,Canada,"ODB.2013.D2 AEXISTS","Land ownership data",PRIMARY,0.0,2013
+CAN,Canada,"ODB.2013.D4 AEXISTS","Detailed census data",PRIMARY,5.0,2013
+CAN,Canada,"ODB.2013.D5 AEXISTS","Detailed government budget",PRIMARY,5.0,2013
+CAN,Canada,"ODB.2013.D7 AEXISTS","Company register",PRIMARY,5.0,2013
+CAN,Canada,"ODB.2013.D8 AEXISTS",Legislation,PRIMARY,5.0,2013
+CAN,Canada,"ODB.2013.D10 AEXISTS","International trade data",PRIMARY,5.0,2013
+CAN,Canada,"ODB.2013.D11 AEXISTS","Health sector performance",PRIMARY,5.0,2013
+CAN,Canada,"ODB.2013.D12 AEXISTS","Primary or secondary education performance data",PRIMARY,5.0,2013
+CAN,Canada,"ODB.2013.D13 AEXISTS","Crime statistics",PRIMARY,5.0,2013
+CAN,Canada,"ODB.2013.D14 AEXISTS","National environment statistics",PRIMARY,5.0,2013
+CAN,Canada,"ODB.2013.D15 AEXISTS","National election results",PRIMARY,5.0,2013
+CAN,Canada,"ODB.2013.D6 AEXISTS","Detailed data on government spend",PRIMARY,5.0,2013
+CAN,Canada,"ODB.2013.D9 AEXISTS","Public transport timetables",PRIMARY,5.0,2013
+CAN,Canada,"ODB.2013.D1 BAVAILABLE","Map Data",PRIMARY,10.0,2013
+CAN,Canada,"ODB.2013.D2 BAVAILABLE","Land ownership data",PRIMARY,0.0,2013
+CAN,Canada,"ODB.2013.D4 BAVAILABLE","Detailed census data",PRIMARY,10.0,2013
+CAN,Canada,"ODB.2013.D5 BAVAILABLE","Detailed government budget",PRIMARY,10.0,2013
+CAN,Canada,"ODB.2013.D7 BAVAILABLE","Company register",PRIMARY,10.0,2013
+CAN,Canada,"ODB.2013.D8 BAVAILABLE",Legislation,PRIMARY,10.0,2013
+CAN,Canada,"ODB.2013.D10 BAVAILABLE","International trade data",PRIMARY,10.0,2013
+CAN,Canada,"ODB.2013.D11 BAVAILABLE","Health sector performance",PRIMARY,10.0,2013
+CAN,Canada,"ODB.2013.D12 BAVAILABLE","Primary or secondary education performance data",PRIMARY,10.0,2013
+CAN,Canada,"ODB.2013.D13 BAVAILABLE","Crime statistics",PRIMARY,10.0,2013
+CAN,Canada,"ODB.2013.D14 BAVAILABLE","National environment statistics",PRIMARY,10.0,2013
+CAN,Canada,"ODB.2013.D15 BAVAILABLE","National election results",PRIMARY,10.0,2013
+CAN,Canada,"ODB.2013.D6 BAVAILABLE","Detailed data on government spend",PRIMARY,10.0,2013
+CAN,Canada,"ODB.2013.D9 BAVAILABLE","Public transport timetables",PRIMARY,10.0,2013
+CAN,Canada,"ODB.2013.D1 CMACHINEREADABLE","Map Data",PRIMARY,15.0,2013
+CAN,Canada,"ODB.2013.D2 CMACHINEREADABLE","Land ownership data",PRIMARY,0.0,2013
+CAN,Canada,"ODB.2013.D4 CMACHINEREADABLE","Detailed census data",PRIMARY,15.0,2013
+CAN,Canada,"ODB.2013.D5 CMACHINEREADABLE","Detailed government budget",PRIMARY,0.0,2013
+CAN,Canada,"ODB.2013.D7 CMACHINEREADABLE","Company register",PRIMARY,0.0,2013
+CAN,Canada,"ODB.2013.D8 CMACHINEREADABLE",Legislation,PRIMARY,0.0,2013
+CAN,Canada,"ODB.2013.D10 CMACHINEREADABLE","International trade data",PRIMARY,15.0,2013
+CAN,Canada,"ODB.2013.D11 CMACHINEREADABLE","Health sector performance",PRIMARY,15.0,2013
+CAN,Canada,"ODB.2013.D12 CMACHINEREADABLE","Primary or secondary education performance data",PRIMARY,15.0,2013
+CAN,Canada,"ODB.2013.D13 CMACHINEREADABLE","Crime statistics",PRIMARY,15.0,2013
+CAN,Canada,"ODB.2013.D14 CMACHINEREADABLE","National environment statistics",PRIMARY,15.0,2013
+CAN,Canada,"ODB.2013.D15 CMACHINEREADABLE","National election results",PRIMARY,15.0,2013
+CAN,Canada,"ODB.2013.D6 CMACHINEREADABLE","Detailed data on government spend",PRIMARY,15.0,2013
+CAN,Canada,"ODB.2013.D9 CMACHINEREADABLE","Public transport timetables",PRIMARY,15.0,2013
+CAN,Canada,"ODB.2013.D1 DBULK","Map Data",PRIMARY,15.0,2013
+CAN,Canada,"ODB.2013.D2 DBULK","Land ownership data",PRIMARY,0.0,2013
+CAN,Canada,"ODB.2013.D4 DBULK","Detailed census data",PRIMARY,0.0,2013
+CAN,Canada,"ODB.2013.D5 DBULK","Detailed government budget",PRIMARY,0.0,2013
+CAN,Canada,"ODB.2013.D7 DBULK","Company register",PRIMARY,0.0,2013
+CAN,Canada,"ODB.2013.D8 DBULK",Legislation,PRIMARY,0.0,2013
+CAN,Canada,"ODB.2013.D10 DBULK","International trade data",PRIMARY,0.0,2013
+CAN,Canada,"ODB.2013.D11 DBULK","Health sector performance",PRIMARY,0.0,2013
+CAN,Canada,"ODB.2013.D12 DBULK","Primary or secondary education performance data",PRIMARY,0.0,2013
+CAN,Canada,"ODB.2013.D13 DBULK","Crime statistics",PRIMARY,0.0,2013
+CAN,Canada,"ODB.2013.D14 DBULK","National environment statistics",PRIMARY,0.0,2013
+CAN,Canada,"ODB.2013.D15 DBULK","National election results",PRIMARY,15.0,2013
+CAN,Canada,"ODB.2013.D6 DBULK","Detailed data on government spend",PRIMARY,15.0,2013
+CAN,Canada,"ODB.2013.D9 DBULK","Public transport timetables",PRIMARY,15.0,2013
+CAN,Canada,"ODB.2013.D1 EFREE","Map Data",PRIMARY,15.0,2013
+CAN,Canada,"ODB.2013.D2 EFREE","Land ownership data",PRIMARY,0.0,2013
+CAN,Canada,"ODB.2013.D4 EFREE","Detailed census data",PRIMARY,15.0,2013
+CAN,Canada,"ODB.2013.D5 EFREE","Detailed government budget",PRIMARY,0.0,2013
+CAN,Canada,"ODB.2013.D7 EFREE","Company register",PRIMARY,0.0,2013
+CAN,Canada,"ODB.2013.D8 EFREE",Legislation,PRIMARY,0.0,2013
+CAN,Canada,"ODB.2013.D10 EFREE","International trade data",PRIMARY,15.0,2013
+CAN,Canada,"ODB.2013.D11 EFREE","Health sector performance",PRIMARY,0.0,2013
+CAN,Canada,"ODB.2013.D12 EFREE","Primary or secondary education performance data",PRIMARY,15.0,2013
+CAN,Canada,"ODB.2013.D13 EFREE","Crime statistics",PRIMARY,15.0,2013
+CAN,Canada,"ODB.2013.D14 EFREE","National environment statistics",PRIMARY,15.0,2013
+CAN,Canada,"ODB.2013.D15 EFREE","National election results",PRIMARY,15.0,2013
+CAN,Canada,"ODB.2013.D6 EFREE","Detailed data on government spend",PRIMARY,15.0,2013
+CAN,Canada,"ODB.2013.D9 EFREE","Public transport timetables",PRIMARY,15.0,2013
+CAN,Canada,"ODB.2013.D1 FLICENSE","Map Data",PRIMARY,15.0,2013
+CAN,Canada,"ODB.2013.D2 FLICENSE","Land ownership data",PRIMARY,0.0,2013
+CAN,Canada,"ODB.2013.D4 FLICENSE","Detailed census data",PRIMARY,15.0,2013
+CAN,Canada,"ODB.2013.D5 FLICENSE","Detailed government budget",PRIMARY,0.0,2013
+CAN,Canada,"ODB.2013.D7 FLICENSE","Company register",PRIMARY,0.0,2013
+CAN,Canada,"ODB.2013.D8 FLICENSE",Legislation,PRIMARY,0.0,2013
+CAN,Canada,"ODB.2013.D10 FLICENSE","International trade data",PRIMARY,15.0,2013
+CAN,Canada,"ODB.2013.D11 FLICENSE","Health sector performance",PRIMARY,0.0,2013
+CAN,Canada,"ODB.2013.D12 FLICENSE","Primary or secondary education performance data",PRIMARY,15.0,2013
+CAN,Canada,"ODB.2013.D13 FLICENSE","Crime statistics",PRIMARY,15.0,2013
+CAN,Canada,"ODB.2013.D14 FLICENSE","National environment statistics",PRIMARY,15.0,2013
+CAN,Canada,"ODB.2013.D15 FLICENSE","National election results",PRIMARY,15.0,2013
+CAN,Canada,"ODB.2013.D6 FLICENSE","Detailed data on government spend",PRIMARY,15.0,2013
+CAN,Canada,"ODB.2013.D9 FLICENSE","Public transport timetables",PRIMARY,15.0,2013
+CAN,Canada,"ODB.2013.D1 GUPDATED","Map Data",PRIMARY,10.0,2013
+CAN,Canada,"ODB.2013.D2 GUPDATED","Land ownership data",PRIMARY,0.0,2013
+CAN,Canada,"ODB.2013.D4 GUPDATED","Detailed census data",PRIMARY,10.0,2013
+CAN,Canada,"ODB.2013.D5 GUPDATED","Detailed government budget",PRIMARY,0.0,2013
+CAN,Canada,"ODB.2013.D7 GUPDATED","Company register",PRIMARY,0.0,2013
+CAN,Canada,"ODB.2013.D8 GUPDATED",Legislation,PRIMARY,0.0,2013
+CAN,Canada,"ODB.2013.D10 GUPDATED","International trade data",PRIMARY,10.0,2013
+CAN,Canada,"ODB.2013.D11 GUPDATED","Health sector performance",PRIMARY,10.0,2013
+CAN,Canada,"ODB.2013.D12 GUPDATED","Primary or secondary education performance data",PRIMARY,10.0,2013
+CAN,Canada,"ODB.2013.D13 GUPDATED","Crime statistics",PRIMARY,10.0,2013
+CAN,Canada,"ODB.2013.D14 GUPDATED","National environment statistics",PRIMARY,10.0,2013
+CAN,Canada,"ODB.2013.D15 GUPDATED","National election results",PRIMARY,10.0,2013
+CAN,Canada,"ODB.2013.D6 GUPDATED","Detailed data on government spend",PRIMARY,10.0,2013
+CAN,Canada,"ODB.2013.D9 GUPDATED","Public transport timetables",PRIMARY,10.0,2013
+CAN,Canada,"ODB.2013.D1 HSUSTAINABLE","Map Data",PRIMARY,5.0,2013
+CAN,Canada,"ODB.2013.D2 HSUSTAINABLE","Land ownership data",PRIMARY,0.0,2013
+CAN,Canada,"ODB.2013.D4 HSUSTAINABLE","Detailed census data",PRIMARY,5.0,2013
+CAN,Canada,"ODB.2013.D5 HSUSTAINABLE","Detailed government budget",PRIMARY,0.0,2013
+CAN,Canada,"ODB.2013.D7 HSUSTAINABLE","Company register",PRIMARY,0.0,2013
+CAN,Canada,"ODB.2013.D8 HSUSTAINABLE",Legislation,PRIMARY,0.0,2013
+CAN,Canada,"ODB.2013.D10 HSUSTAINABLE","International trade data",PRIMARY,5.0,2013
+CAN,Canada,"ODB.2013.D11 HSUSTAINABLE","Health sector performance",PRIMARY,0.0,2013
+CAN,Canada,"ODB.2013.D12 HSUSTAINABLE","Primary or secondary education performance data",PRIMARY,5.0,2013
+CAN,Canada,"ODB.2013.D13 HSUSTAINABLE","Crime statistics",PRIMARY,5.0,2013
+CAN,Canada,"ODB.2013.D14 HSUSTAINABLE","National environment statistics",PRIMARY,5.0,2013
+CAN,Canada,"ODB.2013.D15 HSUSTAINABLE","National election results",PRIMARY,5.0,2013
+CAN,Canada,"ODB.2013.D6 HSUSTAINABLE","Detailed data on government spend",PRIMARY,5.0,2013
+CAN,Canada,"ODB.2013.D9 HSUSTAINABLE","Public transport timetables",PRIMARY,5.0,2013
+CAN,Canada,"ODB.2013.D1 IDISCOVERABLE","Map Data",PRIMARY,5.0,2013
+CAN,Canada,"ODB.2013.D2 IDISCOVERABLE","Land ownership data",PRIMARY,0.0,2013
+CAN,Canada,"ODB.2013.D4 IDISCOVERABLE","Detailed census data",PRIMARY,5.0,2013
+CAN,Canada,"ODB.2013.D5 IDISCOVERABLE","Detailed government budget",PRIMARY,0.0,2013
+CAN,Canada,"ODB.2013.D7 IDISCOVERABLE","Company register",PRIMARY,0.0,2013
+CAN,Canada,"ODB.2013.D8 IDISCOVERABLE",Legislation,PRIMARY,0.0,2013
+CAN,Canada,"ODB.2013.D10 IDISCOVERABLE","International trade data",PRIMARY,5.0,2013
+CAN,Canada,"ODB.2013.D11 IDISCOVERABLE","Health sector performance",PRIMARY,5.0,2013
+CAN,Canada,"ODB.2013.D12 IDISCOVERABLE","Primary or secondary education performance data",PRIMARY,5.0,2013
+CAN,Canada,"ODB.2013.D13 IDISCOVERABLE","Crime statistics",PRIMARY,5.0,2013
+CAN,Canada,"ODB.2013.D14 IDISCOVERABLE","National environment statistics",PRIMARY,5.0,2013
+CAN,Canada,"ODB.2013.D15 IDISCOVERABLE","National election results",PRIMARY,5.0,2013
+CAN,Canada,"ODB.2013.D6 IDISCOVERABLE","Detailed data on government spend",PRIMARY,5.0,2013
+CAN,Canada,"ODB.2013.D9 IDISCOVERABLE","Public transport timetables",PRIMARY,5.0,2013
+CAN,Canada,"ODB.2013.D1 JLINKED","Map Data",PRIMARY,0.0,2013
+CAN,Canada,"ODB.2013.D2 JLINKED","Land ownership data",PRIMARY,0.0,2013
+CAN,Canada,"ODB.2013.D4 JLINKED","Detailed census data",PRIMARY,0.0,2013
+CAN,Canada,"ODB.2013.D5 JLINKED","Detailed government budget",PRIMARY,0.0,2013
+CAN,Canada,"ODB.2013.D7 JLINKED","Company register",PRIMARY,0.0,2013
+CAN,Canada,"ODB.2013.D8 JLINKED",Legislation,PRIMARY,0.0,2013
+CAN,Canada,"ODB.2013.D10 JLINKED","International trade data",PRIMARY,0.0,2013
+CAN,Canada,"ODB.2013.D11 JLINKED","Health sector performance",PRIMARY,0.0,2013
+CAN,Canada,"ODB.2013.D12 JLINKED","Primary or secondary education performance data",PRIMARY,0.0,2013
+CAN,Canada,"ODB.2013.D13 JLINKED","Crime statistics",PRIMARY,0.0,2013
+CAN,Canada,"ODB.2013.D14 JLINKED","National environment statistics",PRIMARY,0.0,2013
+CAN,Canada,"ODB.2013.D15 JLINKED","National election results",PRIMARY,0.0,2013
+CAN,Canada,"ODB.2013.D6 JLINKED","Detailed data on government spend",PRIMARY,0.0,2013
+CAN,Canada,"ODB.2013.D9 JLINKED","Public transport timetables",PRIMARY,0.0,2013

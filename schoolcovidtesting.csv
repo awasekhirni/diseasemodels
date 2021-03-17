@@ -1,0 +1,45 @@
+start_date,end_date,reported_date,school_board_name,school_board_id,schools_invited_to_participate,new_tests_conducted,new_cases_identified,cumulative_conducted_tests,cumulative_cases_identified
+2021-02-17,2021-02-23,2021-02-26,Hamilton-Wentworth Catholic District School Board,B67121,1,60,0,78,0
+2021-02-17,2021-02-23,2021-02-26,Hamilton-Wentworth District School Board,B66141,0,0,0,68,0
+2021-02-17,2021-02-23,2021-02-26,Ottawa Region,R00002,28,1004,0,3440,20
+2021-02-17,2021-02-23,2021-02-26,Peel Region,R00003,56,331,5,424,6
+2021-02-17,2021-02-23,2021-02-26,Sudbury Catholic District School Board,B29033,0,0,0,274,0
+2021-02-17,2021-02-23,2021-02-26,Toronto Region,R00001,80,1427,17,2344,28
+2021-02-17,2021-02-23,2021-02-26,York Region District School Board,B66095,5,31,0,31,0
+2021-02-24,2021-03-02,2021-03-05,Dufferin-Peel Catholic District School Board,B67083,151,112,0,112,0
+2021-02-24,2021-03-02,2021-03-05,Durham District School Board,B66060,32,157,0,157,0
+2021-02-24,2021-03-02,2021-03-05,Halton District School Board,B66133,8,151,2,151,2
+2021-02-24,2021-03-02,2021-03-05,Hamilton-Wentworth Catholic District School Board,B67121,3,114,0,192,0
+2021-02-24,2021-03-02,2021-03-05,Hamilton-Wentworth District School Board,B66141,2,300,0,368,0
+2021-02-24,2021-03-02,2021-03-05,Ottawa Region,R00002,25,1211,1,4651,21
+2021-02-24,2021-03-02,2021-03-05,Peel District School Board,B66125,246,459,0,459,0
+2021-02-24,2021-03-02,2021-03-05,Peel Region,R00003,0,0,0,424,6
+2021-02-24,2021-03-02,2021-03-05,Rainbow District School Board,B28029,5,157,0,157,0
+2021-02-24,2021-03-02,2021-03-05,Sudbury Catholic District School Board,B29033,4,136,0,410,0
+2021-02-24,2021-03-02,2021-03-05,Toronto Region,R00001,84,416,9,2760,37
+2021-02-24,2021-03-02,2021-03-05,York Catholic District School Board,B67075,1,11,0,11,0
+2021-02-24,2021-03-02,2021-03-05,York Region District School Board,B66095,2,70,0,101,0
+2021-03-03,2021-03-09,2021-03-12,District School Board of Niagara,B66150,1,36,3,36,3
+2021-03-03,2021-03-09,2021-03-12,Dufferin-Peel Catholic District School Board,B67083,32,214,7,326,7
+2021-03-03,2021-03-09,2021-03-12,Durham Catholic District School Board,B67105,18,116,0,116,0
+2021-03-03,2021-03-09,2021-03-12,Durham District School Board,B66060,11,74,0,231,0
+2021-03-03,2021-03-09,2021-03-12,Halton Catholic District School Board,B67113,11,171,2,171,2
+2021-03-03,2021-03-09,2021-03-12,Halton District School Board,B66133,24,297,0,448,2
+2021-03-03,2021-03-09,2021-03-12,Hamilton-Wentworth Catholic District School Board,B67121,3,100,0,292,0
+2021-03-03,2021-03-09,2021-03-12,Hamilton-Wentworth District School Board,B66141,1,102,0,470,0
+2021-03-03,2021-03-09,2021-03-12,Kawartha Pine Ridge District School Board,B66079,7,205,4,205,4
+2021-03-03,2021-03-09,2021-03-12,London District Catholic School Board,B67032,1,37,0,37,0
+2021-03-03,2021-03-09,2021-03-12,Ottawa Region,R00002,27,1418,0,6069,21
+2021-03-03,2021-03-09,2021-03-12,Peel District School Board,B66125,63,901,4,1360,4
+2021-03-03,2021-03-09,2021-03-12,Peel Region,R00003,0,0,0,424,6
+2021-03-03,2021-03-09,2021-03-12,Peterborough Victoria Northumberland and Clarington Catholic District School Board,B67067,2,89,1,89,1
+2021-03-03,2021-03-09,2021-03-12,Rainbow District School Board,B28029,9,493,0,650,0
+2021-03-03,2021-03-09,2021-03-12,Renfrew County District School Board,B66214,1,126,0,126,0
+2021-03-03,2021-03-09,2021-03-12,Simcoe County District School Board,B66109,5,168,0,168,0
+2021-03-03,2021-03-09,2021-03-12,Simcoe Muskoka Catholic District School Board,B67091,6,91,0,91,0
+2021-03-03,2021-03-09,2021-03-12,Sudbury Catholic District School Board,B29033,32,105,0,515,0
+2021-03-03,2021-03-09,2021-03-12,Toronto Region,R00001,133,1647,18,4407,55
+2021-03-03,2021-03-09,2021-03-12,Trillium Lakelands District School Board,B66087,6,69,0,69,0
+2021-03-03,2021-03-09,2021-03-12,Waterloo Catholic District School Board,B67148,10,91,0,91,0
+2021-03-03,2021-03-09,2021-03-12,York Catholic District School Board,B67075,4,63,0,74,0
+2021-03-03,2021-03-09,2021-03-12,York Region District School Board,B66095,6,262,0,363,0
