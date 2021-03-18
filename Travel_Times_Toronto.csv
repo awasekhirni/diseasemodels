@@ -1,0 +1,142 @@
+"Origin Movement ID","Origin Display Name","Destination Movement ID","Destination Display Name","Date Range","Mean Travel Time (Seconds)","Range - Lower Bound Travel Time (Seconds)","Range - Upper Bound Travel Time (Seconds)"
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","1","York University Busway, York University Heights, North York, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1870,1405,2487
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","2","0 Hambly Avenue, The Beach, Old Toronto, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",886,635,1235
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","3","3400 Kingston Road, Scarborough Village, Scarborough, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",2090,1649,2648
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","4","100 Dunn Avenue, Parkdale, Old Toronto, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",815,530,1252
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","5","0 Carlaw Avenue, Leslieville, Old Toronto, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",540,372,782
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","6","0 Acheson Boulevard, Port Union, Scarborough, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1731,1333,2246
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","7","2800 Kingston Road, Cliffcrest, Scarborough, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1843,1428,2377
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","8","0 Guildwood Parkway, Guildwood, Scarborough, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",2261,1813,2819
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","9","0 Avenue of the Island, Old Toronto, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",738,481,1130
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","10","4200 Lawrence Avenue East, West Hill, Scarborough, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",2042,1584,2631
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","11","400 Grandstand Entrance Road, Rexdale, Etobicoke, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1612,1158,2243
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","12","100 Isabella Street, Downtown, Old Toronto, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",380,229,630
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","13","0 Rangoon Road, Eringate - Centennial - West Deane, Etobicoke, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1451,1039,2024
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","14","0 Duncairn Road, Don Mills, North York, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1017,717,1440
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","15","0 McIntosh Street, Cliffside, Scarborough, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1458,1115,1906
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","16","300 Old Finch Avenue, Rouge, Scarborough, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1811,1384,2368
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","17","100 Fairlawn Avenue, Bedford Park, Old Toronto, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1272,943,1714
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","18","100 Lascelles Boulevard, Midtown Toronto, Old Toronto, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",840,601,1173
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","19","0 Station Road, Mimico, Etobicoke, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",974,646,1467
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","20","100 Augusta Avenue, Downtown, Old Toronto, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",245,96,625
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","21","0 Norwood Road, Upper Beaches, Old Toronto, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1127,846,1501
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","22","0 Pondsview Drive, Pleasant View, North York, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1305,943,1804
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","23","500 Manning Avenue, Palmerston, Old Toronto, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",560,370,846
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","24","0 Brushwood Court, Parkwoods - Donalda, North York, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1138,810,1597
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","25","0 Dolly Varden Boulevard, Woburn, Scarborough, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1525,1151,2019
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","26","0 Balmoral Avenue, Midtown Toronto, Old Toronto, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",526,353,783
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","27","0 Eaton Avenue, Riverdale, Old Toronto, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",953,676,1342
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","28","0 Liscombe Road, Rustic, North York, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1856,1387,2482
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","29","0 Massey Square, Old East York, East York, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1332,993,1785
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","30","0 Carlton Street, Downtown, Old Toronto, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",181,84,385
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","31","100 Wareside Road, Etobicoke West Mall, Etobicoke, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1327,950,1852
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","32","1000 Dundas Street West, Trinity - Bellwoods, Old Toronto, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",597,413,862
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","33","0 Lappin Avenue, Wallace Emerson, Old Toronto, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",895,612,1308
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","34","0 Ashbury Avenue, Oakwood Village, York, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1153,847,1568
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","35","100 Rockwell Avenue, Earlscourt, Old Toronto, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1290,939,1772
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","36","300 Horsham Avenue, Willowdale, North York, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1746,1340,2274
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","37","100 Eighth Street, New Toronto, Etobicoke, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1410,990,2006
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","38","200 Lumsden Avenue, Woodbine - Lumsden, East York, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1143,846,1544
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","39","100 Glengrove Avenue West, Midtown Toronto, Old Toronto, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1074,782,1473
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","40","0 Densley Avenue, Brookhaven - Amesbury, North York, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1768,1356,2305
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","41","200 Saint Clarens Avenue, Brockton Village, Old Toronto, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",918,646,1302
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","42","0 Erie Street, Maple Leaf, North York, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1864,1370,2534
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","43","1700 Gerrard Street East, Beach Hill, Old Toronto, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",966,721,1293
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","44","200 Johnston Avenue, Lansing, North York, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1555,1184,2041
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","45","0 Apex Road, Yorkdale, North York, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1487,1087,2033
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","46","Mimico Creek Trail, Etobicoke, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1026,692,1520
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","47","0 Navenby Crescent, Humber Summit, North York, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",2026,1535,2672
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","48","0 Grenoble Drive, Flemingdon Park, North York, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",893,644,1237
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","49","300 Bay Mills Boulevard, Tam O'Shanter, Scarborough, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1643,1159,2328
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","50","0 Ionview Road, Ionview, Scarborough, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1769,1338,2338
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","51","0 Allcroft Drive, Rexdale, Etobicoke, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",2227,1660,2986
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","52","0 West Toronto Street, The Junction, York, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1293,928,1800
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","53","100 Thorncliffe Park Drive, Thorncliffe Park, East York, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1192,861,1648
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","54","500 Mortimer Avenue, Woodbine Heights, East York, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1061,776,1449
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","55","0 Strathearn Road, Midtown Toronto, York, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1009,698,1457
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","56","5300 Dundas Street West, Islington - City Centre West, Etobicoke, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1185,821,1709
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","57","0 Chieftain Crescent, St. Andrew - Windfields, North York, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1615,1165,2237
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","58","0 Habitant Drive, Emery, North York, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1947,1457,2600
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","59","0 Cosburn Avenue, Old East York, East York, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",654,475,898
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","60","0 Leagrove Crescent, Clairlea, Scarborough, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1505,1131,2001
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","61","200 Linden Avenue, Kennedy Park, Scarborough, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1779,1375,2301
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","62","0 Nairn Avenue, Earlscourt, York, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1083,784,1495
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","63","0 Abinger Crescent, Princess - Rosethorn, Etobicoke, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1657,1180,2325
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","64","500 Spadina Road, Midtown Toronto, Old Toronto, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",768,515,1144
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","65","0 Sparkhall Avenue, Riverdale, Old Toronto, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",552,392,776
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","66","600 Roselawn Avenue, Midtown Toronto, Old Toronto, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1183,845,1654
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","67","100 Donald Avenue, Silverthorn, York, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1533,1150,2043
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","68","100 Eddystone Avenue, Jane and Finch, North York, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1894,1435,2498
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","69","100 Torbrick Road, East Danforth, Old Toronto, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",823,597,1133
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","70","1700 Eglinton Avenue East, North York, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1256,872,1807
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","71","0 Corwin Crescent, Wilson Heights, North York, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1546,1142,2092
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","72","Finch Corridor Recreational Trail, Newtonbrook, North York, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1950,1514,2510
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","73","0 Maple Branch Path, Kingsview Village, Etobicoke, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1614,1191,2186
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","74","0 Beardmore Crescent, Newtonbrook, North York, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1788,1358,2353
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","75","0 Glenfield Crescent, Woodbine Gardens, East York, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",845,604,1181
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","76","0 Evelyn Avenue, High Park North, Old Toronto, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1169,821,1663
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","77","0 Four Oaks Gate, Old East York, East York, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",767,555,1058
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","78","200 Russell Hill Road, Midtown Toronto, Old Toronto, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",598,390,914
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","79","0 Queen Marys Drive, The Kingsway, Etobicoke, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1383,954,2004
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","80","500 Windermere Avenue, Runnymede, Old Toronto, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1275,877,1853
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","81","100 Parkway Forest Drive, Henry Farm, North York, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1237,893,1712
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","82","100 Hazelton Avenue, Midtown Toronto, Old Toronto, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",307,119,789
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","83","0 Chudleigh Road, Fairbank, York, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1346,1011,1791
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","84","0 Fabian Place, Humber Heights - Westmount, Etobicoke, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1834,1329,2529
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","85","100 Sorauren Avenue, Parkdale, Old Toronto, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1012,712,1437
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","86","Wyatt Avenue, Downtown, Old Toronto, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",466,321,674
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","87","100 Saint George Street, University, Old Toronto, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",234,101,537
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","88","0 Loganberry Crescent, Hillcrest Village, North York, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1424,1020,1987
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","89","0 Emmett Avenue, Mount Dennis, York, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1615,1194,2184
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","90","1400 Kennedy Road, Dorset Park, Scarborough, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1387,1028,1871
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","91","0 Darlingbrook Crescent, Edenbridge - Humber Valley, Etobicoke, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1633,1167,2283
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","92","300 Connaught Avenue, Newtonbrook, North York, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1971,1532,2534
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","93","0 East Liberty Street, Liberty Village, Old Toronto, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",653,419,1017
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","94","400 Todd Baylis Boulevard, Beechborough - Greenbrook, North York, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1650,1257,2164
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","95","200 Ellis Avenue, Swansea, Old Toronto, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1028,689,1532
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","96","400 Jones Avenue, Riverdale, Old Toronto, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",790,570,1093
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","97","0 Calverley Trail, Highland Creek, Scarborough, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1649,1291,2105
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","98","5000 Finch Avenue East, Agincourt, Scarborough, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1982,1461,2688
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","99","100 Newport Avenue, Oakridge, Scarborough, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1437,1100,1876
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","100","0 Scholfield Avenue, Midtown Toronto, Old Toronto, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",425,199,903
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","101","1900 Lawrence Avenue East, Wexford, Scarborough, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1325,967,1813
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","102","2500 Midland Avenue, Agincourt, Scarborough, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1726,1240,2401
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","103","0 Trudelle Street, Eglinton East, Scarborough, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1973,1535,2534
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","104","0 Briarglen Court, Bridlewood, Scarborough, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1734,1237,2430
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","105","0 Cove Drive, Rexdale, Etobicoke, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",2046,1495,2798
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","106","0 Ridgevale Drive, Englemount - Lawrence, North York, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1426,1040,1954
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","107","100 Wilmington Avenue, Bathurst Manor, North York, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1744,1334,2279
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","108","400 Rimilton Avenue, Alderwood, Etobicoke, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1172,821,1671
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","109","1200 Brimley Road, Bendale, Scarborough, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1468,1086,1982
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","110","0 Genthorn Avenue, Rexdale, Etobicoke, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1948,1456,2604
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","111","100 Garratt Boulevard, Downsview, North York, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1715,1278,2300
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","112","0 Raymond Avenue, Lambton Baby Point, York, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1194,809,1761
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",218,104,455
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","114","0 Secroft Crescent, Black Creek, North York, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1955,1518,2517
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","115","200 Princess Avenue, Willowdale, North York, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1517,1145,2009
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","116","0 Silverstone Drive, Rexdale, Etobicoke, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",2367,1805,3102
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","117","300 Passmore Avenue, Armdale, Scarborough, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",2085,1551,2802
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","118","Yen Lane, Downtown, Old Toronto, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",409,255,654
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","119","0 Forman Avenue, Midtown Toronto, Old Toronto, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",815,581,1141
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","120","0 Belsize Drive, Midtown Toronto, Old Toronto, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",850,612,1180
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","121","0 Wallasey Avenue, Humberlea, North York, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1834,1351,2488
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","122","0 Playter Boulevard, The Danforth, Old Toronto, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",579,415,807
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","123","0 Callowhill Drive, Richview, Etobicoke, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1537,1114,2119
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","124","0 Tally Lane, Bayview Village, North York, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1350,1002,1817
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","125","300 Brooke Avenue, Nortown, North York, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1300,946,1785
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","126","0 Goodview Road, Don Valley Village, North York, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1335,949,1876
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","127","400 Rockcliffe Boulevard, Rockcliffe - Smythe, York, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1464,1066,2008
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","128","200 Queen Street East, Downtown, Old Toronto, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",335,213,525
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","129","0 Braemore Gardens, Midtown Toronto, Old Toronto, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",828,579,1183
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","130","400 Lawrence Avenue East, Scarborough, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1302,967,1752
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","131","0 Macdonald Avenue, Weston, York, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1806,1351,2412
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","132","100 Gladstone Avenue, Little Portugal, Old Toronto, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",861,623,1188
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","133","0 Ash Crescent, Long Branch, Etobicoke, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1565,1096,2233
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","134","100 Wedgewood Drive, Newtonbrook, North York, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1866,1407,2473
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","135","100 Mammoth Hall Trail, Malvern, Scarborough, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1746,1301,2341
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","136","200 Mill Road, Markland Wood, Etobicoke, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1278,902,1810
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","137","0 Treerun Avenue, Milliken, Scarborough, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1696,1270,2263
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","138","0 Livonia Place, Morningside, Scarborough, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1545,1197,1993
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","139","0 Rolph Road, Leaside, East York, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",868,606,1242
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","140","900 York Beltline Trail, Briar Hill - Belgravia, York, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",1385,1037,1849
+"113","Saint Basil Lane, Bay Cloverhill, Old Toronto, Toronto","141","Water's Edge Promenade, Downtown, Old Toronto, Toronto","2020-3-1 - 2020-3-31, Every day, Daily Average",326,150,707
