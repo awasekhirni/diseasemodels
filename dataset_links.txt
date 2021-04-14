@@ -1,0 +1,12 @@
+https://github.com/nextstrain/ncov 
+https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide
+https://www.fcc.gov/staff-block-estimates
+Alchol consumption pre and post-covid19 by post-code USA and Canada 
+https://www.census.gov/
+https://ec.europa.eu/eurostat/web/housing-price-statistics/data/database
+https://www.worldometers.info/coronavirus/
+https://3dprint.nih.gov/discover/3DPX-012867
+https://docs.google.com/spreadsheets/d/1CYmIiNDeBrUcVyazo21jCXyE4eemE1hmc71jCOnoGW8/edit#gid=796552815
+https://public.kelp.app/id/s_1F4XtYETsmH00iXy7XjIN4
+https://github.com/ActiveConclusion/COVID19_mobility
+https://github.com/sociepy/covid19-vaccination-subnational
