@@ -1,0 +1,101 @@
+ 		State	Population 2010	2019 Population
+1	New York City	New York	 8,175,133 	 8,419,316 
+2	Los Angeles	California	 3,792,621 	 3,966,936 
+3	Chicago	Illinois	 2,695,598 	 2,709,534 
+4	Houston	Texas	 2,099,451 	 2,310,432 
+5	Philadelphia	Pennsylvania	 1,526,006 	 1,579,075 
+6	Phoenix	Arizona	 1,445,632 	 1,633,017 
+7	San Antonio	Texas	 1,327,407 	 1,508,083 
+8	San Diego	California	 1,307,402 	 1,409,573 
+9	Dallas	Texas	 1,197,816 	 1,330,612 
+10	San Jose	California	 945,942 	 1,027,690 
+11	Jacksonville	Florida	 821,784 	 890,467 
+12	San Francisco	California	 805,235 	 874,961 
+13	Austin	Texas	 790,390 	 950,807 
+14	Columbus	Ohio	 787,033 	 878,553 
+15	Fort Worth	Texas	 741,206 	 874,401 
+16	Charlotte	North Carolina	 731,424 	 857,425 
+17	Detroit	Michigan	 713,777 	 674,841 
+18	Washington	District of Columbia	 672,391 	 692,683 
+19	El Paso	Texas	 649,121 	 679,813 
+20	Memphis	Tennessee	 646,889 	 651,932 
+21	Baltimore	Maryland	 620,961 	 609,032 
+22	Boston	Massachusetts	 617,594 	 684,379 
+23	Seattle	Washington	 608,660 	 724,305 
+24	Nashville-Davidson	Tennessee	 601,222 	 663,750 
+25	Denver	Colorado	 600,158 	 705,576
+26	Milwaukee	Wisconsin	 594,833 	 594,548 
+27	Portland	Oregon	 583,776 	 645,291 
+28	Las Vegas	Nevada	 583,756 	 634,773 
+29	Oklahoma City	Oklahoma	 579,999 	 643,692 
+30	Albuquerque	New Mexico	 545,852 	 559,374 
+31	Tucson	Arizona	 520,116 	 541,482 
+32	Fresno	California	 494,665 	 525,010 
+33	Sacramento	California	 466,488 	 500,930 
+34	Long Beach	California	 462,257 	 466,776 
+35	Kansas City	Missouri	 459,787 	 486,404 
+36	Mesa	Arizona	 439,041 	 499,720 
+37	Atlanta	Georgia	 420,003 	 488,800 
+38	Colorado Springs	Colorado	 416,427 	 464,871 
+39	Omaha	Nebraska	 408,958 	 475,862 
+40	Raleigh	North Carolina	 403,892 	 464,485 
+41	Miami	Florida	 399,457 	 454,279 
+42	Cleveland	Ohio	 396,815 	 385,282 
+43	Tulsa	Oklahoma	 391,906 	 402,324 
+44	Oakland	California	 390,724 	 425,097 
+45	Minneapolis	Minnesota	 382,578 	 420,324 
+46	Wichita	Kansas	 382,368 	 389,877 
+47	Arlington	Texas	 365,438 	 395,477 
+48	Bakersfield	California	 347,483 	 377,917 
+49	New Orleans	Louisiana	 343,829 	 390,845 
+50	Urban Honolulu CDP	Hawaii	 337,256 	 348,985 
+51	Anaheim	California	 336,265 	 349,964 
+52	Tampa	Florida	 335,709 	 387,916 
+53	Aurora	Colorado	 325,078 	 369,111 
+54	Santa Ana	California	 324,528 	 332,794 
+55	St Louis	Missouri	 319,294 	 308,174 
+56	Pittsburgh	Pennsylvania	 305,704 	 302,205 
+57	Corpus Christi	Texas	 305,215 	 325,780 
+58	Riverside	California	 303,871 	 326,414 
+59	Cincinnati	Ohio	 296,943 	 301,394 
+60	Lexington-Fayette urban county	Kentucky	 295,803 	 320,601 
+61	Anchorage	Alaska	 291,826 	 293,531 
+62	Stockton	California	 291,707 	 309,228 
+63	Toledo	Ohio	 287,208 	 276,614 
+64	St Paul	Minnesota	 285,068 	 304,547 
+65	Newark	New Jersey	 277,140 	 281,054 
+66	Greensboro	North Carolina	 269,666 	 291,303 
+67	Buffalo	New York	 261,310 	 256,480 
+68	Plano	Texas	 259,841 	 287,064 
+69	Lincoln	Nebraska	 258,379 	 283,839 
+70	Henderson	Nevada	 257,729 	 300,116 
+71	Fort Wayne	Indiana	 253,691 	 265,752 
+72	Jersey City	New Jersey	 247,597 	 261,940 
+73	St Petersburg	Florida	 244,769 	 261,338 
+74	Chula Vista	California	 243,916 	 268,920 
+75	Norfolk	Virginia	 242,803 	 244,601 
+76	Orlando	Florida	 238,300 	 280,832 
+77	Chandler	Arizona	 236,123 	 252,692 
+78	Laredo	Texas	 236,091 	 259,151 
+79	Madison	Wisconsin	 233,209 	 254,977 
+80	Winston-Salem	North Carolina	 229,617 	 244,115 
+81	Lubbock	Texas	 229,573 	 253,851 
+82	Baton Rouge	Louisiana	 229,493 	 224,149 
+83	Durham	North Carolina	 228,330 	 269,702 
+84	Garland	Texas	 226,876 	 238,418 
+85	Glendale	Arizona	 226,721 	 247,813 
+86	Reno	Nevada	 225,221 	 246,500 
+87	Hialeah	Florida	 224,669 	 234,539 
+88	Paradise CDP	Nevada	 223,167 	 235,087 
+89	Chesapeake	Virginia	 222,209 	 239,982 
+90	Scottsdale	Arizona	 217,385 	 250,602 
+91	North Las Vegas	Nevada	 216,961 	 241,369 
+92	Irving	Texas	 216,290 	 239,783 
+93	Fremont	California	 214,089 	 235,740 
+94	Irvine	California	 212,375 	 273,157 
+95	Birmingham	Alabama	 212,237 	 212,297 
+96	Rochester	New York	 210,565 	 206,848 
+97	San Bernardino	California	 209,924 	 216,089 
+98	Spokane	Washington	 208,916 	 217,353 
+99	Gilbert	Arizona	 208,453 	 243,254 
+100	Arlington CDP	Virginia	 207,627 	 233,464 
