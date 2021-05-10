@@ -1,0 +1,73 @@
+{
+  'country': '',
+  'province': '',
+  'municipal_adminstrative_division': '',
+  'quarantineefficiency': {
+    'populationdensity': '',
+    'local_productionof_covid19tests': '',
+    'publically_available_planfor_covid-19': '',
+    'number_of_covid-19_tests_conducted_per_day': '',
+    'covid-specific_training_courses_for_doctors_and_nurses': '',
+    'length_of_quarantine': '',
+    'number_of_cases_per_day': '',
+    'number_of_active_cases': ''
+  },
+  governmentefficiency: {
+    'quantityoflawenforcementofficers': '',
+    'quantityofsurveillancecameras': '',
+    'government_startups_cooperations': '',
+    'facerecognition_technology_usage_for_surveillance': '',
+    'mobiletracking(tracking_of_populations_mobile_phones)in_citys_surveillance__practices': '',
+    'civic_resistance': '',
+    'smartphone_penetration': '',
+    'internet_penetration': '',
+    'government_effectiveness': '',
+    'functioning_of_government': '',
+    'e-government_development_index': '',
+    'trust_in_government': '',
+    'trust_in_media': '',
+    'democracy_index': '',
+    'regional_corruption_index_score': ''
+  },
+  'economy_resilience': {
+    'stock_market_year_to_date': '',
+    'stock_market_contraction': '',
+    'change_in_credit_agency_rating': '',
+    'fines_for_violating_the_quarantine': '',
+    'tax_reliefs': '',
+    'city_government_emergency_response_mechanism_for_engagement_with_the_private_sector': '',
+    'economy_rescure_package': '',
+    'economic_support_to_citizens': '',
+    'income_support_during_the_covid-19_pandemic': '',
+    'average_economic_support_to_sme': '',
+    'daily_living_support_for_quarantine_and_isolated': '',
+    'human_development_index(hdi)_ranking': '',
+    'number_of_days_in_lockdown': ''
+  },
+  'healthcare_management': {
+    'infection_fatality_ratio': '',
+    'covid_mortality_rate': '',
+    'proportional_covid_mortality_rate': '',
+    'health_expenditure': '',
+    'current_health_expenditure_per_capita': '',
+    'employment_ai_technologies_and_techniques_in_hospitals': '',
+    'number_of_nurses': '',
+    'number_of_doctors': '',
+    'number_of_hospital_beds': '',
+    'utilizing_of_electronic_health_records': '',
+    'online_diagnostic_tools_usage': ''
+  },
+  'vaccination_rate': {
+    'vaccination_at_home': '',
+    'drive_through_covid_vaccination_service': '',
+    'number_of_people_vaccinated_per_day': '',
+    'level_of_vaccine_confidence_by_public': '',
+    'covid-19_vaccination_policy': '',
+    'national_covid-19_vaccination_strategy': '',
+    'local_vaccine_development(attempts)': '',
+    'number_of_vaccines_options_available_on_the_market': '',
+    'vaccine_doses_administered_per_100_people': '',
+    'national_laboratories_available_for_covid-19_testing': '',
+    'ai/ml_healthcare_initiatives_related_to_covid-19': ''
+  }
+}
